@@ -48,14 +48,15 @@ def compute_distance(hierarchy, offset=0):
     # so that the deeper the siblings, the more similar.
     
     # Difference between each level's siblings must be 2 (e.g. 11, 9, 7, etc.), 
-    # to account for similarity between parents and children (so children are 
+    # to account for similarity between parents and children (so children are more
+    # similar to parents than to uncles
     
-    # From leaves, to compute the similarity to the rest of the nodes, traverse
+    # From the leaves to compute the similarity to the rest of the nodes, traverse
     # the tree and subtract the steps to get to the destination (intuitively, the
     # more we move away from relatives by going up the tree and down again, the
-    # less similar we are to those nodes
+    # less similar we are to those nodes. Repeat this step for each level's "leaves"
     
-    # Now, how do we implement it :D
+    # Now, how do we implement it? :D
 body_parts = flatten_dictionary(body_hierarchy)
 
 # Compute the similarity matrix according to word2vec
