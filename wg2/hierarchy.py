@@ -85,9 +85,9 @@ def compute_paths_distance(tree, sort=True):
         highest_level = min(tree.level(n) for n in path)
         
         # Set brothers and sisters at no distance
-        if tree.parent(n1) == tree.parent(n2):
-#            print('Reassigning siblings: {},{} = 0'.format(n1, n2))
-            dist = 0
+#        if tree.parent(n1) == tree.parent(n2):
+##            print('Reassigning siblings: {},{} = 0'.format(n1, n2))
+#            dist = 0
                 
         # Rescale distance according to depth
         if dist > 0:
@@ -109,13 +109,14 @@ def compute_distance_matrix(distance, n):
         
     return distance_matrix / np.max(distance_matrix)
 
-def compute_clusters(distance_matrix, names, n_clusters=2, connectivity_matrix=None):
-    cl = AgglomerativeClustering(n_clusters, affinity='precomputed', linkage='average', connectivity=connectivity_matrix)
+def compute_clusters(distance_matrix, names, n_clusters=2, connectivity_matrix=None, linkage='complete'):
+    cl = AgglomerativeClustering(n_clusters, affinity='precomputed', linkage=linkage, connectivity=connectivity_matrix)
     cl.fit(distance_matrix)  
     return cl
 
 def plot_distance_matrix(distance_matrix, labels):
     n = distance_matrix.shape[0]    
+#    plt.subplot(figsize=(12,8))
     plt.imshow(distance_matrix, cmap='Blues')
     plt.xticks(range(n), labels, rotation=90)
     plt.yticks(range(n), labels)
