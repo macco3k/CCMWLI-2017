@@ -51,6 +51,63 @@ def create_hierarchy():
     
     return body_hierarchy
 
+def create_fuller_hierarchy():
+    """
+    Creates a tree structure representing the body hierarchy
+    """
+    body_hierarchy = Tree()
+    body_hierarchy.create_node('Body', 'body')
+    # 1st level
+    body_hierarchy.create_node('Head', 'head', parent='body')
+    body_hierarchy.create_node('Trunk', 'trunk', parent='body')
+    body_hierarchy.create_node('Back', 'back', parent='body')
+    body_hierarchy.create_node('Arm', 'arm', parent='body')
+    body_hierarchy.create_node('Leg', 'leg', parent='body')
+    body_hierarchy.create_node('Shoulders', 'shoulders', parent='body')
+    body_hierarchy.create_node('Belly', 'belly', parent='body')
+    
+    # 2nd level
+    # head
+    body_hierarchy.create_node('Neck', 'neck', parent='head')
+    body_hierarchy.create_node('Face', 'face', parent='head')
+    # arm
+    body_hierarchy.create_node('Bicep', 'bicep', parent='arm')
+    body_hierarchy.create_node('Forearm', 'forearm', parent='arm')
+    body_hierarchy.create_node('Hand', 'hand', parent='arm')
+    body_hierarchy.create_node('Wrist', 'wrist', parent='arm')
+    #leg
+    body_hierarchy.create_node('Thigh', 'thigh', parent='leg')
+    body_hierarchy.create_node('Calf', 'calf', parent='leg')
+    body_hierarchy.create_node('Foot', 'foot', parent='leg')
+    
+    # 3rd level
+    #foot
+    body_hierarchy.create_node('Toes', 'toes', parent='foot')
+    # face
+    body_hierarchy.create_node('Cheeks', 'cheeks', parent='face')
+    body_hierarchy.create_node('Chin', 'chin', parent='face')
+    body_hierarchy.create_node('Forehead', 'forehead', parent='face')
+    body_hierarchy.create_node('Ears', 'ears', parent='face')
+    body_hierarchy.create_node('Eyes', 'eyes', parent='face')
+    body_hierarchy.create_node('Eyebrows', 'eyebrows', parent='face')
+    body_hierarchy.create_node('Mouth', 'mouth', parent='face')
+    body_hierarchy.create_node('Nose', 'nose', parent='face')
+    body_hierarchy.create_node('Lips', 'lips', parent='face')
+    # hand
+    body_hierarchy.create_node('Fingers', 'fingers', parent='hand')
+    body_hierarchy.create_node('Palm', 'palm', parent='hand')
+    
+    # 4th level
+    # mouth
+    body_hierarchy.create_node('Teeth', 'teeth', parent='mouth')
+    body_hierarchy.create_node('Tongue', 'tongue', parent='mouth')
+    # fingers
+    body_hierarchy.create_node('Pinky', 'pinky', parent='fingers')
+    body_hierarchy.create_node('Thumb', 'thumb', parent='fingers')
+    
+    body_hierarchy.show()
+    
+    return body_hierarchy
 
 def compute_paths_distance(tree, sort=True):
     """
@@ -85,9 +142,9 @@ def compute_paths_distance(tree, sort=True):
         highest_level = min(tree.level(n) for n in path)
         
         # Set brothers and sisters at no distance
-#        if tree.parent(n1) == tree.parent(n2):
-##            print('Reassigning siblings: {},{} = 0'.format(n1, n2))
-#            dist = 0
+        if tree.parent(n1) == tree.parent(n2):
+#            print('Reassigning siblings: {},{} = 0'.format(n1, n2))
+            dist = 1
                 
         # Rescale distance according to depth
         if dist > 0:
@@ -115,7 +172,8 @@ def compute_clusters(distance_matrix, names, n_clusters=2, connectivity_matrix=N
     return cl
 
 def plot_distance_matrix(distance_matrix, labels):
-    n = distance_matrix.shape[0]    
+    n = distance_matrix.shape[0]   
+    plt.figure(figsize=(20,10))
 #    plt.subplot(figsize=(12,8))
     plt.imshow(distance_matrix, cmap='Blues')
     plt.xticks(range(n), labels, rotation=90)
@@ -138,6 +196,7 @@ def plot_dendrogram(model, **kwargs):
     linkage_matrix = np.column_stack([children, distance, no_of_observations]).astype(float)
 
     # Plot the corresponding dendrogram
+    plt.figure(figsize=(10,5))
     dendrogram(linkage_matrix, **kwargs)
     plt.show()
 
