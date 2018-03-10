@@ -5,7 +5,7 @@ from sklearn.datasets import fetch_20newsgroups
 from sklearn.decomposition import NMF, LatentDirichletAllocation
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.metrics import adjusted_rand_score
-#from gensim.scripts.glove2word2vec import glove2word2vec
+from gensim.scripts.glove2word2vec import glove2word2vec
 from gensim.models import Word2Vec
 from gensim.models.keyedvectors import KeyedVectors
 from nltk.stem import WordNetLemmatizer
@@ -18,7 +18,7 @@ from hierarchy import get_reference, compute_clusters, plot_distance_matrix, plo
 dataset = fetch_20newsgroups(shuffle=True, random_state=1, remove=('headers', 'footers', 'quotes'))
 documents = dataset.data
 
-nclusters = 9 # what's a cluster exaclty???
+nclusters = 6 # what's a cluster exaclty???
 
 # Reference standard
 print('Reference')
@@ -27,19 +27,25 @@ plot_distance_matrix(reference_matrix, body_parts)
 cl_ref = compute_clusters(reference_matrix, body_parts, nclusters)
 plot_dendrogram(cl_ref, labels=body_parts)
 
+n = len(body_parts)
 #############
 # word2vec
 # Compute the similarity matrix according to word2vec
 print('\nword2vec')
-model = KeyedVectors.load_word2vec_format('./GoogleNews-vectors-negative300.bin', binary=True) 
+glove_input_file = 'glove.6B.50d.txt'
+#word2vec_output_file = './GoogleNews-vectors-negative300.bin'#'glove.6B.100d.txt.word2vec'
+word2vec_output_file = 'glove.6B.100d.txt.word2vec'
+glove2word2vec(glove_input_file, word2vec_output_file)
+model = KeyedVectors.load_word2vec_format(word2vec_output_file, binary=False) # './GoogleNews-vectors-negative300.bin'
 
-distance_matrix_w2v = np.zeros(shape=(n, n), dtype='float64')
+distance_matrix_w2v = np.zeros(shape=(n,n), dtype='float64')
 for i,j in np.ndindex((n,n)):
     distance_matrix_w2v[i,j] = model.distance(body_parts[i], body_parts[j])
     
 plot_distance_matrix(distance_matrix_w2v, body_parts)
 cl_w2v = compute_clusters(distance_matrix_w2v, body_parts, nclusters)
 plot_dendrogram(cl_w2v, labels=body_parts)
+
 print('word2vec vs REF: {}'.format(adjusted_rand_score(cl_ref.labels_, cl_w2v.labels_)))
 
 #############

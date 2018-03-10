@@ -18,7 +18,7 @@ from hierarchy import get_reference, compute_clusters, plot_distance_matrix, plo
 dataset = fetch_20newsgroups(shuffle=True, random_state=1, remove=('headers', 'footers', 'quotes'))
 documents = dataset.data
 
-nclusters = 6 # what's a cluster exaclty???
+nclusters = 5 # what's a cluster exaclty???
 
 # Reference standard
 print('Reference')
@@ -36,7 +36,7 @@ glove_input_file = 'glove.6B.50d.txt'
 word2vec_output_file = './GoogleNews-vectors-negative300.bin'#'glove.6B.100d.txt.word2vec'
 #word2vec_output_file = 'glove.6B.100d.txt.word2vec'
 #glove2word2vec(glove_input_file, word2vec_output_file)
-model = KeyedVectors.load_word2vec_format(word2vec_output_file, binary=False) # './GoogleNews-vectors-negative300.bin'
+model = KeyedVectors.load_word2vec_format(word2vec_output_file, binary=True) # './GoogleNews-vectors-negative300.bin'
 
 distance_matrix_w2v = np.zeros(shape=(n,n), dtype='float64')
 for i,j in np.ndindex((n,n)):
