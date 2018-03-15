@@ -9,7 +9,7 @@ import urllib
 # python3: urllib.parse.quote_plus
 # python2: urllib.pathname2url
 
-TOKEN = "505234590:AAHYa6bWJtVb7W6DOwePq1SVH_nA4QSID2Y" # don't put this in your repo! (put in config, then import config)
+TOKEN = "" # don't put this in your repo! (put in config, then import config)
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 
 
