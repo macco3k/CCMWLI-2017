@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tags>
+  <row Id="2" TagName="epistemology" Count="886" ExcerptPostId="236" WikiPostId="235" />
+  <row Id="4" TagName="souls" Count="23" />
+  <row Id="6" TagName="philosophy-of-religion" Count="283" ExcerptPostId="14800" WikiPostId="14799" />
+  <row Id="8" TagName="ethics" Count="1070" ExcerptPostId="313" WikiPostId="312" />
+  <row Id="11" TagName="existentialism" Count="119" ExcerptPostId="26888" WikiPostId="26887" />
+  <row Id="12" TagName="kierkegaard" Count="29" />
+  <row Id="13" TagName="camus" Count="22" />
+  <row Id="14" TagName="sartre" Count="42" />
+  <row Id="18" TagName="state" Count="13" />
+  <row Id="20" TagName="ayn-rand" Count="22" ExcerptPostId="47946" WikiPostId="47945" />
+  <row Id="21" TagName="objectivism" Count="21" ExcerptPostId="22907" WikiPostId="22906" />
+  <row Id="25" TagName="logic" Count="1836" ExcerptPostId="2216" WikiPostId="2215" />
+  <row Id="27" TagName="reality" Count="89" ExcerptPostId="34484" WikiPostId="34483" />
+  <row Id="28" TagName="consciousness" Count="222" ExcerptPostId="8499" WikiPostId="8498" />
+  <row Id="29" TagName="popper" Count="57" ExcerptPostId="514" WikiPostId="513" />
+  <row Id="30" TagName="ontology" Count="378" ExcerptPostId="1874" WikiPostId="1873" />
+  <row Id="34" TagName="stoicism" Count="40" ExcerptPostId="15090" WikiPostId="15089" />
+  <row Id="40" TagName="physics" Count="96" ExcerptPostId="7748" WikiPostId="7747" />
+  <row Id="41" TagName="good-and-evil" Count="48" />
+  <row Id="46" TagName="kant" Count="424" ExcerptPostId="1008" WikiPostId="1007" />
+  <row Id="47" TagName="self-cognition" Count="20" />
+  <row Id="49" TagName="empirical-apperception" Count="4" />
+  <row Id="54" TagName="life" Count="88" />
+  <row Id="56" TagName="metaphysics" Count="769" ExcerptPostId="4116" WikiPostId="4115" />
+  <row Id="59" TagName="terminology" Count="295" ExcerptPostId="7590" WikiPostId="7589" />
+  <row Id="60" TagName="existence" Count="183" ExcerptPostId="3027" WikiPostId="3026" />
+  <row Id="61" TagName="descartes" Count="126" ExcerptPostId="7098" WikiPostId="7097" />
+  <row Id="64" TagName="proof" Count="140" ExcerptPostId="7773" WikiPostId="7772" />
+  <row Id="68" TagName="utilitarianism" Count="105" ExcerptPostId="26895" WikiPostId="26894" />
+  <row Id="69" TagName="nietzsche" Count="195" ExcerptPostId="2969" WikiPostId="2968" />
+  <row Id="73" TagName="metaethics" Count="73" />
+  <row Id="75" TagName="pain-and-pleasure" Count="17" />
+  <row Id="79" TagName="political-philosophy" Count="296" ExcerptPostId="8497" WikiPostId="8496" />
+  <row Id="80" TagName="philosophy-of-science" Count="831" ExcerptPostId="991" WikiPostId="990" />
+  <row Id="81" TagName="quantum-physics" Count="72" ExcerptPostId="22494" WikiPostId="22493" />
+  <row Id="84" TagName="hume" Count="81" ExcerptPostId="34302" WikiPostId="34301" />
+  <row Id="86" TagName="philosophy-of-technology" Count="35" />
+  <row Id="87" TagName="applied-philosophy" Count="22" />
+  <row Id="88" TagName="socrates" Count="69" ExcerptPostId="7756" WikiPostId="7755" />
+  <row Id="89" TagName="plato" Count="200" ExcerptPostId="4118" WikiPostId="4117" />
+  <row Id="91" TagName="social-critique" Count="14" />
+  <row Id="92" TagName="heidegger" Count="89" ExcerptPostId="23415" WikiPostId="23414" />
+  <row Id="95" TagName="aristotle" Count="261" ExcerptPostId="170" WikiPostId="169" />
+  <row Id="98" TagName="induction" Count="59" />
+  <row Id="99" TagName="deduction" Count="43" />
+  <row Id="101" TagName="individualism" Count="10" />
+  <row Id="110" TagName="validity" Count="60" />
+  <row Id="111" TagName="qualia" Count="43" ExcerptPostId="32288" WikiPostId="32287" />
+  <row Id="112" TagName="scientific-method" Count="86" ExcerptPostId="34481" WikiPostId="34480" />
+  <row Id="113" TagName="wittgenstein" Count="140" ExcerptPostId="4122" WikiPostId="4121" />
+  <row Id="116" TagName="singer" Count="6" />
+  <row Id="130" TagName="theology" Count="328" ExcerptPostId="1627" WikiPostId="1626" />
+  <row Id="131" TagName="ontological-argument" Count="30" ExcerptPostId="8618" WikiPostId="8617" />
+  <row Id="133" TagName="critical-theory" Count="42" />
+  <row Id="134" TagName="human-condition" Count="42" />
+  <row Id="136" TagName="pragmatism" Count="42" />
+  <row Id="139" TagName="logical-positivism" Count="41" ExcerptPostId="24952" WikiPostId="24951" />
+  <row Id="140" TagName="analytic-philosophy" Count="106" ExcerptPostId="9408" WikiPostId="9407" />
+  <row Id="142" TagName="reader-response" Count="8" />
+  <row Id="143" TagName="skepticism" Count="64" />
+  <row Id="150" TagName="solipsism" Count="27" ExcerptPostId="7893" WikiPostId="7892" />
+  <row Id="151" TagName="rationalism" Count="26" ExcerptPostId="37534" WikiPostId="37533" />
+  <row Id="154" TagName="postmodernism" Count="60" />
+  <row Id="155" TagName="free-will" Count="187" ExcerptPostId="997" WikiPostId="996" />
+  <row Id="157" TagName="eastern-philosophy" Count="58" />
+  <row Id="158" TagName="berkeley" Count="22" ExcerptPostId="34517" WikiPostId="34516" />
+  <row Id="162" TagName="empiricism" Count="72" ExcerptPostId="34562" WikiPostId="34561" />
+  <row Id="163" TagName="phenomenology" Count="70" />
+  <row Id="166" TagName="philosophy-of-war" Count="16" />
+  <row Id="168" TagName="rationality" Count="60" ExcerptPostId="37550" WikiPostId="37549" />
+  <row Id="169" TagName="causation" Count="79" />
+  <row Id="175" TagName="rule-ethics" Count="10" />
+  <row Id="176" TagName="contemporary-philosophy" Count="35" />
+  <row Id="187" TagName="knowledge" Count="198" ExcerptPostId="7778" WikiPostId="7777" />
+  <row Id="194" TagName="sociology" Count="50" />
+  <row Id="198" TagName="history-of-philosophy" Count="422" ExcerptPostId="7754" WikiPostId="7753" />
+  <row Id="201" TagName="identity" Count="55" />
+  <row Id="205" TagName="goedel" Count="54" ExcerptPostId="7364" WikiPostId="7363" />
+  <row Id="206" TagName="formal-theory" Count="30" />
+  <row Id="207" TagName="truth" Count="192" ExcerptPostId="1629" WikiPostId="1628" />
+  <row Id="208" TagName="philosophy-of-mathematics" Count="620" ExcerptPostId="993" WikiPostId="992" />
+  <row Id="210" TagName="badiou" Count="20" ExcerptPostId="49514" WikiPostId="49513" />
+  <row Id="212" TagName="philosophy-of-law" Count="77" />
+  <row Id="214" TagName="social-contract" Count="16" />
+  <row Id="216" TagName="continental-philosophy" Count="97" ExcerptPostId="9340" WikiPostId="9339" />
+  <row Id="217" TagName="rorty" Count="9" />
+  <row Id="218" TagName="fallacies" Count="370" ExcerptPostId="1100" WikiPostId="1099" />
+  <row Id="219" TagName="artificial-intelligence" Count="115" ExcerptPostId="7767" WikiPostId="7766" />
+  <row Id="221" TagName="ancient-philosophy" Count="72" ExcerptPostId="14806" WikiPostId="14805" />
+  <row Id="222" TagName="philosophy-of-language" Count="304" ExcerptPostId="995" WikiPostId="994" />
+  <row Id="224" TagName="sentience" Count="12" />
+  <row Id="226" TagName="debate" Count="35" />
+  <row Id="231" TagName="metaphilosophy" Count="157" ExcerptPostId="9478" WikiPostId="9477" />
+  <row Id="233" TagName="miracles" Count="11" />
+  <row Id="235" TagName="reference-request" Count="594" ExcerptPostId="4467" WikiPostId="4466" />
+  <row Id="238" TagName="death" Count="87" />
+  <row Id="239" TagName="falsifiability" Count="27" ExcerptPostId="39670" WikiPostId="39669" />
+  <row Id="243" TagName="arithmetic" Count="6" />
+  <row Id="244" TagName="human-rights" Count="26" />
+  <row Id="249" TagName="relativism" Count="32" />
+  <row Id="254" TagName="philosophy-of-economics" Count="57" />
+  <row Id="255" TagName="buddhism" Count="60" ExcerptPostId="15978" WikiPostId="15977" />
+  <row Id="256" TagName="desire" Count="7" />
+  <row Id="260" TagName="deconstruction" Count="15" />
+  <row Id="262" TagName="pascal" Count="10" />
+  <row Id="263" TagName="happiness" Count="32" />
+  <row Id="268" TagName="hermeneutics" Count="11" />
+  <row Id="269" TagName="idealism" Count="59" ExcerptPostId="34490" WikiPostId="34489" />
+  <row Id="271" TagName="evolution" Count="46" />
+  <row Id="273" TagName="cosmology" Count="52" ExcerptPostId="652" WikiPostId="651" />
+  <row Id="278" TagName="subjectivity" Count="35" />
+  <row Id="279" TagName="time" Count="152" ExcerptPostId="37271" WikiPostId="37270" />
+  <row Id="280" TagName="paradox" Count="107" ExcerptPostId="7960" WikiPostId="7959" />
+  <row Id="281" TagName="epicurus" Count="26" ExcerptPostId="47675" WikiPostId="47674" />
+  <row Id="282" TagName="humanism" Count="16" />
+  <row Id="289" TagName="experimental-philosophy" Count="3" />
+  <row Id="290" TagName="translation" Count="19" />
+  <row Id="291" TagName="german-philosophy" Count="23" />
+  <row Id="299" TagName="objectivity" Count="26" />
+  <row Id="302" TagName="argumentation" Count="268" ExcerptPostId="25139" WikiPostId="25138" />
+  <row Id="307" TagName="reductionism" Count="19" />
+  <row Id="310" TagName="hegel" Count="79" ExcerptPostId="49510" WikiPostId="49509" />
+  <row Id="311" TagName="dialectic" Count="23" />
+  <row Id="312" TagName="creationism" Count="16" />
+  <row Id="315" TagName="derrida" Count="29" />
+  <row Id="321" TagName="computation" Count="63" ExcerptPostId="2370" WikiPostId="2369" />
+  <row Id="322" TagName="foundationalism" Count="12" />
+  <row Id="331" TagName="philosophy-of-mind" Count="507" ExcerptPostId="7745" WikiPostId="7744" />
+  <row Id="335" TagName="difference" Count="9" />
+  <row Id="336" TagName="psychology" Count="116" ExcerptPostId="7769" WikiPostId="7768" />
+  <row Id="338" TagName="john-searle" Count="26" />
+  <row Id="346" TagName="society" Count="104" ExcerptPostId="7775" WikiPostId="7774" />
+  <row Id="348" TagName="bertrand-russell" Count="75" ExcerptPostId="34560" WikiPostId="34559" />
+  <row Id="350" TagName="spinoza" Count="37" />
+  <row Id="353" TagName="complexity" Count="19" />
+  <row Id="356" TagName="linguistics" Count="43" />
+  <row Id="357" TagName="the-republic" Count="13" />
+  <row Id="359" TagName="physicalism" Count="44" />
+  <row Id="362" TagName="animal-welfare" Count="26" />
+  <row Id="368" TagName="context" Count="6" />
+  <row Id="369" TagName="critique-of-pure-reason" Count="30" />
+  <row Id="372" TagName="leibniz" Count="29" />
+  <row Id="374" TagName="education" Count="33" />
+  <row Id="377" TagName="teleology" Count="15" />
+  <row Id="379" TagName="atheism" Count="55" ExcerptPostId="1916" WikiPostId="1915" />
+  <row Id="380" TagName="mind-body" Count="88" ExcerptPostId="24773" WikiPostId="24772" />
+  <row Id="381" TagName="dualism" Count="50" />
+  <row Id="384" TagName="locke" Count="26" ExcerptPostId="34306" WikiPostId="34305" />
+  <row Id="386" TagName="myths" Count="13" />
+  <row Id="393" TagName="naturalism" Count="32" />
+  <row Id="394" TagName="psychoanalysis" Count="34" />
+  <row Id="397" TagName="intentionality" Count="22" />
+  <row Id="400" TagName="hobbes" Count="17" />
+  <row Id="401" TagName="aesthetics" Count="115" ExcerptPostId="15498" WikiPostId="15497" />
+  <row Id="402" TagName="machiavelli" Count="5" />
+  <row Id="404" TagName="david-chalmers" Count="7" />
+  <row Id="405" TagName="genealogy-of-morals" Count="19" />
+  <row Id="414" TagName="formalisation" Count="19" />
+  <row Id="418" TagName="infinity" Count="50" />
+  <row Id="420" TagName="the-prince" Count="3" />
+  <row Id="425" TagName="marx" Count="80" ExcerptPostId="34486" WikiPostId="34485" />
+  <row Id="426" TagName="positivism" Count="16" />
+  <row Id="432" TagName="probability" Count="65" />
+  <row Id="434" TagName="animals" Count="16" />
+  <row Id="435" TagName="dreams" Count="10" />
+  <row Id="436" TagName="altruism" Count="17" ExcerptPostId="36089" WikiPostId="36088" />
+  <row Id="443" TagName="democracy" Count="28" />
+  <row Id="456" TagName="semantics" Count="110" ExcerptPostId="34488" WikiPostId="34487" />
+  <row Id="459" TagName="dawkins" Count="7" ExcerptPostId="4258" WikiPostId="4257" />
+  <row Id="462" TagName="rawls" Count="13" ExcerptPostId="8484" WikiPostId="8483" />
+  <row Id="464" TagName="rhetoric" Count="40" ExcerptPostId="24404" WikiPostId="24403" />
+  <row Id="466" TagName="rights" Count="33" />
+  <row Id="467" TagName="social-ethics" Count="67" />
+  <row Id="468" TagName="duty" Count="15" ExcerptPostId="36032" WikiPostId="36031" />
+  <row Id="469" TagName="schopenhauer" Count="28" ExcerptPostId="5838" WikiPostId="5837" />
+  <row Id="470" TagName="whitehead" Count="13" />
+  <row Id="472" TagName="self" Count="46" />
+  <row Id="477" TagName="language" Count="79" />
+  <row Id="478" TagName="meaning" Count="62" ExcerptPostId="26893" WikiPostId="26892" />
+  <row Id="481" TagName="emotions" Count="26" />
+  <row Id="487" TagName="zizek" Count="20" />
+  <row Id="488" TagName="schelling" Count="13" />
+  <row Id="489" TagName="concept" Count="42" />
+  <row Id="495" TagName="latour" Count="3" />
+  <row Id="497" TagName="essence" Count="18" />
+  <row Id="498" TagName="noumenon" Count="15" />
+  <row Id="499" TagName="knowledge-representation" Count="23" />
+  <row Id="503" TagName="dewey" Count="7" />
+  <row Id="507" TagName="presocratics" Count="23" />
+  <row Id="509" TagName="social-epistemology" Count="28" />
+  <row Id="513" TagName="possible-worlds" Count="38" />
+  <row Id="515" TagName="compatibilism" Count="13" />
+  <row Id="519" TagName="bostrom" Count="3" ExcerptPostId="49516" WikiPostId="49515" />
+  <row Id="522" TagName="deleuze" Count="22" ExcerptPostId="5904" WikiPostId="5903" />
+  <row Id="523" TagName="neurophilosophy" Count="22" ExcerptPostId="41052" WikiPostId="41051" />
+  <row Id="524" TagName="emergence" Count="14" />
+  <row Id="525" TagName="cognitive-sciences" Count="36" />
+  <row Id="526" TagName="untagged" Count="12" ExcerptPostId="47027" WikiPostId="47026" />
+  <row Id="527" TagName="philosophy-of-culture" Count="24" />
+  <row Id="528" TagName="hinduism" Count="18" />
+  <row Id="530" TagName="problem-of-evil" Count="7" ExcerptPostId="31374" WikiPostId="31373" />
+  <row Id="534" TagName="deleuze-and-guattari" Count="16" />
+  <row Id="535" TagName="nihilism" Count="64" />
+  <row Id="536" TagName="consequentialism" Count="21" />
+  <row Id="538" TagName="enlightenment" Count="10" />
+  <row Id="539" TagName="david-lewis" Count="6" />
+  <row Id="540" TagName="modal-logic" Count="167" ExcerptPostId="15980" WikiPostId="15979" />
+  <row Id="543" TagName="kripke" Count="24" />
+  <row Id="545" TagName="materialism" Count="60" ExcerptPostId="36165" WikiPostId="36164" />
+  <row Id="548" TagName="agnosticism" Count="13" ExcerptPostId="34379" WikiPostId="34378" />
+  <row Id="550" TagName="belief" Count="52" />
+  <row Id="551" TagName="determinism" Count="99" ExcerptPostId="26890" WikiPostId="26889" />
+  <row Id="552" TagName="faith" Count="15" />
+  <row Id="554" TagName="theodicy" Count="5" />
+  <row Id="558" TagName="foucault" Count="24" ExcerptPostId="34286" WikiPostId="34285" />
+  <row Id="560" TagName="cassirer" Count="2" ExcerptPostId="40446" WikiPostId="40445" />
+  <row Id="564" TagName="philosophy-of-physics" Count="176" ExcerptPostId="22492" WikiPostId="22491" />
+  <row Id="565" TagName="atomism" Count="8" />
+  <row Id="567" TagName="christianity" Count="32" ExcerptPostId="34515" WikiPostId="34514" />
+  <row Id="569" TagName="meaning-of-life" Count="52" />
+  <row Id="570" TagName="marxism" Count="59" ExcerptPostId="34492" WikiPostId="34491" />
+  <row Id="572" TagName="economics" Count="27" />
+  <row Id="577" TagName="awareness" Count="9" />
+  <row Id="578" TagName="virtue-ethics" Count="28" ExcerptPostId="34283" WikiPostId="34282" />
+  <row Id="579" TagName="quantum-interpretations" Count="36" ExcerptPostId="7943" WikiPostId="7942" />
+  <row Id="581" TagName="zeno-of-elea" Count="9" />
+  <row Id="589" TagName="functionalism" Count="13" />
+  <row Id="591" TagName="categorical-imperative" Count="37" />
+  <row Id="592" TagName="nozick" Count="9" ExcerptPostId="8482" WikiPostId="8481" />
+  <row Id="594" TagName="perception" Count="55" />
+  <row Id="596" TagName="realism" Count="55" ExcerptPostId="36185" WikiPostId="36184" />
+  <row Id="598" TagName="types" Count="11" />
+  <row Id="599" TagName="idea" Count="9" />
+  <row Id="603" TagName="hofstadter" Count="4" />
+  <row Id="606" TagName="chinese-philosophy" Count="23" />
+  <row Id="607" TagName="structuralism" Count="17" />
+  <row Id="615" TagName="feyerabend" Count="6" />
+  <row Id="616" TagName="peirce" Count="9" ExcerptPostId="18143" WikiPostId="18142" />
+  <row Id="620" TagName="quine" Count="44" ExcerptPostId="36480" WikiPostId="36479" />
+  <row Id="626" TagName="interpretation" Count="21" />
+  <row Id="629" TagName="justice" Count="30" />
+  <row Id="630" TagName="islamic-philosophy" Count="13" />
+  <row Id="633" TagName="lacan" Count="14" />
+  <row Id="635" TagName="philosophy-of-logic" Count="92" ExcerptPostId="15177" WikiPostId="15176" />
+  <row Id="637" TagName="abortion" Count="10" />
+  <row Id="640" TagName="analytic-synthetic-divide" Count="23" />
+  <row Id="645" TagName="universe" Count="52" ExcerptPostId="11532" WikiPostId="11531" />
+  <row Id="647" TagName="meme" Count="4" ExcerptPostId="11574" WikiPostId="11573" />
+  <row Id="651" TagName="cicero" Count="4" />
+  <row Id="654" TagName="scientific-realism" Count="15" ExcerptPostId="12876" WikiPostId="12875" />
+  <row Id="655" TagName="eliminative-materialism" Count="2" ExcerptPostId="12874" WikiPostId="12873" />
+  <row Id="657" TagName="infinite" Count="11" />
+  <row Id="658" TagName="fundamental-entities" Count="2" />
+  <row Id="668" TagName="korsgaard" Count="1" ExcerptPostId="14080" WikiPostId="14079" />
+  <row Id="673" TagName="paraconsistency" Count="3" />
+  <row Id="674" TagName="practical-ethics" Count="50" />
+  <row Id="681" TagName="libertarianism" Count="7" ExcerptPostId="37506" WikiPostId="37505" />
+  <row Id="685" TagName="laruelle" Count="2" />
+  <row Id="686" TagName="zombies" Count="9" ExcerptPostId="34314" WikiPostId="34313" />
+  <row Id="687" TagName="bioethics" Count="9" />
+  <row Id="690" TagName="sexuality" Count="12" />
+  <row Id="691" TagName="quantification" Count="17" />
+  <row Id="693" TagName="methodology" Count="11" />
+  <row Id="694" TagName="attitude" Count="2" />
+  <row Id="698" TagName="philosophy-of-biology" Count="21" />
+  <row Id="700" TagName="beauty" Count="7" ExcerptPostId="34522" WikiPostId="34521" />
+  <row Id="705" TagName="computer-ethics" Count="4" />
+  <row Id="707" TagName="modernity" Count="8" />
+  <row Id="709" TagName="artifact" Count="2" ExcerptPostId="15955" WikiPostId="15954" />
+  <row Id="711" TagName="omnipotence" Count="9" />
+  <row Id="712" TagName="anthropology" Count="8" />
+  <row Id="713" TagName="definitions" Count="57" />
+  <row Id="715" TagName="aquinas" Count="32" ExcerptPostId="17614" WikiPostId="17613" />
+  <row Id="721" TagName="analogy" Count="12" />
+  <row Id="724" TagName="popular-science" Count="7" />
+  <row Id="728" TagName="politics" Count="36" />
+  <row Id="729" TagName="taoism" Count="14" />
+  <row Id="730" TagName="syllogism" Count="36" />
+  <row Id="731" TagName="medieval-logic" Count="3" />
+  <row Id="733" TagName="legal" Count="5" />
+  <row Id="746" TagName="properties" Count="13" />
+  <row Id="747" TagName="relations" Count="8" />
+  <row Id="750" TagName="illness" Count="8" />
+  <row Id="756" TagName="lucretious" Count="2" />
+  <row Id="757" TagName="husserl" Count="14" />
+  <row Id="758" TagName="intelligence" Count="14" />
+  <row Id="1760" TagName="poetry" Count="8" />
+  <row Id="1764" TagName="pythagoras" Count="8" />
+  <row Id="1767" TagName="saussure" Count="3" />
+  <row Id="1770" TagName="immortality" Count="8" />
+  <row Id="1771" TagName="nothing" Count="12" />
+  <row Id="1772" TagName="being-and-time" Count="16" />
+  <row Id="1773" TagName="learning-methods" Count="22" />
+  <row Id="1776" TagName="causality" Count="45" />
+  <row Id="1777" TagName="love" Count="14" />
+  <row Id="1778" TagName="upanishad" Count="3" />
+  <row Id="1779" TagName="parmenides" Count="17" />
+  <row Id="1785" TagName="propositions" Count="32" />
+  <row Id="1788" TagName="events" Count="6" />
+  <row Id="1792" TagName="frege" Count="17" ExcerptPostId="33799" WikiPostId="33798" />
+  <row Id="1793" TagName="charles-taylor" Count="2" />
+  <row Id="1794" TagName="secondary-literature" Count="4" ExcerptPostId="22967" WikiPostId="22966" />
+  <row Id="1795" TagName="mctaggert" Count="3" />
+  <row Id="1798" TagName="plotinus" Count="3" />
+  <row Id="1800" TagName="greeks" Count="21" />
+  <row Id="1802" TagName="soundness" Count="8" />
+  <row Id="1810" TagName="arendt" Count="6" ExcerptPostId="49512" WikiPostId="49511" />
+  <row Id="1812" TagName="work" Count="6" />
+  <row Id="1813" TagName="symbolic-logic" Count="39" />
+  <row Id="1819" TagName="semiotics" Count="9" />
+  <row Id="1822" TagName="vedanta" Count="4" ExcerptPostId="38651" WikiPostId="38650" />
+  <row Id="1823" TagName="william-james" Count="4" />
+  <row Id="1827" TagName="rigid-designator" Count="8" />
+  <row Id="1830" TagName="feminism" Count="14" />
+  <row Id="1835" TagName="fitch" Count="11" ExcerptPostId="24932" WikiPostId="24931" />
+  <row Id="1839" TagName="authenticity" Count="5" />
+  <row Id="1840" TagName="adorno" Count="15" ExcerptPostId="47590" WikiPostId="47589" />
+  <row Id="1846" TagName="moral-skepticism" Count="7" />
+  <row Id="1848" TagName="set-theory" Count="21" />
+  <row Id="2850" TagName="mereology" Count="5" />
+  <row Id="2852" TagName="gettier" Count="4" />
+  <row Id="2857" TagName="demarcation" Count="6" />
+  <row Id="2858" TagName="omniscience" Count="7" ExcerptPostId="29346" WikiPostId="29345" />
+  <row Id="2861" TagName="values" Count="23" />
+  <row Id="2867" TagName="turing" Count="9" ExcerptPostId="36034" WikiPostId="36033" />
+  <row Id="2868" TagName="categorical-framework" Count="4" />
+  <row Id="2869" TagName="classification" Count="9" />
+  <row Id="2872" TagName="levinas" Count="5" ExcerptPostId="34267" WikiPostId="34266" />
+  <row Id="2876" TagName="feuerbach" Count="3" />
+  <row Id="2877" TagName="principia-mathematica" Count="3" />
+  <row Id="2879" TagName="occams-razor" Count="19" ExcerptPostId="34520" WikiPostId="34519" />
+  <row Id="2882" TagName="brain-in-a-vat" Count="4" />
+  <row Id="2885" TagName="philosophy-of-history" Count="22" ExcerptPostId="31655" WikiPostId="31654" />
+  <row Id="2891" TagName="game-theory" Count="8" />
+  <row Id="2892" TagName="horkheimer" Count="6" />
+  <row Id="2895" TagName="john-stuart-mill" Count="11" />
+  <row Id="2897" TagName="kuhn" Count="6" />
+  <row Id="2898" TagName="anselm" Count="5" ExcerptPostId="34494" WikiPostId="34493" />
+  <row Id="2899" TagName="marcus-aurelius" Count="3" />
+  <row Id="2901" TagName="conciousness" Count="5" />
+  <row Id="2902" TagName="benjamin" Count="3" />
+  <row Id="2903" TagName="newton" Count="3" />
+  <row Id="2911" TagName="dialetheism" Count="5" ExcerptPostId="34123" WikiPostId="34122" />
+  <row Id="2913" TagName="merleau-ponty" Count="3" />
+  <row Id="2918" TagName="numbers" Count="12" />
+  <row Id="2920" TagName="universals" Count="9" ExcerptPostId="35838" WikiPostId="35837" />
+  <row Id="2921" TagName="constructivism" Count="6" />
+  <row Id="2923" TagName="scepticism" Count="6" />
+  <row Id="2925" TagName="thought-experiment" Count="20" />
+  <row Id="2926" TagName="nominalism" Count="6" />
+  <row Id="2927" TagName="intuition" Count="13" />
+  <row Id="2929" TagName="analyticity" Count="4" />
+  <row Id="2930" TagName="ship-of-theseus" Count="2" ExcerptPostId="34304" WikiPostId="34303" />
+  <row Id="2931" TagName="freedom" Count="14" />
+  <row Id="2932" TagName="reason" Count="16" />
+  <row Id="2933" TagName="hedonism" Count="5" />
+  <row Id="2934" TagName="literary-theory" Count="15" />
+  <row Id="2935" TagName="modernism" Count="9" />
+  <row Id="2936" TagName="dennett" Count="4" ExcerptPostId="36095" WikiPostId="36094" />
+  <row Id="2937" TagName="moral-agency" Count="9" ExcerptPostId="36041" WikiPostId="36040" />
+  <row Id="2938" TagName="absurdism" Count="7" ExcerptPostId="36087" WikiPostId="36086" />
+  <row Id="2940" TagName="deontology" Count="18" ExcerptPostId="36097" WikiPostId="36096" />
+  <row Id="2941" TagName="racism" Count="2" />
+  <row Id="2942" TagName="socialism" Count="5" />
+  <row Id="2943" TagName="critque-of-judgment" Count="1" ExcerptPostId="35979" WikiPostId="35978" />
+  <row Id="2945" TagName="confucius" Count="9" />
+  <row Id="2952" TagName="nagarjuna" Count="3" />
+  <row Id="2953" TagName="zeno" Count="6" />
+  <row Id="2954" TagName="holderlin" Count="2" />
+  <row Id="2955" TagName="tao" Count="2" />
+  <row Id="2958" TagName="history-of-logic" Count="4" />
+  <row Id="2966" TagName="alienation" Count="5" />
+  <row Id="2970" TagName="libertarianism-free-will" Count="5" />
+  <row Id="2971" TagName="intellectual-property" Count="2" />
+  <row Id="2972" TagName="moral-realism" Count="7" />
+  <row Id="2980" TagName="quote" Count="12" />
+  <row Id="2981" TagName="rousseau" Count="8" />
+  <row Id="2982" TagName="cloning" Count="7" ExcerptPostId="38126" WikiPostId="38125" />
+  <row Id="2983" TagName="abstract" Count="3" />
+  <row Id="2988" TagName="poincare" Count="2" />
+  <row Id="2992" TagName="space" Count="9" />
+  <row Id="2998" TagName="chomsky" Count="3" />
+  <row Id="3003" TagName="situational-ethics" Count="3" />
+  <row Id="3004" TagName="monotheism" Count="2" />
+  <row Id="3006" TagName="art" Count="20" />
+  <row Id="3013" TagName="anti-realism" Count="2" />
+  <row Id="3017" TagName="intuitionistic-logic" Count="3" />
+  <row Id="3019" TagName="music" Count="2" />
+  <row Id="3025" TagName="charity" Count="3" />
+  <row Id="3033" TagName="history" Count="11" />
+  <row Id="3035" TagName="prediction" Count="2" />
+  <row Id="3040" TagName="progress" Count="2" />
+  <row Id="3042" TagName="cognitive-psychology" Count="2" />
+  <row Id="3047" TagName="capitalism" Count="2" />
+  <row Id="3050" TagName="term" Count="5" />
+  <row Id="3052" TagName="power" Count="1" />
+  <row Id="3056" TagName="xunzi" Count="2" />
+  <row Id="3057" TagName="environmental-philosophy" Count="9" ExcerptPostId="46242" WikiPostId="46241" />
+  <row Id="3058" TagName="liberalism" Count="2" />
+  <row Id="3059" TagName="hayek" Count="1" />
+  <row Id="3060" TagName="tautology" Count="2" />
+  <row Id="3061" TagName="suicide" Count="1" />
+  <row Id="3062" TagName="informal" Count="1" />
+  <row Id="3063" TagName="property" Count="2" />
+  <row Id="3064" TagName="critical-thinking" Count="6" />
+  <row Id="3065" TagName="research-design" Count="1" />
+  <row Id="3066" TagName="construct-validity" Count="2" />
+  <row Id="3067" TagName="soc" Count="1" />
+  <row Id="3068" TagName="affect" Count="1" />
+  <row Id="3069" TagName="political" Count="1" />
+  <row Id="3071" TagName="platonism" Count="3" />
+  <row Id="3072" TagName="theory" Count="3" />
+  <row Id="3073" TagName="ancient" Count="1" />
+  <row Id="3076" TagName="philosophy-of-health" Count="1" />
+  <row Id="3077" TagName="axiology" Count="1" />
+  <row Id="3079" TagName="lo" Count="1" />
+  <row Id="3080" TagName="natural-philosophy" Count="1" />
+  <row Id="3081" TagName="philosophy-of-social-sciences" Count="1" />
+</tags>
