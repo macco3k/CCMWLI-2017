@@ -31,16 +31,18 @@ class Markov():
 
     # Generate output
     def generate_output(self, max_words=100, newline_after=10):
+        output = ''
         self.seen.extend([NONWORD] * self.order)  # clear it all
         for i in range(max_words):
             word = random.choice(self.table[tuple(self.seen)])
             if word == NONWORD:
                 exit()
             if i % newline_after == 0:
-                print(word)
+                output += word + '\n'
             else:
-                print(word, end=' ')
+                output += word + ' '
             self.seen.append(word)
+        return output
 
     def walk_directory(self, rootDir):
         for dirName, subdirList, fileList in os.walk(rootDir):
@@ -50,8 +52,8 @@ class Markov():
             # print('\t%s' % fname)
 
 
-m = Markov(order=5)
+m = Markov(order=3)
 
 # m.walk_directory('./pres-speech')
 m.walk_directory('./pres-speech/clinton')
-m.generate_output(max_words=500)
+m.generate_output(max_words=50)

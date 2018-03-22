@@ -6,11 +6,19 @@ import json
 import requests
 import time
 import urllib
+import markov_norder
+from markov_norder import Markov
+from config import token
 # python3: urllib.parse.quote_plus
 # python2: urllib.pathname2url
 
-TOKEN = "" # don't put this in your repo! (put in config, then import config)
+TOKEN = token # don't put this in your repo! (put in config, then import config)
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
+
+m = Markov(order=3)
+
+# m.walk_directory('./pres-speech')
+m.walk_directory('./pres-speech/clinton')
 
 
 def get_url(url):
@@ -46,6 +54,31 @@ def echo_all(updates):
         chat = update["message"]["chat"]["id"]
         send_message(text, chat)
 
+def handle_updates(updates):
+    for update in updates["result"]:
+        try:
+            text = update["message"]["text"]
+            #print(text)
+            chat = update["message"]["chat"]["id"]
+            if text.upper() == "hi".upper():
+                send_message("Hello", chat)
+            elif  "What is your name".upper() in text.upper():
+                send_message("My name is Veesimsim.", chat)
+            else:
+                text = m.generate_output(max_words=100, newline_after=101)
+                send_message(text, chat)
+
+            # items = db.get_items()
+            # if text in items:
+            #     db.delete_item(text)
+            #     items = db.get_items()
+            # else:
+            #     db.add_item(text)
+            #     items = db.get_items()
+            # message = "\n".join(items)
+
+        except KeyError:
+            pass
 
 def get_last_chat_id_and_text(updates):
     num_updates = len(updates["result"])
@@ -56,7 +89,7 @@ def get_last_chat_id_and_text(updates):
 
 
 def send_message(text, chat_id):
-    text = urllib.pathname2url(text) # urllib.parse.quote_plus(text) # (python3)
+    text = urllib.parse.quote_plus(text) # (python3) #urllib.pathname2url(text) #
     url = URL + "sendMessage?text={}&chat_id={}".format(text, chat_id)
     get_url(url)
 
@@ -67,7 +100,8 @@ def main():
         updates = get_updates(last_update_id)
         if len(updates["result"]) > 0:
             last_update_id = get_last_update_id(updates) + 1
-            echo_all(updates)
+            #echo_all(updates)
+            handle_updates(updates)
         time.sleep(0.5)
 
 
