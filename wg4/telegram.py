@@ -9,7 +9,7 @@ import urllib
 # python3: urllib.parse.quote_plus
 # python2: urllib.pathname2url
 
-TOKEN = "" # don't put this in your repo! (put in config, then import config)
+TOKEN = "505234590:AAHYa6bWJtVb7W6DOwePq1SVH_nA4QSID2Y" # don't put this in your repo! (put in config, then import config)
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 
 
@@ -56,7 +56,7 @@ def get_last_chat_id_and_text(updates):
 
 
 def send_message(text, chat_id):
-    text = urllib.pathname2url(text) # urllib.parse.quote_plus(text) # (python3)
+    text = urllib.parse.quote_plus(text) # (python3) #urllib.pathname2url(text) #
     url = URL + "sendMessage?text={}&chat_id={}".format(text, chat_id)
     get_url(url)
 

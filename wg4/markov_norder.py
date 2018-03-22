@@ -50,8 +50,8 @@ class Markov():
             # print('\t%s' % fname)
 
 
-m = Markov(order=5)
+m = Markov(order=3)
 
 # m.walk_directory('./pres-speech')
 m.walk_directory('./pres-speech/clinton')
-m.generate_output(max_words=500)
+m.generate_output(max_words=50)
