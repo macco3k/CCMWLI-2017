@@ -6,11 +6,18 @@ import json
 import requests
 import time
 import urllib
+import markov_norder
+from markov_norder import Markov
 # python3: urllib.parse.quote_plus
 # python2: urllib.pathname2url
 
 TOKEN = "505234590:AAHYa6bWJtVb7W6DOwePq1SVH_nA4QSID2Y" # don't put this in your repo! (put in config, then import config)
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
+
+m = Markov(order=3)
+
+# m.walk_directory('./pres-speech')
+m.walk_directory('./pres-speech/clinton')
 
 
 def get_url(url):
@@ -44,6 +51,7 @@ def echo_all(updates):
     for update in updates["result"]:
         text = update["message"]["text"]
         chat = update["message"]["chat"]["id"]
+        text = m.generate_output(max_words=100, newline_after=101)
         send_message(text, chat)
 
 
