@@ -1,0 +1,911 @@
+Contrarily to most philosophers, pragmatists do not define themselves as searchers of truth. Rorty substitutes the idea of “truths to discover”, of “truths that hide behind appearances”, with “beliefs to explain”. 
+
+The process of explanation is done, not in reports to a court of Reason, but relatively to a certain public, according to the principle of utility. Although wherein utilitarians like Mill, utility is measured in function to the gain of pleasure and decline of pain, pragmatists are vague: useful is what enables creation of a better future. 
+
+Better according to which criteria? Rorty admits that pragmatists do not have a precise response:
+
+
+  “They do not have a more precise
+  response than the first mammals had to
+  specify under which aspects they were
+  better than the dinosaurs in
+  extinction. The pragmatists are barely
+  capable to put forward responses as
+  vague as this one: what is better is
+  better insofar where that contains
+  more of what we consider as good and
+  advantageous and insofar where that
+  contains less that we consider as bad
+  and dangerous.” – Richard Rorty, Philosophy and
+  Social Hope.
+
+
+And this retort, one of the most popular in philosophy: “Oh! Now we fall into relativism!”; to which Rorty replies that even though there are no absolute truths, we can’t say “anything”, because:
+
+
+  “human belief cannot be detached of
+  the non-human environment” or, to
+  recall a word from Davidson, that “we
+  can never be more arbitrary than the
+  world lets us be.” – Idib.
+
+
+For pragmatists, the social context in which a thought is born and interpreted gives its meaning and signpost, hence the uselessness of the seal of the absolute.
+
+Rorty insists on the fact that pragmatism is an “anti-essentialism”. In this perspective, the philosophical undertaking does not consist in a search of the essence of things, but more of the relations that a thing has with the rest of its environment. The anti-essentialists abolish the metaphysical distinction between intrinsic and extrinsic, in the sense that, for them, there is no characteristic that is more essential than another in the study of an object. To demonstrate his point, Rorty takes as example the number 17:
+
+
+  “Ask yourself what is the essence of
+  the number 17 – what it is in itself,
+  outside of any relation with all the
+  other numbers. What we are looking
+  for, is a description of 17 that is
+  different, in category, of the
+  following descriptions: less that 22;
+  more than 8; the sum of 6 and 11; the
+  square root of 289; the square of
+  4.123105; the difference between 1678922 and 1678905. What is
+  irritating in all these descriptions,
+  is that there is not even one that is
+  even closer to the number 17 than the
+  others. Equally annoying, we could
+  propose an infinite number of other
+  descriptions of 17, all equally
+  “accidental” and “extrinsic”. None of
+  these descriptions, it seems, give us
+  the slightest idea to what could be
+  the intrinsic seventeeness of 17 – the
+  unique character that makes it number
+  that it is. It is clear, indeed, that
+  if we choose one of these descriptions
+  more than the other, it’s in function
+  to the goal that we pursue – in the
+  particular case that brought us, in
+  the beginning, to think of number 17.”
+  – Ibid.
+
+
+The author invites subsequently to transpose this demonstration at every other object of knowledge. It is as vain to search the seventeeness of 17, than the keyboardness of a keyboard, for example. Henceforth, despite his status of great philosopher, all that Plato can say of it are its properties, namely its relations. And when he arguments that the keyboard that I see at this moment is a copy of the Idea of the keyboard, that does not reveal anything more of its intrinsic nature than to say that it is black or constituted of atoms.
+
+That’s what should be understood: there is no absolute for pragmatism. “Absolute” signifies here “isolated from the rest”. And yet how speak of something that is isolated of everything? It is absurd. All knowledge (or belief) must be registered in a language; as soon as there is language, there is relation.
+
+
+  “A name has sense only in the context
+  of a phrase, and it is only as a term
+  of a relation that an object becomes
+  object of knowledge.” – Ibid.
+
+
+This doctrine seems moreover in close relation with the perspectivism of Nietzsche. We can very well interpret in an anti-essentialist sense from this affirmation:
+
+
+  “It is impossible for us to see beyond
+  the angle of our gaze.” – Nietzsche, The Gay
+  Science
+
+
+What the German philosopher affirms here is that all our knowledge – that is interpretative – must necessarily be connected to a perspective, that is first and foremost human.
+
+It’s now the turn of the metaphysical distinction between “relative” and “absolute” to fall. Of course, there is very certainly a form of relativism that stays with anti-essentialism. But this relativism must not be understood in the traditional sense that “everything has value”. Admitting the relativity of things, comes to simply say that:
+
+
+  “There is nothing but relations,
+  everywhere, all along your road and in
+  all directions.” – Richard Rorty,
+  Philosophy and Social Hope.
+
+
+Thus, to avoid all ambiguity, maybe it would be more suitable to replace the term “relativist” by the one Rorty employs to categorize thinkers like William James, John Dewey and Michel Foucault: “pan-relationalism”.
+
+In the ways relativism and absolutism are generally presented, the choice between these two notions come to two dead-ends: “the absence of possible discussion” and “the faith in abstractions”. If we can question the idea of replacing categories in the heart of philosophical tradition, pragmatism nevertheless highlights the necessity in defining them better.
+This is known as the http://en.wikipedia.org/wiki/Argumentum_ad_populum Argumentum Ad Populum.
+1) I think.
+2) (hidden premise) "I think" explicitly states there is an "I" doing the thinking; indeed, the very concept of thinking itself seems to require an existing thinker
+therefore,
+3) I am/exist.
+
+So either way, it's a trivial, forgone conclusion because it was implied in the very first premise. The real debate lies with whether thinking requires existence, or rather, what are the minimal conditions of existence that need be satisfied for thinking. 
+We use zero to represent a piece of information: that is, that there is zero of some collection. Nothing is not "a thing", but it is usually a state of affairs which is distinguishable from something.
+
+In the same vein, in computer science, we denote the value of a bit usually by either 0 or 1; but here '0' doesn't mean 'nothing' nor does 1 mean 'one thing', but rather they represent two distinguishable states of a physical system, such as a voltage in a wire. Furthermore, these values are used to represent 'false' and 'true' respectively, in reference to some proposition (e.g. "The computer is connected to the network".) In this case, 'true' and 'false' are also no more than the distinguishable states of affairs about a proposition which has two polarized, distinguishable configurations: one which satisfies the proposition, and one which does not. Our notion of "truth" and "falsehood" in the bivalent picture comes from trying to draw such polarized distinctions in the world around us, and to comprehend the world in terms of such polarized distinctions.
+
+As to numerical representation: we do not use '0' to 'increment' to the next set of digits 1–9, any more than we use '1' to increment from "1" to "11". Instead, what we are doing is representing a number using a sequence of symbols, of which '0' is one of them; and the symbols represent the number of items in a hypothetical collection. We take the right-most digit to represent the number of items in a collection of individuals; the next right-most digit to represent the number of items in a collection of groupings of ten individuals, and so on. We may write 007 for 7, but this is redundant and uninformative; while the right-to-left nature of our convention makes the two zeroes in 700 more informative, because it causes the 7 to denote the number of groupings of one hundred in the numeral. But 0 is no more special here than any other digit; the 7 in 736 also represents 7 groupings of one hundred, together with other amounts of tens and individuals.
+
+Our symbols represent information which may be of interest to us; and the information that is of interest to us sometimes is that some collection is  empty. The same applies to the word "nothing", or "vaccuum", similarly. But the ontological status of "information about a system", if it can be said to have ontological status at all, is not a property of the system itself as it is a property of our (or someone else's) interaction with the system. That interaction hopefully reveals something about how the system is; but this does not mean that there is an esoteric, occult sort of object as "no apples" or "no koalas" if for example I find that my office is devoid of either apples or koalas. I merely find in my interaction with my office that it seems not to have the features that it would have if there were apples or koalas in it; and I communicate this information to you my stating that there are zero of each, hoping that you understand that there are no zeroapples or zerokoalas in my office.
+
+As always, it is important to distinguish reality from how we speak of it, to not mistake propositions for facts, or words for properties, however we usually endeavor to have the former represent the latter.
+This will depend on what kind of entities enter into causal relations. The http://plato.stanford.edu/entries/causation-metaphysics/#Relata standard account has it that it's events that are causally related. If so, A and B are ill-suited for the role, and A and B's interaction looks better.
+
+For example, A and B are two Star Trek action figures, and P is being in mint condition. A and B crash violently into each other, say, in a car trunk, and as a result are no longer in mint condition. The standard account would have it that it's A and B's violently crashing into each other that has caused this.
+This http://www.math.ucdenver.edu/~jloats/APresentations_2010/PlatosAcademy_Jim%27s10.ppt.pdf presentation, I think, will answer most of your questions about the inscription.
+
+In short: Plato probably didn't inscribe anything himself. Was there something inscribed above the academy? We don't know. The inscription story began in the 4th century when it was mentioned directly by Julian the Apostate in 362 and tangentially by Sopater of Apamea. So the earliest records of such an inscription are dated more than 700 years after the academy was founded - which should speak to the lack of their gravitas.
+
+Of course, it's a nice story :)
+
+"https://en.wiktionary.org/wiki/ridiculous Ridiculous therefore
+invalid": This is possibly fallacious (depending on what one considers
+ridiculous in general), since an argument could possibly be
+considered valid and ridiculous, for example because of its
+excessive/unnecessary length. Now what is this called? I think https://en.wikipedia.org/wiki/Affirming_the_consequent affirming the
+consequent,
+which is a formal fallacy, might apply. "If invalid then
+ridiculous, therefore if ridiculous then invalid."
+"Ridiculous": This could be an example of 
+    https://en.wikipedia.org/wiki/Ignoratio_elenchi ignoratio elenchi
+    (failing to address the issue in question, in this case: validity),
+    an informal fallacy!
+"Ridiculously invalid": This could imply that that (almost) the whole
+        argument under consideration consists of flaws. In such case, there is hardly any need to point
+        them out.
+
+
+http://philosophy.lander.edu/logic/tvs.html An argument is sound if and only if it is both logically valid and all of its premises are true.
+An argument is either logically valid or is not logically valid.  There is no middle ground here.  In terms of numbers, the logical validity of an argument can be either of the two values in the Boolean domain, which are 0 and 1.
+A premise is either true or is not true.  In terms of numbers, the truth of a premise can be either of the two values in the Boolean domain, which are 0 and 1.
+http://en.wikipedia.org/wiki/Premise An argument has two or more premises.  
+Intuitively, the truth of a set of truth-bearers is a ratio of the subset of true truth-bearers to the superset.  Basically, what I'm saying is that If half of an argument's premises are true then the set of that argument's premises is half true.  
+
+
+If 0 is false and 1 is true, then "half-true" seems like it would be 1/2 or .5.  
+If both are true, then the the value is 2/2 or 1.  
+If neither are true, then the value is 0/2 or 0.
+
+If we know that an argument has any invalid deductions, then we know that the argument is not sound.
+If we know that an argument has any false premise, then we know that the argument is not sound.  
+So, for the soundness of an argument to be represented by a number that is not in the Boolean domain, then that argument would need to be missing some information.  Arguments are made valid by reasoning with valid deductive steps and premises are made true by qualities of their extension in the real world.  Since knowledge of valid deduction is necessary for interpretation, we can make determine that if there is missing information it is probably about the truth of the premises.  This is not absolutely necessary, but we can pretend it is for this discussion because cases where we can't determine how to think logically are significantly less common than cases where we don't can't determine if a statement is true or not.
+
+
+So, any "quantification of soundness" is going to require that we don't know the truth value of at least one of the premises.  Now let's revisit your question: "Are there quantitative measures for the soundness of an argument?"  Since we can determine this depends on the truth of the premises with unknown truth values, we can rephrase the question as "Are there any quantitative measures for the truth of premises with unknown truth values?"   
+
+When phrased this way it becomes clear that what you're actually asking for is http://en.wikipedia.org/wiki/Probability Probability, defined on Wikipedia as "the measure or estimation of how likely it is that something will happen or that a statement is true".  Probabilities are also ranged over the Boolean domain, but include real numbers and not just integers.  So, 0 means that the statement will never be true and 1 means that the statement will always be true.  Mapping probabilities to logical/set operations is pretty intuitive.  Intersection of premises multiplies the probabilities of their truths to get the probability of truth of the composite judgment.  So, if there is a 0.5 probability that P is true and 0.4 probability that Q is true then there is a 0.2 probability that both P and Q will be true.  This type of math works equivalently for greater numbers of premises.  That should be enough for you to get started.
+
+The point is that the quantitative measure of the soundness of an argument can be reduced to the probability that all its premises are true.
+
+  I like to ask questions about how to measure soundness.
+
+
+Unfortunately, before we can go forward, we need to unpack some of the assumptions lying behind your question.
+
+To begin with: measure the soundness of what?
+
+Arguments of some kind, of course-- but are these formal arguments, or natural language (i.e., rhetorical) arguments?
+
+If they are formal arguments, as soon as there is a logical fallacy, the argument fails.  Additional fallacies don't make much difference; it is like a mathematical proof with a erroneous step.
+
+If, however, you are speaking of informal arguments, i.e., arguments in natural language, then the fallacies that you are speaking of are rhetorical in nature, and don't actually invalidate the argument at all.  They fail to support the argument, but don't undercut it from a logical perspective (although they may make it less persuasive psychologically.)
+
+Note that this very question demonstrates the problem that we are dealing with.  
+
+Much depends upon how we interpret the terms "argument" and "fallacy"-- whether we are speaking of them in the context of formal logic, or in the context of rhetoric.  This ambiguity is a hallmark of natural language arguments, and necessarily so: words have meaning in context, and the context is never completely saturated.
+
+In other words, attempts to apply the tools of mathematics (ratios of fallacies to premises) are bound to fail, as there is no way to unambiguously count premises or fallacies, since their recognition depends upon an interpretive process dependent upon context, and that context (in an non-formalized structure) cannot be sufficient for epistemic closure.
+Mathematically speaking, Speaker 2 error is linearly extrapolating Speaker 1 argument, although most things don't scale linearly beyond some narrow range.
+I have not studied St. Thomas but the theory is also discussed in muslim philosophy, that's why I readily recognized the theme. My answer also comes from my knowledge of muslim philosophy but I think due to common origins between Medieval Christian and Muslim philosophy the theories must be identical.
+
+Now to answer your question, the essence/potency doesn't have to come from anywhere, because they are nothing at all in the first place! That is, essence as limit of being is itself non-being or non-existence. Because only non-existence limits existence, while the act of being by God only creates being/existence. 
+There are in fact two things going wrong here:
+
+
+Person 2 claims that person 1 used a fallacy, but doesn't tell why. This is not a fallacy, as a fallacy only occurs in arguments, but there's no argument here - there's only a statement.
+Person 2 claims that because person 1's argument is fallacious, therefore the conclusion must be wrong. This is called http://en.wikipedia.org/wiki/Argument_from_fallacy Argument from fallacy.
+
+The multiplicity of mathematical objects is meant to account for scenarios such as the following:
+
+
+Geometry: Let triangle a intersect triangle b ...
+Arithmetic: 2 + 2 = ... (count your fingers)
+
+
+In both cases we tend to use concrete objects and drawings. But these are only practical aids, not the real mathematical objects. The multiple imperfect triangles on the blackboard stand for multiple perfect, exact, pure triangles.
+
+The source is Plato's http://en.wikipedia.org/wiki/Analogy_of_the_Divided_Line Analogy of the Divided Line in the Republic through which he presented four different kinds of objects, corresponding to four different kinds of knowledge. Here is an excerpt where Plato relates to the mathematical objects:
+
+
+  You are aware that students of geometry, arithmetic, and the kindred sciences assume the odd and the even and the figures and three kinds of angles and the like in their several branches of science; these are their hypotheses . . .
+  Yes, he said, I know.
+  And do you not know also that although they make use of the visible forms and reason about them, they are thinking not of these, but of the ideals which they resemble; not of the figures which they draw, but of the absolute square and the absolute diameter, and so on— the forms which they draw or make, and which have shadows and reflections in water of their own, are converted by them into images, but they are really seeking to behold the things themselves, which can only be seen with the eye of the mind? (Republic Book VI)
+
+You can see this https://math.stackexchange.com/questions/667377/when-and-where-the-concept-of-valid-logic-formula-was-defined post for some historical references.
+
+The English translation (1950) of 
+
+
+David Hilbert & Wilhelm Ackermann, https://books.google.it/books?id=45ZGMjV9vfcC&pg=PA68 Principles of Mathematical Logic (2nd ed - 1937), page 68, has :
+
+
+
+  A formula of the predicate calculus is called logically true or, as we also say, universally valid only if [...].
+
+
+The modern concept of validity [Allgemeingultigkeit] regarding propositional logic has been introduced by Bernays in his https://books.google.it/books?id=LZzFAgAAQBAJ&pg=PA56 Habilitationsschrift (1918) :
+
+
+  Every provable formula is a valid formula and conversely
+
+
+where a "valid" formula is 
+
+
+  one that yields a true proposition according to the interpretation given for any arbitrary choice of propositions to substitute for the variables [...]. 
+
+
+For first-order logic,
+
+
+  this notion [Allgemeingultigkeit] seems to be have been defined for the first time by https://books.google.it/books?id=LZzFAgAAQBAJ&pg=PA105 Behmann (1922).
+
+
+
+
+Of course, the notion of "valid argument" is as old as "formal logic" itself; see http://plato.stanford.edu/entries/aristotle-logic/ Aristotle's logic :
+
+
+  
+    A deduction is speech (logos) in which, certain things having been supposed, something different from those supposed results of necessity because of their being so [emphasis added]. (Prior Analytics I.2, 24b18-20)
+  
+  
+  The core of this definition is the notion of “resulting of necessity” . This corresponds to a modern notion of logical consequence: X results of necessity from Y and Z if it would be impossible for X to be false when Y and Z are true. We could therefore take this to be a general definition of “valid argument”.
+  
+  Aristotle proves invalidity by constructing counterexamples. This is very much in the spirit of modern logical theory: all that it takes to show that a certain form is invalid is a single instance of that form with true premises and a false conclusion. However, Aristotle states his results not by saying that certain premise-conclusion combinations are invalid but by saying that certain premise pairs do not “syllogize”: that is, that, given the pair in question, examples can be constructed in which premises of that form are true and a conclusion of any of the four possible forms is false.
+
+
+If we "jump to" a pre-modern text :
+
+
+http://en.wikipedia.org/wiki/Giovanni_Girolamo_Saccheri Girolamo Saccheri, https://books.google.it/books?id=tn4vNg4E-1AC&pg=PA5 Logica demonstrativa (1st ed.1697),
+
+
+a "traditional" treatise full of new (and hidden) hinsights, we can find the same basic notion :
+
+
+  
+    Caput VI : De artificio consequentie [How consequence works]
+  
+  
+  Consequence is the transmittal, or inference, from one truth to another. [...] We say that the inference from one truth to another is valid [Dicitur valere illatio ab una veritate ad aliam] whenever one cannot holds without the other.
+
+
+And again in Caput VIII : Quid sit argumentatio, regarding syllogism :
+
+
+  An argument is a speech in which something is inferred from something other [Argumentatio est oratio, in qua unum ex alio infertur].
+
+
+The discussion of syllogistic figures end with the remark that :
+
+
+  the nineteen modes seen above concludes by virtue of form alone [dictos novemdecim modos concludere ratione formae].
+
+
+
+
+In the first modern English math log textbook :
+
+
+Alonzo Church, https://books.google.it/books?id=JDLQOMKbdScC&pg=PA228 Introduction to Mathematical Logic (1956), we have [page 228] :
+
+
+
+  A non-empty domain of individuals having been selected, a wff is said to 
+  be valid in that domain if it has the value t tor all possible values of its free variables [...].
+
+
+We can see also [page 55] :
+
+
+  Since it is intended that proof of a theorem shall justify its assertion, we call an interpretation of a logistic system sound if, under it, all the axioms either denote truth or have always the value truth, and if further the same thing holds of the conclusion of any immediate inference if it holds of the premisses. In the contrary case we call the interpretation unsound. 
+
+
+The same modern definition of validity we can find in :
+
+
+Stephen Cole Kleene, https://books.google.it/books?id=HZAjPwAACAAJ Introduction to Metamathematics (1952), page 174.
+
+
+We can find the definitions of valid and sound arguments in :
+
+
+Stephen Cole Kleene, https://books.google.it/books?id=4GzCAgAAQBAJ&pg=PA68 Mathematical logic (1967 - Dover ed  2002), page 59 and 68, respectively.
+
+
+
+
+
+
+A scketchy conclusion we can drawn from the historical development is the following :
+
+
+the fundamental notion of "valid argument" has to be "disentangled" from the intuitive notion of inferring a truth from another.
+
+
+A valid argument, i.e. an argument that is "correct" by virtue of form alone, must not pressupose the truth of its premises.
+
+Having "rediscovered" in moder time this basic notion (already known to Aristotle), the need arises for a term denoting a valid argument with true premises : a sound argument.
+It depends what you consider the essence of a thought.  Why would a thought 'start' or 'end' if time is not part of your definition of thinking?  If all that exists is the present state, then each intermediate state in the formation of the thought is irrelevant or dubious.  You have it when you have it.  And there is no contradiction.
+
+You only imagine that a thought is tied to language, and therefore time, because it is our habit to present our thoughts to consciousness in our inner monologue.  But the articulation of the thought to consciousness in this manner is not the thought.
+
+You can tell, because you have thoughts that you have not articulated to yourself on which you act.  You move toward something interesting across the room without even noticing you are doing so.  You unconsciously avoid stepping on people's toes in a moving crowd.  You absent-mindedly pet your dog...
+
+You can check that those accord with the notion of thought as articulation because on recourse to reflection, you can articulate them to yourself.  But, to me, this makes clear that the articulation is not a necessary part of the thought.  So the notion of 'by the time you have thought it' is not a meaningful thing, and not a problem for presentism to address.
+Your question presupposes that Descartes made a circular argumentation in Descartes: Meditations on First Philosopyhy. I do not see a Cartesian circle as I tried to explain in https://philosophy.stackexchange.com/questions/28838/how-does-descartes-use-god-in-his-meditations How does Descartes use god in his Meditations? in the discussion following the answer of @virmaior.
+
+In order to answer your question concerning weak points of Descartes' argumentation I reconstruct his argumentation as follows:
+
+
+The sceptical method shows the existence of me as a thinking being (res cogitans) 
+The concept of God in my mind proves the existence of God. Note. Descartes does not presuppose that the concept of god corresponds to reality.  
+The existence of God ensures the truth of my clear and distinctive conceptions. 
+My clear and distinctive conception of myself as a person with mind (res cogitans) and body (res extensa) is true.
+
+
+I have severe objections against his argumentation, e.g., in point 2. Descartes recalls the Scholastic definition of God and argues as follows (Med III.22): 
+
+
+  Hence there remains only the idea of God, concerning
+  which we must consider whether it is something which cannot
+  have proceeded from me myself.  By the name God I understand a
+  substance that is infinite, independent,
+  all-knowing, all-powerful, and by which I myself and
+  everything else, if anything else does exist, have been
+  created.  Now all these characteristics are such that the more
+  diligently I attend to them, the less do they appear capable
+  of proceeding from me alone; hence, from what has been already
+  said, we must conclude that God necessarily exists.
+
+
+Along these lines Descartes expands his proof in the subsequent passages of Meditation III. Descartes considers it impossible that such an idea - which captures the concept of infinity in such a prominent way - originates solely from a human mind. 
+
+My objection: Today, the concept of infinity is well established in mathematics. At least since Georg Cantor in the 19th century we know about several types of infinity and set theory provides a mean to calculate with infinities in a non-trivial way. This example should cautious us to underestimate the creative power of the human mind.
+As @MauroAllegranza stated in a comment, Hobbes has been materialistic and nominalistic.
+
+Taking this, the answer of @JoWehler is not completely correct: Of course, a mathematical (infinite) line can be seen as a "compound imagination". A composition of several finite lines or even one and the same finite line. But Hobbes point would be that, in thinking (imagining) a mathematical, one-dimensional line, we have to refer to our compound imagination of a (not strictly one-dimensional or infinite) line.
+
+His point is bold: If we want to imagine a line, not only a symbol for it like the vector (2,5), we have to imagine something visual. We cannot possibly imagine anything one-dimensional or infinite. Thoughts like the one you mention are of another kind. They are neither memories nor imaginations of anything. They are thoughts like this imagination, but one-dimensional and infinite, reducing (or extending) an image to something we have no image of, an abstraction of an imagination.
+
+In this sense, memories and imaginations are one and the same: They are real content of conciousness. Not only any abstraction/idea/momentum/proposition. Hobbes in this sense would have rejected the idea of the reality of abstract/ideal entities.
+Disclaimer: what follows is greatly simplified. Conventionalism in the philosophy of science can be understood as a rejection of foundationalism - the idea that statements about the world can be deduced (or even induced) directly from observations that are infallible. Conventionalists point out that observations are potentially ambiguous and require interpretation, and in any event, theories are under-determined by data so one cannot have a single theory or set of statements about the world that are uniquely deducible from one's observations. 
+
+More extreme versions of conventionalism (LeRoy, Ajdukiewicz) reject objectivity entirely and hold that conventions of language, measurement and methodology mean that one cannot have any kind of objective facts, statements or theories. 
+
+Conventionalism is different from instrumentalism, which in effect holds that scientific theories are not true at all, just instruments of prediction. Most conventionalists, at least of the moderate kind, hold that while we can have more or less good theories about the world, the best we can hope for is for these theories to be coherent and to do a good job of making sense of observations by their own lights. As such, conventionalism is often associated with a coherentist account of truth. 
+The question is vague, so it can be several different things. Generally, dismissing an argument based on who is supporting it is called https://en.wikipedia.org/wiki/Ad_hominem ad hominem, "attack on an argument made by attacking the character, motive, or other attribute of the person making the argument, rather than attacking the argument directly". It might also be what is more specifically called http://c2.com/cgi/wiki?AdVerecundiam converse appeal to authority "that must be false, because that's what [infamous expert] says".
+
+However, I am not sure what is meant by "otherwise valid", and "support it for the wrong reason". If their reason for supporting it is part of their argument, and it is wrong, then the argument is at least unsound (has false premises), or perhaps even invalid, if the wrongness affects the reasoning. If proponents who present "partial and weaker (and easier to refute) representation" of the argument are deliberately picked out this would be the https://en.wikipedia.org/wiki/Straw_man#Contemporary_work selection form of the straw man, which Talisse and Aikin call "weak man", and in extreme forms Drum calls "nut picking", i.e. cherry picking nutty supporters.
+
+EDIT: Based on the added example, this seems closest to the https://en.wikipedia.org/wiki/Argument_from_ignorance ad ignorantiam, appeal to ignorance, ("ignorance" refers to lack of contrary evidence), concluding that X because presented arguments for not X are all flawed. Of course, it is not necessary that they are flawed specifically due to circular reasoning. The fallacy illicitly shifts the burden of proof to the opponents by asserting one's own position as the default. It is a case of https://en.wikipedia.org/wiki/False_dilemma false dilemma, because it excludes the possibility that presented evidence is insufficient to draw a conclusion either way. The proverbial rebuttal is the oft-quoted "the absence of evidence is not the evidence of absence", or in this case, the absence of good arguments to the contrary is not an argument for their absence. In the example another false dilemma appears in the presumption that the Earth is either flat or round.
+See http://plato.stanford.edu/entries/spinoza-physics/ Spinoza's Physical Theory:
+
+
+  God or Nature is the unique substance (Ethics,Ip14), existing essentially (Ip7), infinite in power (Ip8), and characterized by infinite attributes, each constituting its essence (Id4). Finite things are but modifications of that substance, and not themselves independent beings (Ip14); bodies in particular are http://plato.stanford.edu/entries/spinoza-modal/ modes of substance conceived under the attribute Extension. God or Nature, as the ultimate cause of all things, is also the cause of all the particular modifications of extended nature (Ip18). 
+  
+  Thought is another http://plato.stanford.edu/entries/spinoza-attributes/ attribute through which substance is conceived (IIp1). Since substance is unique, and the attributes simply various essences under which it is conceived, the series of finite modal causes in each attribute must operates strictly in parallel with one another (IIp7). For every modification of Thought there is a modification of Extension it mirrors, and vice versa; and the causal order of the one is perfectly matched with that of the other. The mind, a finite mode of Thought, is, under this parallelism, simply the idea of the body to which it corresponds under the parallelism (IIp13). The economy of ideas is precisely as closed, necessitated and deterministic as that of bodies.
+
+
+
+
+Comment on "infinity"
+
+
+  [Ethics, Def.2] A thing is said to be finite in its own kind [in suo genere finita] when it can be limited by another thing of the same nature. For example, a body is said to be finite because we can always conceive of another body greater than it. So, too, a thought is limited by another thought. But body is not limited by thought, nor thought by body. 
+  
+  [Def.6] By God I mean an absolutely infinite being, that is, substance consisting of infinite attributes, each of which expresses eternal and infinite essence. 
+  
+  Explication I say "absolutely infinite," not "infinite in its kind." For if a thing is only infinite in its kind, one may deny that it has infinite attributes. But if a thing is absolutely infinite, whatever expresses essence and does not involve any negation belongs to its essence. 
+
+
+According to Id2, infinite must mean "unlimited": we may think at lack of spatial or temporal limits.
+Yes and no. They both criticize a certain approach to semantic theory that can be called realism about meaning. Roughly, realists see meanings as some kind of entities, although there is a wide range of opinions as to their nature. For Plato and Frege they are ideal forms occupying a separate realm, for Aristotle and Russell they are invariances of sensible experience, and in informational semantics of Fodor and Dretske they are correlations between the brain and external reality. Opposed to it is pragmatism about meaning advanced  by Quine and Wittgenstein, which ultimately reduces meaning to assertions and speech acts, in other words semantic categories like meaning and truth supervene on "use", i.e. linguistic practice. This has purely semantic consequences. The first is holism, concepts only acquire significance as parts of a conceptual scheme, not on their own. In Fodor's stark contrast a being may possess a single meaningful concept according to realists, but not pragmatists. The second is access to meaning, according to pragmatists there is nothing to it beyond what is publicly accessible through "overt behavior in overt circumstances" as Quine put it, this is seen as essential to it being learnable and communicable. Finally, without meanings as entities truth and reference can not be viewed as correspondence relations, their role is deflated to being phrasing devices, e.g. "p is true" is a figure of speech for asserting p indirectly.
+
+There is however a second dimension to the spectrum of semantic theories, on which Quine and Wittgenstein are at the opposite ends. Classical semantics starting with Mill and Frege was truth-conditional, meaning of sentences was seen as reducible to conditions of their obtaining. This entails for example that like classical truth it is compositional, meaning of complex sentences reduces to meanings of their constituents. Moreover, the account of inference for complex sentences can be given based on truth tables in terms of truth of elementary sentences. Quine never offered a semantic theory of his own, but his star pupil and heir apparent Davidson did offer one that is both pragmatist and truth-conditional. The derivative and relative nature of meaning in it manifests in the fact that multiple global assignments of truth-conditions may work equally well, even as they disagree on which sentences are true. This is the famous http://plato.stanford.edu/entries/quine/#IndTra indeterminacy of translation/interpretaion. 
+
+Wittgenstein was led away from truth-conditionalism after the Tractatus when he encountered the so-called "color problem". Both "A is red" and "A is green" seem like elementary sentences, yet the first implies the negation of the second. Truth-conditional semantics has difficulties accounting for such https://expresivismo.files.wordpress.com/2010/06/brandom-on-material-inference.pdf "material inference", its notion of inference is a formal one. So (intermediate) Wittgenstein came to view meaning as derivative from the web of inferences that a sentence participates in, its inferential role, and language as a web of meaning-giving overlapping "calculi". This approach came to be called inferentialism. Inference is treated as a primitive, and truth is seen as not only deflated as in all pragmatist accounts, but a defective notion. As semantic paradoxes like the Liar show it can not be coherently reconstructed from basic notions without limitations. A big event in 1990s was Brandom giving a first full fledged account of https://books.google.com/books?id=1ihqvEzZXxMC inferential semantics for natural languages in Making It Explicit (he credits Dummett and Sellars as key links in transmission from Wittgenstein).
+
+One could say that Quine and Wittgenstein agree on language philosophically, and their disagreement is more of a technical one. Ultimately, it stems from difference in purpose: Quine was more concerned with accommodating scientific practice and scientific language, and sceptical about the prospects of a semantic theory for natural languages. Wittgenstein, on the other hand, was always more interested in natural language, even already in the Tractatus. The irony is that in his late period he came to where Quine started, concluding that nuances of context and application make any semantic theory of natural language hopeless. His late philosophy, of language in particular, is not to build theories but to therapeutically nudge others to realize the confusions "bewitchment by means of language" leads to. A good review is http://johnmacfarlane.net/pragmatism-inferentialism.pdf MacFarlane's Pragmatism and Inferentialism, see also https://uni.hi.is/opj/files/2011/02/OPJ-quine-kripke-wittgenstein.pdf Johnsson's Quine and Kripke's Wittgenstein.
+This could be an instance of https://en.wikipedia.org/wiki/Argument_from_ignorance ad ignorantiam, the argument from ignorance, which in its turn is a type of https://en.wikipedia.org/wiki/False_dilemma false dilemma. The overlooked possibilities are that you both are wrong (or right), or that the evidence is insufficient to settle the matter either way. To paraphrase, the absence of explanation is not the evidence of its impossibility, see related https://philosophy.stackexchange.com/questions/32257/what-fallacy-dismisses-a-conclusion-because-supporters-give-invalid-arguments-fo/32260#32260 What fallacy dismisses a conclusion because supporters give invalid arguments for it? 
+
+However, without context it is hard to tell if the argument is truly fallacious or just informal and pragmatic. Given two competing hypotheses, one of which explains x and the other does not, other things being equal it is reasonable to pick the explanatory one. Indeed, the hypothetico-deductive method of science is based on doing just that. http://plato.stanford.edu/entries/scientific-realism/#MirArg Putnam's "no miracles" argument for scientific realism also has similar structure. If scientific theories did not largely reflect reality, it goes, it would be a miracle that they make predictions as well as they do, realism "is the only philosophy that doesn't make the success of science a miracle". In this form the argument is indeed problematic on ad ignorantiam grounds: we do not know if other reasons might explain empirical success, or if it even needs explaining. But it would be an informal argument against a position which agrees that success of science calls for explanation ("is a miracle"), but is unable to provide one.
+These paragraphs are, in a nutshell, Wittgenstein's account of public language, which precedes the core of his private language argument. Its purpose is preparatory, to dispel the traditional idea that names are associated with some "content" or "meaning", which represents or "describes" the named thing (http://plato.stanford.edu/entries/names/#2.2 Frege-Russell view). Wittgenstein's view is in a slogan that "meaning is use", what is learned is linguistic behavior, not mental "descriptions":
+
+
+  But how is the connexion between the name and the thing named set up? This question is the same as: how does a human being learn the meaning of the names of sensations?—of the word "pain" for example. Here is one possibility: words are connected with the primitive, the natural, expressions of the sensation and used in their place. A child has hurt himself and he cries; and then adults talk
+  to him and teach him exclamations and, later, sentences. They teach the child new pain-behaviour. "So you are saying that the word 'pain' really means crying?" — On the contrary: the verbal expression of pain replaces crying and does not describe it.
+
+
+He then goes on to explain how some common sentences, that encourage thinking of sensations as "stuff" when viewed in context support no such substantivation. This is similar in spirit to Russell's paraphrases of expressions like "the current king of France", which show that such sentences can be understood without presupposing existence of (potentially incoherent) entities, despite the apparent suggestion in their grammatic form. Except Wittgenstein "paraphrases" not apparent names into descriptions, but descriptions into verbal behavior. "Sensations are private" is compared to "one plays patience [card game] by oneself", i.e. it is a comment on how a game is played. "Another person can't have my pains" is personalized into a person striking herself on the chest and saying "surely another person can't have THIS pain!" To be discharged with "one does not define a criterion of identity [of a thing] by emphatic stressing of the word "this"".
+
+What Wittgenstein argues is quite counterintuitive: that the traditional view of words as pointers to "mental stuff" in the head or mind is philosophically naive, and linked to taking surface grammar at face value. Instead, he suggests, the words are just verbalized parts of our actions and responses, verbal signals, "the verbal expression of pain replaces crying and does not describe it". Like bearerless names dissolve into descriptions, meanings dissolve into inferential roles, see more under https://philosophy.stackexchange.com/questions/33865/are-wittgenstein-and-quine-criticizing-the-same-semantic-system-if-they-arent/33872#33872 Do Wittgenstein and Quine give the same criticisms of semantics? At the end of §254 he compares the traditional view to mathematical Platonism:"...what a mathematician is inclined to say about the objectivity and reality of mathematical facts, is not a philosophy of mathematics, but something for philosophical treatment."
+
+With the nature of public language clarified Wittgenstein can move directly to the core of his private language argument. It turns out that the idea of private language is only plausible on the traditional "descriptive" view of language. With that view out of the way it is easier to explain why the conditions that enable verbalized public behavior are not met in the private setting, making private language problematic. See https://philosophy.stackexchange.com/questions/34111/did-wittgenstein-consider-the-possibility-of-a-private-language-with-public-cont/34157#34157 Did Wittgenstein consider the possibility of a private language with public content?
+I guess this fits under "Moving the goalpost" in some sense, even though the conversation topic was not changed, the proponent of that argument has moved the goalpost from countering that argument to countering another one without admitting that the previous goal has been achieved and was relevant.
+
+Of course, a person may legitimately say "Yes, you're right that argument does not work but I think there is another one for my position: [...]." However, shadily acting like nothing was refuted when in fact you showed an argument to be invalid is definitely intellectually dishonest.
+
+More generally, the fallacy of moving the goalpost is a special case of the informal fallacy referred to as "Special Pleading".
+
+Relevant short wiki entry: https://en.wikipedia.org/wiki/Moving_the_goalposts#Logical_fallacy https://en.wikipedia.org/wiki/Moving_the_goalposts#Logical_fallacy
+
+Also potentially relevant: https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/129/Moving_the_Goalposts https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/129/Moving_the_Goalposts
+
+It's (probably) important to realise that Heidegger doesn't coin the term "ontotheology." He gets it from Kant, notably in the Lectures on "philosophical theology" where he considers the term as designating that part of theology which "considers God merely in terms of concepts" (Cornell edition, p. 4).
+Nevertheless, Heidegger makes some fairly bold claims on behalf of a relationship between ontology and theology:
+
+
+  Western metaphysics... since its beginning with the Greeks has eminently been both ontology and theology, still without being tied to these rubrics. ("The Onto-theo-logical Constitution of Metaphysics", p. 54).
+
+
+While this claim seems grandiose, its worth remembering that this connection is made in Aristotle's Metaphysics XI:
+
+
+  Since there is a science of Being qua Being and separately ["ontology"], we must inquire whether this should be regarded as identical with natural science or if it should be regarded as a distinct branch of knowledge. Physics deals with things which contain a source of motion in themselves, and mathematics is speculative and is a science which deals with permanent things, but not with things which can exist separately. Hence there is a science distinct from both of these, which deals with that which exists separately and is immovable... And if there is an entity of this kind in the world of reality, here surely must be the Divine, and this must be the first and most fundamental principle. (Armstrong translation, 1064a29–36)
+
+
+Aristotle then goes on to explicitly name this third science "theology" and claim that it is "the highest" of the speculative sciences.
+So when Heidegger says "metaphysics is onto-theo-logy," he's not trying to make a claim about metaphysics; rather he's trying to draw our attention to the way that metaphysics characterises itself, and in a way to provoke the very question you've asked: how have the two things seem to become so intertwined or, as he writes:
+
+
+  The onto-theological character of metaphysics has become questionable for thinking... from the experience of a thinking which has discerned in onto-theo-logy the still unthought unity of the essential nature of metaphysics.
+  
+  ...
+  
+  It would be rash to assert that metaphysics is theology because it is ontology. One would say first: Metaphysics is theology, a statement about God, because the deity enters into philosophy. Thus the question about the onto-theological character of metaphysics is sharpened to the question: How does the deity enter into philosophy...? ("The Onto-theo-logical Constitution of Metaphysics", p. 55)
+
+
+The important point is that its not that there was something called ontology which became intertwined with something called theology and produced a third thing called metaphysics. Its rather a complete reverse of this: metaphysics has always left unthought the identity between ontology and theology that has been implicit in it. Its only now, at the end of a process that separates something we call "ontology" from something we call "theology" that the relationship between them comes into question at all.
+
+
+
+
+
+Heidegger's questioning of "onto-theology" is bound up with the project he announces in Being and Time as the "destruction" of the traditional content of ontology. The problem is that continuing to use onto-theological language after the point where the question of the relation between being and God has emerged tends to impoverish both of those terms, so that, on the one hand, God comes to be thought as a kind of being among others and, on the other, being comes to be thought as ordered towards God as what is the highest form of being.
+
+For Heidegger, metaphysics, by continuing to develop onto-theologically, leaves the being of beings unexamined, and so being comes to be determined by something other than being. God, too, fares no better, since God is unable to be understood as divine---in the sense that Aristotle and Plato use this word---but only as one being amongst others. These dual aspects of the impoverishment of being and of god, Heidegger associates with the thesis of God as causa sui, which allows him to say: 
+
+
+  [Causa sui] is the right name for the god of philosophy. Man can neither pray nor sacrifice to this god. Before the causa sui, man can neither fall to his knees in aw nor can he play music and dance before this god.
+  
+  The god-less thinking which must abandon the god of philosophy, god as causa sui, is thus perhaps closer to the divine God. ("The Onto-theo-logical Constitution of Metaphysics", p. 72)
+
+
+By bringing onto-theology into question, Heidegger hopes to open up a different way of thinking about beings and a different way of relating to the divine.
+
+
+  A standard argument for the existence of God is the Kalam Cosmological Argument. The first premise... is that if something begins to exist then it must have a cause.... Would it also be true that if something had a cause to its existence then it must have a beginning?
+
+
+The revised statement would not be true, necessarily; it is the converse of the original, not the contrapositive.
+
+The original premise is: If A begins to exist, then A has a cause. The restatement is the converse: If A has a cause, then A begins to exist. Although apparently true in this example, the revised statement does not necessarily follow from the original; here, the converse must be independently proven. 
+
+See Converse (logic), Wikipedia. Several other websites contrast the contrapositive, inverse, and converse of a statement.
+This is not valid.
+
+You can see by formalizing it:
+
+
+All P are BW
+Some T are BW
+Therefore, Some P are T.
+
+
+We cannot infer the conclusion. For a graphical proof with venn diagrams, see AII - form two from http://www.butte.edu/resources/interim/wmwu/iLogic/2.5/iLogic_2_5.html this link.
+Short Answer to OP
+
+It's a bit hard for me to understand the original question(s), so the majority of this answer is directed at the clarification that came from discussion in the comments. The short answer that precedes that is, by my lights, relatively uninteresting.
+
+My short answer to the question of "whether the probability of a Christian god can reasonably be said to be infinitesimal", is that I couldn't say without clarification. It's certainly not the case that the mere fact of an infinitude of competing possibilities renders the possibility only infinitesimally likely. I don't think the absolute probability judgment is very easy to grasp or make sense of, so I would want to make a judgment of relative likelihood holding everything except for the proposition that the Christian god exists fixed for the sake of comparison.
+
+I'd need to know whether the conception of the Christian god is of an intervening god who might leave detectable traces or more of a deistic "watchmaker" that starts the initial processes and then stays out of things. Since I've neither witnessed any miracles nor heard testimony I take to be reliable of such things occurring, I don't have any special evidence for God's existence. 
+
+So I'd evaluate the proposition that God exists according to the same standards I'd use to evaluate other theoretical posits, based on considerations like explanatory value. Based on the extraordinary powers typically ascribed to the Christian god, it seems that there are simpler explanations with equal explanatory value for the various phenomena I take to require explanation. So, I'd likely refrain from such a posit based on my evidence. To the extent that these more conservative explanations require less of reality, it seems that they would be more likely to be true. Of course, all of this is highly contingent on what you take to require explanation and what counts as a good explanation. Toss in some miraculous phenomena or require highly unified explanation and positing god's existence is a lot more attractive.
+
+The Larger Issues
+
+Following up on the discussion in the comments, I'm taking the relevant question to be  
+
+
+  How do we know anything about the possibility of a reality beyond
+  what we directly experience through our senses, and can we judge the
+  relative likelihood of these extra-sensory possibilities?
+
+
+with the specific extra-sensory possibility at issue being the existence of a Judeo-Christian god.
+
+I'll break this into a few different issues concerning. This got very long, so I added a brief TL;DR to the longer sections. 
+
+How Do We Know What Exists?
+
+The question of what we should believe exists is usually taken as a matter of determining the https://plato.stanford.edu/entries/ontological-commitment/ ontological commitments of our best theory of reality. There are a variety of criteria that we might use to compare and choose between theories, but simplicity and explanatory power are two frequently cited ones:
+
+
+https://plato.stanford.edu/entries/simplicity/ Simplicity: usually this is taken to be a matter of the fewest unexplained posits. For instance, a theory that posits only physical entities is simpler than one that posits physical and mental entities. Then some formulation of Ockham's razor would be appealed to in order to favor the simplest theory, all other things being equal.
+Explanatory Power/Fruitfulness: another criteria for theory choice is how fruitful the theory is, its explanatory power. If a theory can explain more than competitors then, other things being equal, that theory is to be preferred. What exactly a good explanation consists in is itself a big area of study, some resources here would be the SEP articles on https://plato.stanford.edu/entries/scientific-explanation/ Scientific Explanation and Grounding as a form of https://plato.stanford.edu/entries/grounding/#Exp Metaphysical Explanation. 
+
+
+An important challenge to any set of criteria for theory choice are worries about https://plato.stanford.edu/entries/scientific-underdetermination/ underdetermination. The worries floated here are that no matter what criteria you settle on, there will always be multiple mutually incompatible theories that satisfy your criteria just as well as one another. Given your criteria, the worry goes, all of these theories would have equal claim to being the theory you should adopt, yet only one can be true.
+
+How Can We Have Knowledge of Things "Beyond our Senses"?
+
+For this first question, note that there is nothing special about god here. Science posits and has posited all manner of entities that we have no -- and, in some cases never could have -- direct experience of. The relevant literature here would be the Philosophy of Science discussion on the nature of unobservables. Central to this debate has been the competing views on the aims of science. On one hand, https://plato.stanford.edu/entries/scientific-realism/ Scientific Realists claim that science aims to provide us with theories that give a literally true description of the world, including whatever lies beyond what we can observe. For example, electrons were posited to explain the presence of a trail in a cloud chamber, but were not themselves observed directly -- we only observed their effect (the trail) not the electrons themselves. Scientific realists say that we should believe that electrons exist -- even assuming we can't observe them directly -- because the assumption of their existence provides the best explanation of the observable phenomena (so, they take it to be an assumption with high explanatory value and take that to be an indicator of its truth).
+
+By contrast, https://plato.stanford.edu/entries/constructive-empiricism/ Constructive Empiricists hold that the only aim of science is to provide an empirically adequate account of the observable phenomena and that we should remain agnostic about what unobservables there are. They deny that the explanatory value of the assumption of the electron's existence, e.g., provides us with reason to believe that there are electrons.
+
+Note that these are both views about theories in the natural sciences. Neither has much to say about things like mathematical entities, which provide a better comparison to entities like a Judeo-Christian god since the truths of mathematics -- like the theological truths, if any -- are typically taken to be necessarily true.
+
+TL;DR We gain knowledge of things beyond our direct sensory experience through https://plato.stanford.edu/entries/abduction/ abduction/inference to the best explanation. If the assumption that a certain thing exists provides a good explanation of the relevant phenomena, and there are no better competing explanations, that provides us with (defeasible) reason to believe such things really exist, despite our lack of direct acquaintance with them.
+
+What About Necessary Beings?
+
+The Judeo-Christian god, like mathematical entities, are typically taken to exist necessarily if they exist at all. What that means is that, assuming they exist, it is metaphysically impossible that they would fail to exist. Their non-existence might be epistemically possible, in that it is compatible with what we know, but these epistemic possibilities would not be genuine metaphysical possibilities. Rather, they would be impossibilities that merely seem possible due to our ignorance.
+
+So, why posit such necessary existents? In the case of math, the idea typically goes that the truths of mathematics don't depend in any way on contingent features of reality and so, e.g., 2+3=5 would still be true even if absolutely nothing physical existed. 
+
+If something along those lines is right, then that gets us that mathematical truths are necessary truths, but why think there are numbers? Here the thought is that numerals are singular terms that, like names of people, refer to things. So, for "2+3=5" to be true, there must be some entities referred to by "2", "3", and "5" as well as some relation ("being the sum of") holding between these three numbers. If the truth is necessary, then the existence of these entities must also be necessary.
+
+A similar line would go for god. If there are necessary truths that refer to god then god must exist of necessity. A common reason to think that truths about god are necessary is similar to the mathematical truths. If god exists outside of space and time, and existed prior to anything existing, then the existence of god doesn't seem to depend on any contingent features of reality. So, the story goes, god must exist of necessity.
+
+In both cases, however, we would need some reason to think the relevant body of claims is true. In the case of math, we typically think that the utility of mathematics in describing and making predictions about the world gives us reason to believe the claims are true. Our experience of counting seems to give us reason to accept arithmetic, and measurement seems to commit us to something like a theory of real numbers. The truth of the corresponding mathematical theories seems to be the best explanation for the regularities we find in counting and measurement. So, we think these abstract theories are true. 
+
+In the case of god, you have the various arguments for the existence of god. You have said that you're assuming none of them are valid. In order for this to not be question-begging I'm going to assume that you mean that none of these arguments provide a deductively valid proof of the existence of god from obviously true premises (so none of these arguments are deductively sound). Then, we are left with the question of whether the existence of god is an assumption with explanatory value and whether it is the best explanation for the relevant phenomena. How you evaluate this will depend on what you take the class of phenomena to be explained to include. If you believe in miracles, which we'll assume by definition preclude a naturalistic explanation, then positing a supernatural being would seem to have high explanatory value. Even without miracles, you might think that assuming the existence of god provides the best explanation of the relevant phenomena, perhaps because it provides a highly unified theory of the phenomena.
+
+In both cases, however, the entities being posited must be coherent which I take to involve something like https://philosophy.stackexchange.com/a/42943/2297 Jo Wheeler's (1) and (2). While Set Theory is a highly fruitful mathematical theory, the original, naïve formulation was famously inconsistent. Modern set theory has largely settled on ZFC (Zermelo-Fraenkel set theory with the axiom of choice) as the appropriate formalization of the concept of "set", there are alternatives (e.g., Morse-Kelley set theory) as well as various extensions (e.g., the addition of large cardinal axioms). So, even if you think ZFC is true and so sets exist, that still leaves open exactly what the set-theoretic universe is like and what properties these sets must have. All of this is to say that what it takes to satisfy the criterion of being well-defined is not perfectly clear, even in the comparatively uncontroversial case of math. Similarly, while we believe ZFC is free of contradiction the results of Gödel show us that we cannot hope for any absolute proof of its consistency (and indeed, this holds for theories much weaker than ZFC).
+
+Going to theories of god, the same constraints must be satisfied. The theory of god being posited must be consistent (even if we cannot prove it is so), and the concept of god on offer must be reasonably well-defined. 
+
+TL;DR The issues here are the same as with knowledge of things beyond our senses more generally -- we reason to their existence by means of inference to the best explanation. The additional ingredient here is that we also need reason to think that the truths we have inferred via inference to the best explanation are necessarily true, which requires separate argument and usual appeals to some sort of independence from the contingent features of reality that contingent entities beyond our sensory experience would not enjoy (e.g., if there were no physical things then there would be no electrons).      
+
+How Do We Know What's Possible?
+
+Another issue concerns matters of the https://plato.stanford.edu/entries/modality-epistemology/ epistemology of modality, our knowledge of possibility and necessity. I'll be brief here since this answer is already obscenely long, but note that we take the inconsistency of a theory to show that the entities defined by such a theory couldn't possibly exist (at least as the theory describes them). Beyond that, a lot of our reasoning about what's possible falls into one of two categories:
+
+
+Combinatorial Reasoning: We often think that if it's possible for two things to be true independently, and the two things don't contradict, then it's possible for them to be true jointly. If I could own a red shirt, and I could own blue shoes, then I could own both a red shirt and blue shoes. Spelling this out in more detail is a difficult matter but hopefully the intuitive idea is clear enough.
+Analogical Reasoning: We often reason that if some scenario is possible, then relevantly similar are also possible (barring any obvious block to this). For instance, if it's possible for my hair to be brown then given that there are other people very much like me with blonde hair, it's possible for my hair to be blonde. How might this be blocked? Well, perhaps given the genetic makeup of my parents it would be impossible for them to have a blonde-haired child (I'm just using this as an example, I don't recall the genetics of hair color inheritance). If it's essential to me that I have the parents I actually have, then it's impossible for me to have had blonde hair. That putative essential trait would "block" this analogical inference.
+
+
+How Do We Compare the Relative Likelihood of Different Possibilities?
+
+Finally we get to the crux of the issue which is that, given a range of different possibilities, how do we determine which of them are most likely? I take this to be a question of determining and comparing the probability of a number of different possibilities. Here, the details regarding https://plato.stanford.edu/entries/probability-interpret/ how probability is understood will matter.
+
+There are three main options (quoting from the SEP article):
+
+
+A quasi-logical concept, which is meant to measure objective evidential support relations. For example, “in light of the relevant seismological and geological data, it is probable that California will experience a major earthquake this decade”.
+The concept of an agent's degree of confidence, a graded belief. For example, “I am not sure that it will rain in Canberra this week, but it probably will.”
+An objective concept that applies to various systems in the world, independently of what anyone thinks. For example, “a particular radium atom will probably decay within 10,000 years”.
+
+
+If probability is understood according to (3), then there is an objective fact of the matter about how probable different possibilities are. Since necessary truths have a probability of 1 (i.e., they are certain) and impossibilities have a probability of 0 (i.e., they are certainly false), it would not make much sense to ask about the probability of god's existence, if god is claimed to be a necessary existent. For each necessary existent the probability of its existence is either 1 or 0 and so propositions of the form "necessary existent X exists" can only be compared for (actual) truth and falsity.
+
+But (3) isn't the interesting option here. How about (2)? This gets us into the realm of https://plato.stanford.edu/entries/epistemology-bayesian/ Bayesian Epistemolgy. This is concerned with the relation between your prior beliefs and a new hypothesis you're entertaining, particularly with the credence (i.e., degree of confidence) you should have in this hypothesis given (or conditional on) your priors (your beliefs and the confidence you have in them, with confidence assigned in a manner than obeys the laws of probability). Then what we're asking about is the relative likelihood of competing hypotheses given your priors. This can be done pairwise as shown by the https://plato.stanford.edu/entries/epistemology-bayesian/#BayTheBayConThe Ratio Formula in section 4.2E in the Bayesian Epistemology SEP article:
+
+
+  [To] compare the effect of evidence E on two competing hypotheses, Hj
+  and Hk, without having also to consider its effect on other hypotheses
+  that may not be so easy to formulate or to compare with Hj and Hk.
+  From the first corollary above, the ratio of the final probabilities
+  of Hj and Hk would be given by:
+
+Ratio Formula:
+Pf(Hj)/Pf(Hk) = [Pi(E/Hj) × Pi(Hj)]/[Pi(E/Hk) × Pi(Hk)] 
+
+  
+  If the odds of Hj relative to Hk are defined as ratio of their
+  probabilities, then from the Ratio Formula it follows that, in a case
+  in which change in degrees of belief results from conditionalizing on
+  E, the final odds (Pf(Hj)/Pf(Hk)) result from multiplying the initial
+  odds (Pi(Hj)/Pi(Hk)) by the likelihood ratio (Pi(E/Hj)/Pi(E/Hk)).
+  Thus, in pairwise comparisons of the odds of hypotheses, the
+  likelihood ratio is the crucial determinant of the effect of the
+  evidence on the odds.
+
+
+So, it would make sense to compare any two of the infinitely many possibilities by this procedure as long as you fix on some particular set of evidence (i.e., set of beliefs and credences distributed among them). Of course, as a practical matter, carrying out this comparison is not possible since assuming a countable infinity of possibilities there would be an uncountable number of comparisons to run through. But it makes (mathematical) sense to compare the relative likelihood of these possibilities. Additionally, you might be able to "prune the search tree" and eliminate all but a small number of possibilities. Perhaps you and your interlocutor are agreed on everything except the one proposition that the Judeo-Christian god exists. Then you can compare the relative likelihood of that proposition and its negation. If your shared evidence lends support to either proposition, it will disconfirm the other. 
+
+Of course, even assuming you agree on what the priors are, you might disagree with respect to how your portion your credence among the beliefs that make up your priors. If that's the case then it might be that you cannot compare the likelihood that god exists, because it is highly likely given one set of priors and highly unlikely given another. At this point the only thing to do would be to argue that one of your has better priors than the other. Assuming both of you have probabilisticaly coherent priors, the only thing that could tip the scale here is if Objective Bayesianism (4.2F(b)) were true and there were some rational constraints beyond the probability axioms on how prior probabilities are constrained that gave one of you the "better" priors.
+
+Finally, if (1) is the correct theory of probability, then your shared evidence would support each of the possibilities to some specific, objective degree. It's possible that many of the possibilities would be tied. It's also possible that given the complexity of the relations of evidential support, neither of you would known whether your shared evidence supports god's existence or god's nonexistence.
+
+TL;DR The details will vary depending on how probability is understood, and on what norms are taken to govern the confidence we ought to have in a given possibility given our total evidence, but comparing the likelihood of these possibilities is often sensible, though often not practical. The sheer number of possibilities is not much of an obstacle, since we can usually reduce the issue to pairwise comparison of the relative likelihood of different possibilities. The biggest obstacle to meaningful comparison will not be the vast number of possibilities, but the vast difference in what you and your interlocutor take to be evidence and what you take that evidence to support. 
+Person A states two premises to derive the conclusion:
+
+P1: Latin is older than English
+P2: Latin has been spoken for a longer time than English
+Conclusion: Latin language is inherently better than the English
+
+This in itself is a https://en.wikipedia.org/wiki/Non_sequitur_(logic) non-sequitur:
+
+
+  In everyday speech, a non sequitur is a statement in which the final
+  part is totally unrelated to the first part ...
+
+
+More likely, we can assume Person A implies the following hidden premise (for P1, but a similar hidden premise exists for P2):
+
+P1: Latin is older than English
+P1a (hidden): An older language is a better language
+Conclusion: Latin is better than English
+
+This is a valid argument, but says nothing about whether or not the hidden premise is sound. (There is http://www.iep.utm.edu/val-snd/ a difference between validity and soundness.)
+As the http://en.wikipedia.org/wiki/Naturalistic_fallacy Wikipedia entry on the naturalistic fallacy notes, this fallacy is related to and often confused with the http://en.wikipedia.org/wiki/Is-ought_problem is-ought problem first articulated by David Hume (1711-1776). They are similar, though distinct, arguments about common failings with respect to what is taken for granted within an ethical analysis. 
+This is an unanswerable question due to contradictory premises.
+
+The immovable object vs. the irresistible force question is a commonly used example for this fallacy of reason, and it is explained http://www.virtualsalt.com/think/matfall3.htm on this page:
+
+
+  The problem here is that in a universe
+  where an irresistible force has been
+  defined to exist, there cannot also
+  exist an immovable object, because
+  then the force would not be
+  irresistible. Conversely, if there is
+  discovered or defined such an item as
+  an immovable object, then by
+  definition there can be no such thing
+  as an irresistible force.
+
+A good resource for Zizek material is his lectures at the the European Graduate school, this http://www.egs.edu/faculty/slavoj-zizek/videos/enjoyment-as-a-political-factor/ http://www.egs.edu/faculty/slavoj-zizek/videos/enjoyment-as-a-political-factor/ for example is related .. One dimension of jouissance which Zizek focuses on is its complicity with the superego, meaning its expression is conditioned by internalized familial and social injunctions, and is by these means related to capitalism   
+For Aristotle, every natural kind has an essence. In this respect, his view has some similarity to Plato's account of the Forms. The difference is where the essence/Form is. For Plato, the essence is in our souls / in the mind of God. For Aristotle, We intuit this essence when we look at the thing, and we learn the essence in this way.
+
+Aristotle uses the term "soul" to refer to the essences of living things. These essences have activity -- i.e. life. Thus, it is the nature of plants to require sustenance and grow and reproduce while they are alive. If you kill them, then what remains in Aristotle's view is not a plant. Animals join to this further abilities of sensation, motion, and to some extent cognition. It is their nature to do these things and thus part of their essence / soul. 
+
+Thus, the quoted passage is stating that you cannot speak of the bodily parts of a living thing without simultaneously referring to its soul. Part of the reason is that the soul is what we intuit that makes the thing that kind of a thing. In other words, if I look at a dog's tongue, when I recognize it is a dog's tongue, I am referring not just to the arrangement of atoms that are the dog's tongue but also the fact that it is arranged, living, and functioning as dog's tongue. In Aristotle's vocabulary, it is actualized as a dog's tongue. The activity is that of soul as organizing matter dogwise and then as a feature of this toungewise. The thing acted upon is matter (or in Aristotle's vocabulary passive). Thus, he's saying it makes no sense to speak of the matter of an animal, plant, or human without simultaneously speaking of its soul.
+
+Part of the reason goes back to the first difference I highlighted between Plato and Aristotle. For Plato, when we look at things in the world and see them as things, we are looking at a bad shadow / imitation of the Form. For Aristotle, we are looking at matter and recognizing through our senses (through the creation of an image [lit. phantasm] and then the use of our mind an essence in the thing. Thus, we see something that is formed matter as we see the activity [soul] arranging the matter according to the kind.
+Some informal definitions first:
+
+Soundness is the property of only being able to prove "true" things.
+
+Completeness is the property of being able to prove all true things.
+
+So a given logical system is http://en.wikipedia.org/wiki/Soundness sound if and only if the inference rules of the system admit only valid formulas. Or another way, if we start with valid premises, the inference rules do not allow an invalid conclusion to be drawn.
+
+A system is http://en.wikipedia.org/wiki/Completeness complete if and only if all valid formula can be derived from the axioms and the inference rules. So there are no valid formula that we can't prove.
+
+Truth trees seem to be a method of evaluating a logical proposition (they are new to me, so this is a first glance assessment), however the rules are really just graphical versions of the normal rules of inference, so should be sound as long as the inference rules are. Of course completeness depends on the logical system. So for propositional logic, you're fine.
+You can argue that existence is not a property of things, but of descriptions.  If it were really a property of things, then nonexistence would also be a property of things, but you would never be able to apply whatever test you wanted to apply to see whether the nonexistent thing really was nonexistent.  I cannot take my purple unicorn and feed it to the nonexistence-detector to find out that there is no purple unicorn.
+
+What we really evaluate with the apparent property of existence is the description of the thing that may or may not exist.  That makes really determining the existence of something with no description awkward.  But a description is not necessarily a definition.  Jon Jay Obermark, the author of this post, the owner of Elke and Hank Molsbee (my dogs), the person who answers my phone number, etc.  are all descriptions of me, and any of them should be able to determine that I exist.  Still, do any of them really define me?  Things can be referenced and described, and their existence implied, without knowing any actual definition.
+
+And some of those things may or may not have definitions.  We can discuss the boundary of France.  But we know that the length of this boundary is vastly different at many different scales, and a some scale, France is made up of relatively isolated individual particles and really has no boundary at all.  Still, we would like to think the boundary exists, as a complex network of all these interrelated descriptions, none of which can be a complete definition.  We have fought enough wars over it that if it didn't exist we would be very sad.
+
+On that basis, it would not be fair to link existence to definability.
+
+Totality is a predicate that just says yes whatever you apply it to.  That is a pretty reasonable predicate to put into our existence checker.  But I do agree that if you feel like you have defined totality, you should be able to do things like apply 'comprehension' to it and get a real answer to Russell's paradox.  I don't think that has to mean it doesn't exist, only that it cannot be combined with other concepts in specific ways -- the same way that it might be highly unwise to attach the notion of the boundary of France to the idea one should measure it.
+I believe Marx proposed Dialectic materialism by "reversing" the Hegelian dialectic idealism so to make it stand with "the feet on the ground".
+As i know "material" for Hegel is an idea. But "idea" is not something just in man's head, but the whole spirit of the world, so some times an "idea" is pure materialistic. Correct me if i 'm wrong.
+A discursive practice in foucauldian terms is "the process through which [dominant] reality comes into being". This is a very nebulous process, of course, and Foucault focuses on questions of power. His notions of 'governmentality' and 'biopower', from his later work, are helpful to understand this. Foucault does not only focus on formal and semi-formal institutions like the state, the law, schools, clinics, prisons, the family, race, gender, and sexuality, or not just on what the critical theorists and neo-marxists call the 'Culture Industry' (like the media); he notoriously concerned with how power is inscribed on the body, at the level of people's movement and perception of themselves. How does Power produce 'docile bodies'? is another way in which he poses the question. Biopower in this sense refers to the capillary living network (like veins or hairs) of how Power is propagated and inscribed on docile bodies. 
+Like many terms in philosophy, 'abstract/concrete', 'general/specific' derive from the Latin used by the schoolmen in the middle ages.
+
+The adjective concretum means hard, solid, material, whereas abstractum literally means drawn out from, i.e. abstracted.  It is in some ways similar to the distinction between material and immaterial. William of Ockham discussed it chapters 5-9 of book I of the Summa Logicae, but as he is a nominalist he argues that the distinction is linguistic only. 'Humanity" is a verbal modification of 'human', and "Socrates has humanity" means no more than "Socrates is human". 
+
+'General' comes from the Latin 'genus' meaning 'race' or 'kind', which is a translation of Aristotle's Greek word genos.  'Specific' comes from 'species', meaning outward appearance, shape or figure, and is a translation of Aristotle's eidos.
+
+"Are there any comprehensive resources on the early history of their development specifically with respect to language?" 
+
+Difficult - you could try looking at Joyce's Principles of Logic, which is a manual of traditional (not modern) logic. Mill's System of Logic covers the abstract/concrete distinction in Bk I c ii sec.4, and see c.vii of the same book, on the 'predicables', the traditional part where the genus/species/differentia &c division is covered.
+Because he provides a logical framework within which to understand what it means to say that a thing has some property necessarily. Call this view essentialism.
+
+Quine had thought that essentialism was false because necessity could only be a property of sentences. (So there could be necessary truths, but not necessary properties of objects.) Quine's reason for saying this was that there are logical paradoxes that appear to arise if we attribute necessary properties to objects. For instance: 
+
+
+The number 8 is necessarily even.
+The number of the planets is 8.
+Therefore the number of the planets is necessarily even. 
+
+
+But 3 is false. Proponents of essentialism would regard (3) as a paradigm case of a false sentence. They want to say that the fact that we have 8 planets in the solar system rather than 7, or whatever is just a contingent fact. 
+
+What Kripke's semantics for modal logic gives us is the ability to make a distinction between: 
+
+3*. It is necessarily true that the number of planets is even.
+3**. It is necessarily true of the number of planets, that that number is even.
+
+The difference being that 3*, but not 3** implies 3. Therefore, Quine's objection doesn't go through. 
+
+This is all still controversial, but this is the guiding idea behind why Kripke is so important for contemporary metaphysics.
+You either need to be more careful with your definition of "probability of actually existing," or at least use Bayesian statistics.
+
+In Bayesian statistics, there is a factor which can be roughly translated as "knowedness."  Thus it is valid to have some distribution (probability of true/false) with a 0 value for how known the value it.  This leads to all sorts of interesting odd things like Jeffery's priors.
+
+The other approach is being more careful with the wording.  There is no actual scientific way to say "substance A has a % chance of existing" because that phrasing is ontological.  It is a statement about the true universe, not what we know about it.  An alternate phrasing would be "our empirical models suggest that the probability of A existing is very low."
+
+This modeling step is critical.  We have 0 information about whether this substance happens to exist on the dark side of the moon of a planet in another solar system.  However, if our model of the universe suggests that most materials like substance A tend to be roughly evenly distributed across the universe, then we can sample the areas around us and do analysis.
+
+In "pure" science, the way you'd do this is to create a null hypothesis that "substance A exists, but statistical anomalies account for why we haven't seen it yet."  The alternative hypothesis is "substance A doesn't exist, or only occurs at some very low rate."  You would make guesses as to the distribution of substance A (roughly uniform, in our case).  You would then prove that it takes a great stroke of luck/bad luck to get a world where the distribution of substance A was just right to prevent us from detecting it.
+
+Once you arrive at something like "there is a 0.01% chance that a random distribution of substance A would go undetected," you can say "we reject the null hypothesis" because we find it does a poor job of modeling our world.  Then we get to claim the alternate hypothesis "substance A doesn't exist, or only occurs at some very low rate."
+
+Note: we did not prove that hypothesis, we merely disproved the "prevailing" opinion that it exists, but random chance stopped us from observing it.  This is a key difference in wording.  Many wars have broken out between science and religion from individuals misinterpreting this path as "proving" substance A does not exist.
+There are a couple avenues of research here:
+
+1) rational ignorance theory- the idea that sometimes the effort required to gain knowledge is not worth the benefit the knowledge would bring 
+
+2) original sin and other ideas from the religious field related to impairment of the spirit by knowledge and to obtaining some form of spiritual success through various practices other than obtaining knowledge. There are Mystics, Sufis, Zen Buddhists and others in this vein.
+
+These may not make negative moral statements about knowledge, but their moral force does not operate through knowledge or give rationality the pride of place.
+
+For example, see M. Foucault "Security, Territory, Population: Lectures at the Collège de France 1977--1978"  pp212-213 https://books.google.com/books?id=6yU7YC68ydgC&pg=PA212&lpg=PA212&dq=mysticism%20ignorance&source=bl&ots=zdAQKqJwYi&sig=hLfJUiPl9kTqbDuhGZU7rUntLzA&hl=en&sa=X&ei=YoUfVcG1AYG-sAWCuYEg&ved=0CC0Q6AEwBg LINK
+
+"In mysticism ignorance is knowing and knowledge has the very form of ignorance."
+I believe generalization is the dual of explanation.  While, from the professor's wording, explanation is fitting a general pattern to the occurrence, I find generalization is usually defined as creating a general pattern from one or more occurrences.
+I would call this form a faulty argument by analogy. Some links on the internet will claim that this is the fallacy argument by analogy, but I think the category is not automatically invalid.
+
+What makes it faulty or not is the extent to which the property in question makes two things the same (presumably the same category rather than the same physical object).
+A descriptive analysis involves simply stating the facts as they are. A descriptive analysis should not at any point provide any conclusions or generalizations. At most a  descriptive analysis may involved providing summaries, descriptive statistics such as means, standard deviations, and graphs and visualizations to better understand the data. In your cultural example such an analysis will describe the characteristics of the culture and the historical and geographic context in which it arose. You are looking for the "what".
+
+An explanatory analysis will try not only to describe the information but also to provide causal relationships between the various data presented. Again in your cultural example, such an analysis will provide reasons for why that specific cultural arose from that specific context, why a historical event or climactic feature led to a specific behavioral trait. When we're dealing with quantitative and statistical data, a descriptive analysis will simply provide means, standard deviations, and graphs while an explanatory analysis also provides some mathematical models tying the variables together which explain the influence they have on each other. You no longer just describe the facts, you also describe the cause and effect relationship between the facts. You are looking for the "why".
+
+The predictive analysis is just going one step further than the explanatory analysis and applying the relationships of mathematical models that were discovered to previously unknown data and future cases. In Your cultural example, you have to be able to explain how the geographic and historical context influenced the behavior of individuals from that culture well enough that based on that, you can predict how such an individual would react to a completely new situation. You are looking for the "what if".
+
+
+
+It should be noted that in the field of Pattern Recognition, some methods, such as Neural Networks, are able to predict variables based on inputs without providing any explanatory model for their predictions. 
+Yes, the only method we have to check reasoning is reason itself.
+
+The main work of Kant is named Critique of Pure Reason (CPR). One can read the title in both ways "Reason criticizes" and "reason is criticized". Hence it comes up to "reason is criticized by itself".
+
+CPR determines the boundary of possible knowledge. Notably, it criticizes metaphysics when it goes beyond this boundary. But CPR also finds out the presuppositions of all knowledge. These presuppositions are due to the fact that our reasoning is bound to certain forms of intuition and to certain rational categories.
+
+Kants draws a boundary between understanding and reason. But this distinction is not relevant for the present question.  
+This is a question whose answers likely number in the thousands.  In fact, https://en.wikipedia.org/wiki/Ontology ontology is a major branch of philosophy dedicated entirely to answering your question.  Ontology can be contrasted with https://en.wikipedia.org/wiki/Epistemology epistemology, which concerns what we can know.  The boundary between the two is full of contrasting theories which try to link the two, as you do with your question "So how can we call our reality real?"
+
+Perhaps of specific interest to you would be the exploration of https://en.wikipedia.org/wiki/Physicalism physicalism, https://en.wikipedia.org/wiki/Dualism_%28philosophy_of_mind%29 dualism, and https://en.wikipedia.org/wiki/Idealism idealism, along with the myriad of pluralist https://en.wikipedia.org/wiki/Pluralism_%28philosophy%29 approach.
+
+
+Physicalism claims everything supervenes on physical matter (meaning everything in "reality" is actually made of matter)
+Dualism claims there are both physical matter and a "mind" substance which is not made of matter.
+Idealism claims there is only a mental substance, and no physical matter
+Pulralism explores cases where reality might be made of more than two substances.
+
+
+As it turns out, differentiating between these approaches is impossible with https://en.wikipedia.org/wiki/Empiricism empiricism, one sub-branch of epistemology.
+
+Finally, consider that your question "So how can we call our reality real?" has the word "call" in it.  You are actually asking a linguistic question about how we use the words "reality" and "real."  The trivial answer is actually "because reality is defined to be that which is real."  Lingustically, we use words to describe things when we need to describe things.  Thus, the answer to your question may be "because we can."
+
+Hopefully the links provided here will help you expand your understanding of philosophy to better craft specific questions related to "how can we call our reality real," which is one of the larger philosophical questions of all time, and is likely not to have a singular answer any time soon.
+https://books.google.com/books?id=ntczsA7GusAC&pg=PA75&lpg=PA75&dq=the%20casting-toward%20of%20being%20and%20the%20casting%20away%20of%20being%20are%20equally%20essential&source=bl&ots=-_sSgHz9Kf&sig=jl0wFnkmNKq6zKWiBPvJ3bkiSh8&hl=en&sa=X&ved=0ahUKEwid3NCl14jMAhUNET4KHbfYDKkQ6AEIHDAA#v=onepage&q&f=false Here is a link to the full page for anyone trying to make sense of it.
+
+The piece seems to be arguing the necessity within each of our human experiences to both understand ourselves as conscious entities with physical and emotional needs; as well as explain the usefulness of shedding ones self worth to take on new subjective importance with reference to groups we associate with or tag ourselves to no mater the magnitude.
+
+Once we grip onto self consciousness we spend the next some fifteen to twenty years inventing and re-inventing ourselves because that's how important that one piece of our identity is to our conscious being. Then we inevitably begin to see how we section ourselves out based on loose categorizing and over generalizing how we might "fit in". This is a case of noticing that a person seems to be more satisfied when surrounded by people who have similarities to us of any kind as well as the pack mentality of safety in numbers but it's even more than that. Socially we like to partake in a hive mind or a collective. Losing oneself to a purpose goal or group only to be a part of "something greater than ourselves" this is the importance of letting go of your own being taking on the collective identity both gives you clearer goals as well as security that no matter what happens this group has this purpose and if you ever want to for example feel excitement again you can always go to a concert. If you want to fill the hole of an outgoing and fun person you can always walk into a club! These places provide a label or facade that we get to take part in whenever we want with little to no commitment on our part. Religion, social groupings, or team situations let you shed your problems and ground yourself in a desire thats shared amongst the collective. This also opens us to closer relationships with others and empathy is another characteristic that comes from letting go of one's self. When you put your own issues aside and begin to look to understanding someone else's point of view you gain an understanding of the world and many truths we don't normally consider. This is a crucial stage in development for children and it comes from social interactions something that happens much more organically in group settings.
+First off, it's worth noting that if time moved "backwards," we would talk about it going "forwards" because our perceptions would shift.  You would still have the question as to why time does not move "backwards."
+
+Scientifically, the "forward" direction of time is the direction of increasing entropy in the universe.
+
+Your question deals with perception, which may be one step beyond the simple scientific definition, if you believe that there is more to "everything" than just simple physics problems.  I would answer your question with another question: would it make any difference if time flowed "backwards" instead of "forwards?"  Would there be any perceptible differences, or moral implications?  If not, then one can rest assured that the direction time flows is arbitrary and you may choose to view it in any direction you please.  Just know that if you choose the "backwards" direction with respect to other people, they may get confused when you talk to them about past and future events due to lingusitics.
+
+If there is a particular perceptive difference or implication which you see important, that might be a good start of another question tailored to that difference or implication.
+In The Ister lectures (p. 56, GA 53 p. 70) Heidegger refers to Hölderlin's translation of Antigone, and continues through that chapter.
+The burden of proof never shifts.
+
+http://rationalwiki.org/wiki/Burden_of_proof By it's definition, the burden of proof lies with the person making a claim.  That being said, Person 1 has 
+presented some (admittedly poor) evidence to support their claim (i.e. that "Valid Authority" (VA) agrees with them).  As such, it is up to the opposing viewpoints to accept/counter that evidence.
+
+On it's own merits, such evidence is anecdotal and not worth much.  https://yourlogicalfallacyis.com/appeal-to-authority Just because someone smart/knowledgeable has an opinion, does not make it true.  http://io9.gizmodo.com/im-tired-of-seeing-this-charles-darwin-quote-taken-out-1678727678 Just because Person 1 says VA supports him, does not mean VA actually does.  
+
+That being said, an argument made poorly is not necessarily incorrect.  If VA's own testimony/evidence is available for review, it should be taken into consideration to stand on it's own merits.  If you are not in a position to review VA's evidence, then Person 1's argument is worth about as much as "I read it in a book somewhere."
+This is not question-begging.
+
+To claim that argument is question-begging is to conflate the two statements "X is mature enough to drink" and "X should be legally allowed to purchase and consume alcohol".  These are not the same statement.
+
+For example, someone might argue that allowing 18 year-olds to shop at liquor stores would be a bad idea due to consequence X, even if they are mature enough to drink.  I'm not saying any such argument would be something I'd agree with, only that the argument cannot be ruled out on purely logical grounds.
+
+Essentially what I am saying is that P2 above is an arguable statement, which should be backed up with facts, etc.  To claim the overall argument is "begging the question" is in essence claiming P2 is a tautology, which it is not.
+There is no such thing as the cosmological argument. Rather, there is a class of arguments that share similar themes and (sometimes) logical structure, but that rely on different premises that are all referred to as cosmological arguments. For instance, a cosmological argument defended by Aquinas depends on the impossibility of an essentially ordered infinite regress. On the other hand, the Leibnizian cosmological argument depends mostly on the Principle of Sufficient Reason.
+
+Given the wording of your question, you are most likely referring to the kalam cosmological argument, which has a premise that is similar to, but importantly different from what you stated. The argument is usually formulated as follows:
+
+
+  
+  Whatever begins to exist has a cause.
+  The universe began to exist.
+  Therefore, the universe has a cause.
+  
+
+
+So, instead of the "anything that exists has a cause of its existence," it is closer in meaning to "anything that begins to exist has a cause." The kalam cosmological argument does not even attempt to prove that "everything that begins to exist has a cause," but assumes this as a premise. This premise is often defended as self-evident or as following from a commonly accepted proposition such as the Causal Principle, but these defenses are not part of the kalam cosmological argument per se.
+I disagree with the answers above.
+
+http://dictionary.cambridge.org/dictionary/english/either-or Either / or corresponds unequivocally, in English, to an exclusive or (XOR). The XOR function returns true only if P and Q have opposite values (T/F, F/T).
+
+Hence the statement "You hair is not short" returns true.
+
+The problem was merely in the translation into formula, becaused it used "OR"; but it is obvious from the question that it should have been formulated as XOR.
+You have, it seems, misunderstood the physics
+
+
+  If all the mass in the universe was in one place it would be the immovable object. There would be no mass outside of it. 
+
+
+This is, in fact, the case. All of the mass in the universe is inside the universe (by definition) however it doesn't necessarily mean it is immovable. (Though we can ask the question "move in respect to what?" )
+
+
+  Therefore mass times velocity equals force, zero mass equals zero force. This means that only zero force can be applied against it. 
+
+
+The equation you're looking for is:
+
+Force on an object  = mass of the object * acceleration of the object
+
+The mass in question is therefore the mass of all the matter in the universe and not zero.
+
+
+  Since all that mass is in one place it would have a large gravitational force. Therefore gravity is the irresistible force. There is zero mass outside of its self to rest it, so nothing can resist it.
+
+
+A large gravitational force is not the same as irresistible. Equally, having no objects outside to HAVE to resist your force doesn't mean it is irresistible either.
+
+
+  Does this meet the definitions of immovable object and irresistible force?
+
+
+I'm afraid not.
+
+You are correct in your assumption that an immovable object must be able to provide an irresistible force. Consider Newton's third law:
+
+For every action, there is an equal and opposite reaction
+
+So an immovable object must be able to provide enough force to counter the impact of any other force such that it results in an elastic collision. If the object can provide any force required in retaliation then it must also be an irresistible (or insurmountable) force.
+Everything subjective is also an objective truth. Subjective truths are a category of objective truths, not an independent set of truths.
+
+Take any subjective truth T. That will be true in contexts A, B, and C but not true in contexts X, Y, and Z. It is, therefore, an objective truth that T is true for A, B, and C but false for X, Y, and Z.
+
+Fundamentally, the only input humans have from the universe is the evidence of our senses (construed broadly). This is subjective. However, from this input, we are able to derive the objective fact that the universe must be such that we have the sensory input we do have. This means that any state of the universe that would not result in us having the sensory experiences we actually have cannot be the objective truth.
+"Is there a flaw in Descartes' "clear and distinct" argument regarding the separation of mind and body?"
+
+Descartes was well aware of the difficulty, and what actually says is that although mind and body seem distinct they also seem to form a unity. I feel he is unfairly accused of setting mind-body dualism in stone since he recognised the need to unify them.      
+
+I'd agree with your argument up to...
+
+"But can I really not perceive myself without the existence of my body? How can I ever know is the immediate question. And the immediate implication is that I cannot perceive myself without (or forgetting about) my body."
+
+'Perceive' is the wrong word here since it implies physical senses belonging to the body. If you ask whether you can know that you are not your body then according to many people the answer would be yes.  
+
+"Now if this argument is correct then what Descartes has paved the way for is proving the unity of myself and my body. What then? Is the problem really solved?"
+
+It isn't solved by just saying that you and your body form a unity. For a full metaphysical solution you would have to expand this unity to include the whole universe, where the world of space-time is the 'body' that must be reduced for unity.    
+Big question, opinion-piece answer:
+
+The view that our knowledge has become more accurate (meaning, the human understanding of the world has been approaching to truth or reality) is wishful thinking of enlightenment, culminating with Popper's verisimilitude. The present, post-enlightenment view of knowledge is dominated by Duhem-Quine holism. Observations, facts, knowledge are all theory-laden. Our perception of the world changes when theories (paradigms) change. Presently popular social constructionists, for example, tell us that our cherished belief in race and gender are all wrong: race and gender are not real. Aristotle  believed in natural slaves, which we think is ridiculous. It could be that people in the era of Star Trek regard 20th century belief in race and gender ridiculous. 
+
+Quine, later Wittgenstein, Kuhn are some pioneers of this new holistic thinking. But to me, Godel is the guy who slayed the enlightenment dragon. The mantra of the enlightenment thinking is that all true statements can (must) be proven (justified) to be true.  Hilbert's program represents the mantra. Frege, Russell, whitehead all worked under the enlightenment mantra. Godel however proved that the mantra itself is false: a formal system bigger than the system of the first-order logic must always contain a true statement that cannot be proved within the system.  
+
+Knowledge is commonly defined as true justified belief. Extrapolating Godel's result, one could say that some of our true beliefs can never be justified. Ergo impossible is accurate knowledge.
+One way to think about your example is in terms of an ambiguity, or perhaps as an instance of https://en.wikipedia.org/wiki/Equivocation Equivocation: The original slogan ‘Wyoming - Like no place on Earth.’ was intended to mean one thing, but the people in your example take it to mean another.
+
+To develop this, let’s first note the reflexivity of ‘__ is like __’, i.e. the fact that everything is like itself. We can debate whether this fact is necessary, analytic, a priori, ...; but it’s a fact and the people in your example seem to be relying on it tacitly. In particular, they seem to be relying on (1), or more formally on (1*):
+
+1: Every place is like itself.
+
+1*: For all places x: x is like x.
+
+Next, consider (2), and compare it to (3).
+
+2: Wyoming is like no place on Earth.
+
+[2*: For all places x: if x is on Earth, then Wyoming is not like x.]
+
+3: Wyoming is like no other place on Earth.
+
+[3*: For all places x: if x is on Earth, then if Wyoming is not identical to x, Wyoming is not like x.]
+
+Finally, consider (K), and note that (K) follows from (1) and (2), but not from (1) and (3).
+
+K: Wyoming is not on Earth.
+
+[K*: For all places x: if x is on Earth, then x is not identical to Wyoming.]
+
+In sum, there are two arguments here: one is valid, the other is invalid. The valid argument reads ‘Wyoming - Like no place on Earth.’ as (2), while the invalid one reads it as (3). Further, the intended reading of the slogan is clearly (3), not (2). Thus, the fallacy at hand consists of (a) misreading the slogan, (b) deriving the absurd (K) from that misreading, and (c) concluding that the slogan is itself absurd.
+For those philosophers working in the area of epistemology, this would depend entirely on the position taken in epistemology; however, in philosophy in general, many people I think would take either a tacit position towards the nature of reality which is actually entirely consistent with non-philosophical positions, or a tacitly ambiguous, ambivalent, inconsistent or contradictory position ... Often, the tacit position taken on the nature of reality is determined by the terms the philosopher prefers to use in another more specific philosophical debate: for example, a political philosopher with a cosmopolitan position towards the global justice debate will not necessarily deal with questions of epistemology in an explicit way, but the debate about global justice as conducted by them will necessarily take for granted a tacit position in epistemology (whether this is taken from their non-philosophical experience, as members of one or another society/community, or from their particular school/tradition in philosophy).
+
+For me, I would define the meaning of reality through reference to knowledge and understanding, and say there are formal differences between knowledge, understanding, and reality, and it is the philosopher's prerogative to characterise the formal difference between knowledge, understanding, and reality, in order for them to hold positions in other philosophical debates which are consistent "all the way through". 
+I would say that one way for opinions to become objective is to pass the empirical test. You can test your opinions and find out if they are right or wrong. If an opinion becomes objective, it will not be an opinion anymore, rather it will become a fact. It is not a personal opinion that the speed of light has the value that it has and it is invariant in every inertial reference frame. 
+In the given example, it's not the demand for robust proof that is unreasonable, but what is inferred from the lack of its fulfillment. The idea that the lack of a robust study proves the opposite is an argument from ignorance.
+
+The number of sources has no bearing on logical inference (cf. appeal to popularity). A single reference, if its premises are accepted, it's data reliable and unbiased, it makes a valid argument and its conclusion is sound, is sufficient. Conversely, a million references that each fail to prove the conclusion individually, may still fail to prove it as a group (though that number may ultimately wear down and convince any human). However, if a number of studies provide different data points, a meta-study can infer new conclusions. Take care here to distinguish logical inference from statistical significance.
+
+While robust sources are desirable, they're not always available. Sometimes the studies just haven't been done yet, or it may not be possible (for physical, practical, ethical or other reasons) to achieve the level of robustness desired. That doesn't invalidate any argument or prove the opposite, it just leaves the audience with more space for doubt. An imperfect study can nevertheless be convincing if it can be ascertained that any flaws or biases were insufficient to skew the conclusion.
+
+In some cases, absence of evidence can be taken as evidence of absence, for example when the claim is dependent on or predicts an effect that should be observable. However, we need to be careful, and like with positive claims, demand a valid argument to ensure the conclusion follows from what has (or hasn't) been observed.

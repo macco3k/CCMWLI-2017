@@ -6,7 +6,7 @@ NONWORD = "\n"
 
 class Markov():
     """
-    This basically parse the text through a fixed-size sliding window (the order param).
+    This basically parses the text through a fixed-size sliding window (the order param).
     A dict stores a mapping between n-grams of size=order and the word coming right next.
     At generation time, the dictionary is queried for possible words in the following loop:
         - first, the most probable next word is chosen given the last seen n-gram
@@ -21,8 +21,7 @@ class Markov():
 
     # Generate table
     def generate_table(self, filename):
-        for line in open(filename):
-            # for word in re.split(r' ', line):
+        for line in open(filename, 'r', encoding='utf-8'):
             for word in word_tokenize(line):
                 if word != NONWORD:
                     word = word.lower()
@@ -45,16 +44,16 @@ class Markov():
                 print(self.table[tuple(self.seen)])
             except IndexError as e:
                 print("Seed is not found in the corpus.")
-                self.seen.extend([NONWORD] * self.order)
+                self.seen.extend(random.choice(list(self.table.keys())))
+                # self.seen.extend([NONWORD] * self.order)
         else:
             self.seen.extend([NONWORD] * self.order)  # clear it all
 
         for i in range(max_words):
             word = random.choice(self.table[tuple(self.seen)])
-            #print(word)
             if word == NONWORD:
                 exit()
-            if i % newline_after == 0:
+            if newline_after is not None and i % newline_after == 0:
                 output += word + '\n'
             else:
                 output += word + ' '
@@ -70,7 +69,7 @@ class Markov():
             # print('\t%s' % fname)
 
 
-m = Markov(order=3)
+# m = Markov(order=3)
 
 # m.walk_directory('./pres-speech')
 #m.walk_directory('./pres-speech/clinton')

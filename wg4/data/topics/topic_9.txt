@@ -1,0 +1,948 @@
+As Joe's comment alludes, this is definitely one branch of the aptly-named "elementalism."
+
+As per my understanding, it holds that everything arises out of or is modeled after the four primary elements: Earth, Water, Air, and Fire. All of the higher, more complex structures that we have are assembled or expressed through these basic building blocks.
+
+According to http://elementalism.net/2011/04/04/elementalism-the-basics/ this site, the elements can be defined as follows:
+
+
+  Earth – The element of Earth represents the physicality and substance of our lives.  The Earth evokes images of dirt, rocks, mountains and stones.  At the human level, it implies a relationship to the physical foundations that underpin our existence:  our bodies, our planet, the food we eat, the exercise we do… all of the everyday physical factors.
+  
+  Water – The element of Water is linked to the mental aspects of our lives: the intellect, perception, sequential cognition, concentration emotions and memory.  Where the body forms the basis for the element of earth, this collection of mental attributes forms the basis of Water.
+  
+  Air – The context that surrounds us but which is normally invisible is our culture and our relationships with other sentient beings.  Where the first elements seem to express a single being, Air is the connection between multiple beings.  Politics, art, education and other group activities fall under the purview of Air.
+  
+  Fire – The final primary element is Fire and that represents the actions that we take.  Choices, decisions, practices, rituals… these are the realm of Fire.  In this respect, it should be noted that Fire is an element that can be wielded both productively or destructively.  A campfire can bring warmth or cook food – the same fire can burn down a house or destroy a village.  Fire provides the essential feedback in the elemental process.
+
+
+I assume that this derives from Aristotle's four elements of the same names, which he first enumerated in his treatise, http://en.wikipedia.org/wiki/On_Generation_and_Corruption On Generation and Corruption. However, these actually appear to originate from an even earlier thinker, http://en.wikipedia.org/wiki/Empedocles Empedocles of Acragas. Of course, I've never seen any documentation confirming this lineage with respect to the more modern school of elementalism. Modern science, of course, has dismissed these early theories about the origins of matter and replaced them with a much more complex list of elements, taking a slight detour at http://en.wikipedia.org/wiki/Alchemy medieval alchemy along the way.
+The origin of the notion of number is a matter of some debate, and a fairly large literature exists on this (and related problems, such as whether numbers actually exist in a Platonic sense, or are just conventions, like names.)
+
+I don't know of any philosophers who argue that the notion of number follows necessarily from the notion of extension (i.e., distance)-- most link it, rather, to the act of seeing two of something (like two hands), and abstracting from there.
+
+So, I think that most philosophers would argue that it is possible to see that the desk is longer than the pen, without necessarily quantifying that relation in terms of units.
+I would like to think about this from basic concepts, in slightly less formal and less "according to the great thinkers" terms...
+
+It seems obvious to me that if a set of conditions (C) necessarily came about because of an action (A) then A caused C.
+
+If an event (E) happens after an action (A) (or conditions (C) that it created, as above) then it may have been caused by A.  This is the interesting part...
+
+If (E) must necessarily have happened if A (or C), is this sufficient to say A caused E?
+
+Or should we add that E could not have happened without A (or C) as well?
+
+What if E was only one of several possibilities, one (or many, but not all) of which must have happened once A had happened (or C had been created)?  A caused something to happen, but not necessarily E: E is just the event that (randomly or by some decision/further event) ended up happening.
+
+These questions have application in law as well as philosophy.
+
+Example: X steals $100 from Y (A).  Y can now not pay all their bills (C), fails to pay the rent, and gets evicted (E).  A caused C, there's little doubt about that.  However, Y chose not to pay the rent, rather than their credit card bill.  So did A cause E (the eviction) or was it the decision of what not to pay?  In a perfect world, where X gets caught and is forced to repair all damage to Y, should they re-house Y as well, or is the causal relationship broken because of another conscious action (the decision) in between?  If Y acted rationally, then we can assume that eviction was the least negative outcome of not paying a bill (maybe all his other services are supplied by the Mafia :P).  In this instance, can we say that A caused E? (or "at least" E - not a particularly logical term, but one that has meaning in the legal sense here). 
+
+This is a line of thought I often find myself pondering, and I'm interested in people's own inputs and lines of thought, rather than a link to established questions on the matter.  (BTW I'm not denying the usefulness of the previous response, just looking for more discourse on this.)
+Based on your last paragraph, you might be interested in Thomas Nagel's http://rads.stackoverflow.com/amzn/click/0195056442 The View From Nowhere. In that, he argues that it is impossible to achieve a completely objective perspective--- what he calls the View From Nowhere. This isn't directly related to your first paragraph, but something you might enjoy.
+
+As to your first paragraph, you might find this http://books.google.com/books?id=AuFSCJWCcwEC&pg=PA326&lpg=PA326&dq=Memory,%20Imagination,%20Madnesse&source=bl&ots=gsQFZFUPvE&sig=q_n-oaZNKU2dT58CvPOTrDOQJjg&hl=en&sa=X&ei=MUHqUPutL8m5qAGO44GQDw&ved=0CD8Q6AEwAg#v=onepage&q=Memory,%20Imagination,%20Madnesse&f=false book interesting. Locke had some interesting ideas about the limits of imagination. For him, what is imagined is always some manipulation of things actually experienced. So, for example, you can only imagine a Centaur (half-man, half-horse) because you have experience of both a man and a horse--- or at least things relevantly similar.
+
+A similar sentiment is echoed in Descartes's http://oregonstate.edu/instruct/phl302/texts/descartes/meditations/Meditation1.html First Meditation. Check out section 6 and the discussion of painters.
+
+As to imagining "Nothing", I'm inclined, along with you, to think that this is impossible. It seems to be no different than thinking about nothing. But then it seems like there is something you are thinking about, namely, nothing!
+
+UPDATE: It occurred to me that given the Ontology tag in your question, and given that my last paragraph is mostly based on my own idiosyncratic views about existence and reference, I should bring in some considerations from the seminal article on ontology, Quine's http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&ved=0CFwQFjAH&url=http://sfcmadrid.files.wordpress.com/2010/12/quine-on-what-there-is.pdf&ei=YALrUOjXD46kqQH5qoBo&usg=AFQjCNGu6rdcXDGokR9pP6Lf1ZJIjeXXRg&bvm=bv.1355534169,d.aWM "On What There Is". Your questions about nothing, and my own reasons for thinking that imagining nothing is impossible, bear a striking resemblance to the problem of negative existentials. Some philosophers, notably the Meinongians, have thought that there are some things that have the property of "not existing". So, they would analyze negative existentials like "There are no unicorns" as expressing the sentence "There is something such that it is a unicorn and it doesn't exist". They could do this because they distinguished between two senses of "there is". One, the one familiar to us from Quine, is to read "there is" as expressing the existential quantifier. Anything that "there is", in this sense, exists. Now, the other sense of "there is" is subsistence. They thought that there are some things (like unicorns, for example) that subsist but do not exist. 
+
+Quine thought that this talk of there being things that don't exist was a bunch of nonsense. He held that "there is" only expresses the existential quantifier and that anything there is must exist (as an aside, he famously, but uninformatively, answers the question "What is there?" with "Everything"). But then how did he analyze our earlier sentence about unicorns? He would analyze is thusly: "It is not the case that there exists something such that it is a unicorn" (sorry for the quasi-logic speak, I really want to regiment this in first-order logic a la Quine, but can't seem to get MathJax to work on this SE). For Quine, this sentence carries no presupposition of anything's existence, much less of a unicorn which subsists but does not exist.
+
+Bringing this back to the original question about "Nothing". If I put on my Quine Hat, I might say that to imagine nothing is simply for it to not be the case that you are imagining something. But that isn't very helpful, is it? Well, let's suppose (as we seem to be supposing in this example) that imagination is object oriented, so that whenever we imagine, there is some object of our imagination. What this pseudo-Quinean view would hold, then, is that to imagine nothing is simply to not be imagining any particular thing or collection of things. So, for example, a dead person is imagining nothing. I imagine (chuckle) that this view would deny any "objecthood" to "Nothing".
+Your assumption (1) is a certainty - it is so, by definition.
+
+Therefore 2: 'I'm not certain that I cannot be certain of anything', is invalid.
+You need to explain what you mean by exists and without energy.
+
+There are many cases where the presence of energy is incidental to the existence of "something": take a DVD for example, where your movie "exists" as a series of little holes in the recording layer of the DVD.  If you compare the total rest energy of this thing with the rest energy of a blank DVD, you'll find that the difference could go in any direction, including down, depending on the details of the pit-forming process.  (So you very easily can have less energy and your movie; existence doesn't take any extra energy in comparison to the default configuration.)
+
+On the other hand, there is thought to be http://en.wikipedia.org/wiki/Zero-point_energy zero point energy even in "empty" space.  So as long as you have space to have something, you also have energy (or at least fluctuations therein, which is enough, since energy is always relative).
+
+So, yes or no, depending on how you prefer to look at it.
+
+  Why do we assume that we know there is a difference between something
+  and nothing?
+
+
+The question "why is there something rather than nothing?" is so old and recurrent, which I think we do not know what it is "nothing" and "existence of the world".
+
+Why is there something rather than nothing?
+
+If nothingness means nonexistence, this is an illogical nonsense question because impose an impossible explanatory demand, to deduce the existence of something without using any existential premises.  Since there can be no piece of reality that makes a statement true for an empty world, there is an objection to an empty world. A world is a totality of facts, a factless world is a contradiction in terms. 
+
+Why are there any contingent truths? What is the reason of the principle of sufficient reason?
+
+The principle of sufficient reason states that nothing is without  reason, but why are there  any contingent truths?  On the one hand, contingent truths cannot be explained by any contingent truth because  the explanation would be circular. On the other hand, contingents truths cannot be explained by a necessary truth because a necessary truth can only imply other necessary truths, not contingent truths.  Therefore the principle of sufficient reason  impose an impossible explanatory demand, explain the existence of contingent truths without using either contingent or necessary truths. The principle of sufficient reason is absurd. The existence of anything could be proved by reason alone. We might still be able explain the existence of each event even if it is illogical nonsense to try to explain everything all together and to answer the question "Why is there something rather than nothing?"
+
+What is nothingness?
+
+The absolute physical nothingness, in the sense of void, the absolute vacuum, is impossible. Even if every matter particle could somehow be removed from a volume, it would be impossible to eliminate all the black body photons. Vacuum contains vacuum fluctuations, virtual particles that hop into and out of existence, and a finite energy called vacuum energy. To say that vacuums have energy and energy is convertible into mass, is to deny that vacuum is empty. Vacuum fluctuations are an essential and ubiquitous part of quantum field theory. This can answer the question of why there is something rather than nothing. Why is there now something (particles) rather than nothing (energy in a quantum field)? Indian philosophers associate nothingness with lack of differentiation. The basic idea goes back to an issue raised by the symmetry of matter and anti-matter. Given that the symmetry implies equality, matter and anti-matter should have annihilated each other. But a small random change could trigger a phase transition, a slight numeric imbalance that biases the universe toward states in which there are many particles.
+
+What is the existence of the “world”?
+
+Our direct knowledge of the universe is confined to a limited region of space and time. In order to obtain some idea of the universe as a whole we must extrapolate and construct a world-model which will reproduce satisfactorily the principal features of the observable region. Therefore when a scientific realist looks at cosmology, no reason of principle dictates that its models taken as whole structures must stand for the "world" as a whole. There is no reason of principle for the scientific realist to say that cosmology implies that there is such a thing as the whole "world". Success could consist in every real physical system being adequately represented in a model, without there being a single physical system which is composed by all the others. We cannot simply go and check to see whether other possible "worlds” are real. There is no single thing which it denotes all dictionary occurrences of "world”. The term is context-dependent. For each occurrence of "world" in dictionary we identify some plausible region, system, or set of entities which delimits the statement's domain of discourse. In other words, we treat the general and unqualified use of "world" as schematic only, relying on contextual factors to turn the schema into a statement. We should not pretend that we have specified all uses of them. There are things that exist mind-independently but no entity as the collection of all things that exist mind-independently, the “world”.
+
+Are things illusory? What is the “world” stuff?
+
+If there are no objects which have the persistence conditions that we think, then there are no non-fundamental stuffs. But the very same arguments given for rejecting ordinary objects, like water, and reducing it for water molecules, can be given for water molecules. If there are in fact gluons and electrons which exist, are objects, and are particular things with identity and persistence conditions, then, if they are in fact simple, they form the basis out of which we could construct the other objects. But if so, and non-individual “world” stuff is going to play a fundamental role, it seems that we must eliminate fundamental particles as well. Some argue that both ordinary macroscopic objects and putative fundamental particles are only epiphenomenal manifestations in the electromagnetic or gravitational fields, which are fundamentally non-individual, some kind of “world” stuff. But the "everything theory" of fundamental physics, to tie all the known forces into a unity does not yet exist, monism is a hope. Why is there space-time? Answers to any riddles about space-time reduce to facts about objects. If there were no objects, there would be no space-time. One can wonder why there is space-time, but this is only to wonder why there are objects.
+
+“The creation of the universe itself makes no sense. Time didn't exist before the big bang, so there is no time for to make the universe in. It’s like asking directions to the edge of the earth; The earth is a sphere; it doesn't have an edge; so looking for it is a futile exercise. If the universe is really completely self-contained, having no boundary or edge, it would have neither beginning nor end.” (Stephen Hawking).
+
+From Wikipedia, Stanford Encyclopedia of Philosophy, van Fraassen, van Inwagen. 
+I think what has confused you is the usual grammatical role of "nothing." It appears in sentences like:
+
+
+  (1) Nothing is what I got for Christmas.
+  (2) I gave her everything, asking for nothing in return.
+
+
+It appears that "nothing" is a subject in these sentences, i.e., a thing about which other things are said. But actually the semantic value of "nothing" (i.e., what "nothing" contributes to the meaning of the entire sentence) is not some object, but a function from sentences to truth-values. "Nothing", like "everything", "no one", "each day", "exactly one", and so on, is a generalized quantifier. Before getting to the particular cases (1–2), let's look at a standard way of giving the semantic value of "nothing":
+
+
+  [[nothing]] = [λf. ¬∃x s.t. f(x)] where f is a function from individuals to {T/F}, and x is an individual.
+
+
+Here "nothing" is defined as a property of properties, a second-order property. Its arguments are characteristic functions of sets, its values: truth-values. Using it, (1–2) can be analyzed as follows:
+
+
+  (3) There exists no x such that I got x for Christmas.
+  (4) I gave her everything, and there exists no x such that I asked for x in return.
+
+
+Each of those x's that these existential quantifiers supply is a thing, a something, an object. Depending on the context, these objects can even be abstract (like numbers, predicates, points in 2D space, etc.). But the negated existential quantifiers ("there exists no x" = "it's not the case that there exists an x") themselves are not, at least in these particular sentences, being talked about, so they're not even treated as objects like those x's are.
+
+In conclusion, I'd like to very briefly de-mystify some of the superficially problematic things you said:
+
+
+  Claim 1. nothing is still something
+
+
+Understood as: the semantic value of "nothing" is still something, this is true if and only if "nothing" has a semantic value. We know that it does; it's a function from open sentences to truth-values. So yes: the semantic value of "nothing" is something. 
+
+
+  Claim 2. something is not nothing
+
+
+Superficially, this seems to contradict Claim 1. But it doesn't, because from the fact that the semantic value of "nothing" is something , we can't conclude that something is nothing. And lastly:
+
+
+  Claim 3. something can be anything (or everything)
+
+
+This can happen in worlds where either only one thing exists or everything is identical to every other thing. In either case, the following sentence captures the truth-conditions of this claim: ∃x ∀y (x = y).
+
+For corrections/suggestions/improvements: please leave a comment or simply edit the post.
+Consider the following analogy. What is a chicken? Are chickens real?
+
+There was a time (most places in Europe, anyway) when this would have seemed an even more stupid question than it does now. Everyone knew exactly what a chicken was. Even a rich noble would have only had to walk perhaps fifteen minutes and point to an example of a chicken. It was a vibrant and noteworthy part of everyone's every-day experience. So too, our experience with numbers. That (point at a carton of six eggs) is six. That (point to an apple, and another apple which has been cut in half and one of the halves removed) is three-halves. And so on.
+
+The fact that you can't just point at a collection of something and say "there is negative-three", "there is square-root-of-five", or "there is six plus three-i" are the reason why some people who are frustrated with those ideas feel justified in saying they aren't actual numbers. It's a fair criticism, in fact, and points to the fact that we never sit down and talk about what numbers are really meant to be. Of course, these days someone could also go their entire lives without seeing a chicken, and they accept that there is an animal which is vaguely involved in the creation of the eggs which they sometimes eat for breakfast. Certainly, for those of us who did not grow up on or near to a farm or a zoo with chickens, we accept the existence of chickens as an article of faith for some years. Similarly do we take the idea there are "numbers" which don't correspond to collections of things as a received idea.
+
+So if numbers don't have to correspond to collections of things, what are they? Well, in the case of (positive) irrational numbers, they can correspond to lengths of lines or of areas — to continuous amounts of something, which is a nice generalisation of collection-sizes. And negative numbers can correspond to deficits or differences of such amounts. And complex numbers, er... well, they're... useful for quantum mechanics, and electrical engineering... and, um, so are quaternions... We find that we stretch the definition of number from "amount of" to "being useful for", which I think is an important thing to notice.
+
+There's no obvious place where we should simply stop. The fact that the complex numbers can't even be ordered any more (never mind the quaternions, for which multiplication doesn't even commute) suggests that just because something solves x²+1=0 does not mean that it's a number (that complex numbers aren't 'numbers' in general). But we can say that just because something is an upper bound for a bounded sequence of numbers, that it isn't a number (real numbers aren't all 'numbers', and the square root of two or five in particular); or that just because something is the difference of two numbers, that it isn't a number (negative numbers aren't all 'numbers'); or that just because something is a ratio of two numbers, doesn't make it a number (positive rational numbers aren't all 'numbers'). But that rules out everything but the non-negative integers; and people have historically even looked askance at zero. You could even argue that one isn't a number, if you argued that by "a number" you mean a plural amount.
+
+So it's pretty important to ask ourselves: what is a number?
+
+What is a chicken? It's a small-ish bird which doesn't fly very well. But we don't want to include kiwis or puffins as 'chickens', so perhaps we should specify that they have short beaks and don't swim well. But what about pheasants? Even if we go on to successfully isolate chickens from all other living birds by definitions, what about the ancestors of chickens who evolved into the modern farm animal? At some point there weren't chickens, and then there were. When did things change?
+
+The problem with chickens, and also with numbers, is that in the end we only have definitions for these words by convention, which are based on examples. We accept modern chickens as 'chickens', and don't accept kiwis as 'chickens'. Similarly, we want to include 'six' and probably 'three-halves' and maybe 'negative-two' and 'square-root-of-five' as numbers, but we don't want to include the function f: ℤ→ℤ given by f(x)=3x+2 as a number. It's not what we want to think of as a number, because it can't be used the way we want to use numbers. Numbers are tools for understanding the world.
+
+Which birds do we accept as chickens? Those that behave in a particular way, and in particular which we can understand in a particular way. Their eggs taste a particular way, their meat tastes a particular way, and they behave in a particular way. We care about how they act and how they taste because we are interested in them as features of the environment which we will interact with (perhaps to eat them). The concept of a chicken is something we have invented to distinguish some animals from others. If we didn't care about the difference between a chicken and a pheasant, we wouldn't have separate ideas for chickens and pheasants. (Just because we have different words for things doesn't make them different, but it does mean that we do care about what differences we think they have.) The concept of 'chicken' is a tool which we use to understand some of the animals we know about.
+
+Similarly, the concept of 'number' is a tool which we use to understand the relationships between objects. But it goes beyond just the concept of 'number' itself: each number is a concept which we use to distinguish from other numbers. We rarely think that there is just "a number" of something, to denote that there is more than zero or one or two; we care about which number. The difference between six eggs and seven eggs is important to us.
+
+But there is another difference with chickens: we may see small chickens or large chickens (a single sort of chicken with different properties), but we never see egg sixes or apple sixes (a single sort of number with different attributes). We do see six eggs or six apples. In this case, the number is not playing the role of a noun, but an adjective. So all this talk of 'chickens', which are objects, has been misleading. What we should have been thinking is something like: "Is red real"? "Is big real"?
+
+Well, colours are real and sizes are real, but what makes a colour 'red'? We can invent an arbitrary definition based on frequencies of light, but then we're making the definition of colour depend on numbers, which is no way to solve the problem of how to understand numbers. In the end we again end up having conventions based on examples. But surely the things which we call numbers must exist? That there really is a number three? We see it all the time, of course. Similarly, there must exist a colour red, mustn't there?
+
+The colour red depends on our sensory apparatus, and the way our brains process the signals sent to us by our eyes. The colour red is an emergent experience, resulting from how our brains and sensory organs are structured. The notion of the colour red is a useful way of understanding our world, based on how we experience it. There's no reasonable way to deny that there are things which shine red light (light which we percieve as red); things which reflect red light (which preferentially reflect light which we percieve as red); and that red light falls roughly within some frequencies of light (we have constructed an entire theoretical apparatus for describing electromagnetism which is useful enough to build radio towers, lightning rods, x-ray machines, NMR machines, and lasers, and in this theory the light which we tend to percieve as red affects certain photosensitive apparatus in a specific way, and these predictions are borne out by experiment). The concept of 'red' is an extremely useful and robust way of describing how we experience the world.
+
+You might even say that the world is described "unreasonably effectively" by the notion of colour; there's no particular reason why so much of our experience should be describable in terms of colour. We don't talk every day about the scent of steel, the sound of plastic, the taste of granite. Somehow, the world is shaped in such a way that our dominant mode of sensory perception happens to be extremely useful for describing a lot of the world. Surely coloured light, in exactly the range of frequencies which we are able to see with our eyes, must play a fundamental role in how the universe works! Surely 'red' has a fundamental reality beyond our own existence; surely the colour red has an unchanging, even Platonic, nature to it!
+
+I disagree. The colour red is indeed a very useful thing to sense, and to understand, because it is how we perceive some useful physical phenomena. But if we percieved a somewhat broader spectrum which included what we call the infra-red, that would be useful too; why don't we? For accidental reasons, I suppose. Perhaps in warm climates there is too much noise in those frequencies; though this doesn't explain why http://en.wikipedia.org/wiki/Infrared_sensing_in_snakes some species of snakes can sense them while we cannot. The reason why we can percieve red among other colours is ultimately because it was a useful accident.
+
+If the number three seems to us to have an extremely vital existence, this could be because the concept of number is a useful one to be able to formulate when reacting to the world around us, and so much so that it is wired into our brains at a very deep level. This means that there are really amounts of things in the world, and that some notions of 'amount' are so simple and important that you can evolve creatures who believe that the notion of amount is so vitally important, that it can exist independently of anything to have an amount of.
+
+The non-negative integers — the "natural numbers" — are just what we call our simplest tools for measuring amount. But they are our tools, extended well beyond our ability to immediately apprehend quantity, off into the dozens, hundreds, and billions — just as we have tools to help us to sense the infra-red, though we cannot directly percieve it.
+
+Numbers are concepts. They are our tools to help us to understand useful things about the world. They are very, very, very useful tools; and versatile enough that we have every reason to believe that they can be used to describe any pattern that we can comprehend (and many that we cannot comprehend) regardless of whether that pattern is ever realized in the material world. But there is no more reason to believe that numbers (such as Three) exist independently, any more than there is to think that there is a Platonic Red which exists independently of any red object.
+No. There would be no valid disproof. We generally hold that it is not possible to validly disprove something which is true. So if there are ten dimensions, any proof which concludes that there are not ten dimensions has a flaw somewhere in it. This is very different from some universes not being able to prove that there are ten dimensions. In some universes, I can imagine that an a-Ten-Dimensionalist could say:
+
+
+  There is neither sufficient evidence, nor reason, to believe that there are ten dimensions.
+
+
+Such a person need not assert that there aren't ten dimensions. Should he/she do that, he/she would be in error.
+Look at what Peter van Inwagen says in his book "metaphysics" (an excellent read) on this issue.  He accuses physicists who claim to have solved the philosophical problem of origin or creation of conflating the notion of "philosophical nothingness" with "physical nothingness".  The problem with many answers from physics, as @infatuated pointed out, is they don't assume complete nothingness.  For a singularity to expand, there must be time.  Nothingness + time does not equal nothingness.
+
+This is a difficult question in metaphysics which dates back quite far, possibly to the time of Parmenides who raised the issue of making "negative existential statements". As far as answers go, if one could prove, for example using the modal ontological proof, that a necessary being necessarily exists, we answer the question.  This brings us to one possible way of answering the question: proving that nothingness is a reality which is impossible to obtain.  Both the Ontological and the Cosmological arguments seek to do this (if you're not familiar with them, they're good things to know).  Consequently, if one could prove that something necessarily exists, we could also answer the question.  I believe some philosophers, including van Inwagen attempt to prove this by comparing the probabilities of nothingness vs. something, given the available evidence, to show that it is highly improbable, almost impossible, for nothing to have existed - although this still doesn't seem to answer the "why" part of the question.
+
+So, to answer your question in particular, many philosophers don't actually believe that the world came from philosophical nothingness, and therefore seek to answer the question that follows: If something didn't come from nothing, then why does something exist rather than nothing?  As for the physicists, take what they say with a healthy dose of skepticism when they discuss something coming from "nothing".
+In that story B is suggesting that the lottery in which some become kings, some are executed, etc is an intensification of chance in the sense that makes the normal, chancy events of human life happen more quickly and in a single lifetime rather than over generations. There's nothing specially mathematical or philosophical about it.
+An obvious answer to this is the existence of the subject, i.e., the self that considers the question.  This is partially what the famous Cartesian assertion, http://en.wikipedia.org/wiki/Cogito_ergo_sum cogito ergo sum ("I think therefore I am") refers to.
+
+There are ways to nit-pick Descartes' formulation, however.  It does seem syllogistic, i.e., actually based on two premises:
+
+
+That thinking things exist.
+That I think.
+
+
+One problem this exposes is the issue of who or what it is that actually thinks; "I think therefore..." takes as given that it is in fact the I subject which thinks.  Yet conjecture could lead us to the conclusion that it might be something else which thinks, and the I is simply an observer of this with itself as the subject.
+
+A refinement would be to ditch the the "think" but keep the "I" and "exists", such that the subject is proof of existence.  So there are two unquestionable things, the subject, and existence.  This implies it might be possible for there to be existence, but no subject, in which case existence is the fundamental ground of the subject.  Solipsism is a challenge to this, asserting that without the subject there might be no existence, in which case existence and the subject are one and the same.
+
+
+  everything is temporal, including the subject
+
+
+This is not true; some facts about existence could be said to be non-temporal even if they are not certain.  For example, that 1 + 1 = 2 is a belief, but if it were true, then it does not depend on a thinking subject, or time, to be so.  
+
+Time is meaningful only in terms of relation, which is erased by the solipsitic challenge.  A solipsistic subject might pragmatically deploy the concept of time (and "existence") in self-reflection, but this does not make it otherwise real.
+I don't think you can choose a way to do this that would allow the speed of light 'c', the Planck constant 'h-bar' and the gravitational constant 'G' to all remain the same.
+
+It has always seemed to me that the balance of these three is what sets the scale of the universe.  The ratio of the first two vaguely governs how mass and speed are related in one way, and the other determines how mass and speed are related in another way. The odds of these balancing out at multiple points seems vanishingly small.
+
+So let's try:
+
+If we divide both length and time in half we have maintained c.
+
+You have divided times in half, so h-bar, which limits the product of energy and time, would go down to half of its original value unless you double energies, which requires you double masses (given E=mc^2).
+
+Then what happens to the gravitational constant?  Everything weighs twice as much and is half as far apart, so the force between two things will be (M + m)G/r^2, which has increased eightfold if you double M and m, and halve r (which doubles the value, twice).  So G would have to change significantly.
+
+If the arithmetic is correct, I think this implies that however you pulled this off, we would notice -- one of the three values would change.
+If $x$ is positive rational number less than $\frac{1}{2}$,  can the following logarithmic expression be equivalent to any real number , say $r$? 
+
+$$\frac{\log(1-x)}{\log x} = r$$, Where $r$ is positive real number less than one, 
+
+Assume first $r$  is a rational number say $n/m$, then you would get this equation, $x^n=(1-x)^m$, where solution for $x$ will be clearly algebraic - irrational number contradicting the assumption of rationality of $x$, hence $r$ cannot be rational number & must be irrational number, if so, you get this following equation, $x^r = 1-x$, the right hand side is a rational number, but the left hand side is transcendental number according to - Gel-schneider theorem, that contradicts again the assumption of irrationality  of  $r$, so what is that number suppose to be?
+
+I guess someone will simply say it is a transcential number given by definition, if so assume  $x$ an integer power of a rational number, say $x=a^p$, where  $p$ is odd prime number, then by substitution you get this simple equation which is a reduced form of FLT for rational numbers    ,  $a^p + (a^r)^p = 1$, but we already know that  $a^r = b$, where $b$ is a rational number that  doesn't exist from the proof of Andrew Wiles & Taylor to Fermat's Last Theorem, thus  $log(b) / log(a)$ is not Transcendental number, it is a kind of numbers that have to be redefined again & precisely  
+Yes, it is possible, with a very simple example:
+
+It is trivial to have evidence that humanity exists.  Why humanity exists is an open question in philosophy with no universally accepted answer.
+I would look at the Stanford Encyclopedia of Philosophy entry on Facts: http://plato.stanford.edu/entries/facts/ http://plato.stanford.edu/entries/facts/. There are lots of articles and monographs in recent metaphysics (and in work on Russell, Ramsey, Wittgenstein, etc.) that focus on this topic, and some important ones show up in the bibliography.
+The role of time and space beeing containers or relations have been discussed controversially in physics.
+
+An excellent review of the different viewpoints, e.g., Leibniz, Newton, Mach, Einstein, is Chap. 3 "Relativity and the Absolute. Is Spacetime an Einsteinian Abstraction or a Physical Entity?" is Green, Brian: The Fabric of the Cosmos. 2004.
+
+According to the Special Theory of Relativity one has to consider spacetime. Only the combined concept has an objective meaning, independent from the observer. According to the General Theory of Relativity spacetime is a physical entity because it is affected by mass distributions. Big masses like the sun or black holes warp spacetime in their neighbourhood. That's a step beyond Ernst Mach.
+
+Summing up, Greene writes concerning acceleration
+
+
+  [...] but it is acceleration relative to something just as real tangible, and changeable: a field - the gravitational field. In this sense, spacetime - by being the incarnation of gravity - is so real in general relativity that the benchmark it provides is one that many relationists can comfortably accept.
+
+
+Added in 2018: The detection of gravitational waves confirms the statement of the General Theory of Relativity that spacetime is a physical object, not just a container. Gravitational waves are oscillations of spacetime due to the acceleration of masses.
+This is an interesting question, there are several ways of looking at it. Here are two: 
+
+Alexis Meinong looked at it from the point of view of intentionality. Intentionality is the fact that any thought we have has to be about something. We don't just think, we think about people, objects, events, conversations etc. Because our thoughts always have to have some sort of "target", every thing we think about has to have some form of existence, even if it isn't material existence in the real world. 
+
+So although you might have only one sister in the real world, per Meinong, you also have a very large amount of siblings that exist virtually, as long as you think of them. This very crowded universe where all sorts of hypothetical siblings, imaginary girlfriends and dragons and ewoks exist was called https://en.wikipedia.org/wiki/Meinong%27s_jungle Meinong's Jungle by other philosophers.  
+
+This was a beautiful thought while it lasted, but it was first put in doubt by Frege and Russell with their logical atomism (see the famous https://en.wikipedia.org/wiki/Definite_description#Russell.27s_analysis "the present king of France" example). 
+
+More recently Meinong's Jungle was completely wiped out by modern information science and neuroscience. Of course all of these imaginary entities have a real existence: They exits as neural patterns in your mind or bytes stored in a computer memory and there is nothing really special or metaphysical about them. 
+
+
+
+The second more interesting approach is more closely related to your Descartes example. But first you have to be very careful with what Descartes was doing exactly when he came up with it. 
+
+What Descartes really meant isn't "I can think of myself, that's why I know I exist", he wasn't implying that conceiving of something necessarily means that it exists somewhere. He meant something much more subtle. His reasoning is the following: 
+
+
+I can imagine that my body is an illusion. I can never be certain that I have a body.
+Because I can think, I cannot imagine that my mind is an illusion. The very fact that I think means that I am certain I have a mind. 
+My body and my mind have different properties, since it is possible that one is an illusion, while it is impossible for the other. 
+By https://en.wikipedia.org/wiki/Identity_of_indiscernibles Leibniz's law, if two objects have different properties, than those two objects are different. 
+Therefore my mind is different from my body, and has a separate existence from it. 
+
+
+Descartes claims that he has thus definitely proved the existence of a mind or a soul that is separate from the body. I won't go into the details of whether his proof stands or not. 
+
+The key point for your question is the following: 
+
+
+The fact that we can imagine an object doesn't mean that it has any real existence. But the fact that we can imagine the difference between two objects does mean that logically they are different (they are not identical). A modern modal logic version of this conceivability argument was later proposed http://plato.stanford.edu/entries/zombies/#3 by Kripke and others. This "conceivability trick" is used in all sorts of places to prove various metaphysical facts, although its validity is under debate. https://philosophy.stackexchange.com/questions/30628/why-arent-conceivability-based-arguments-refuted-by-the-ideas-of-fantasy-and-sc See this question. 
+
+
+Here some further references: 
+http://plato.stanford.edu/entries/possible-objects/ http://plato.stanford.edu/entries/possible-objects/
+http://plato.stanford.edu/entries/nonexistent-objects/ http://plato.stanford.edu/entries/nonexistent-objects/
+The quote appears to be from the movie Her. While citing random things on the Internet usually doesn't go very far, there is an interesting comparison to this idea with similar thoughts of http://thoughtcatalog.com/jeremy-sheeler/2014/02/the-past-is-just-a-story-we-tell-ourselves/ Marcus Aurelius.
+
+To summarize the comparison, the following of Marcus Aurelius was quoted (without citation):
+
+
+  Our life is what our thoughts make it.
+  
+  You have power over your mind – not outside events. Realize this, and you will find strength.
+  
+  Very little is needed to make a happy life; it is all within yourself in your way of thinking. (http://classics.mit.edu/Antoninus/meditations.7.seven.html Meditations 7?)
+
+
+It seems to fit with the ideas of stoicism, being detached from pain.
+
+As the OP alludes to, there are other philosophic traditions that have a different approach. As just one example, certain branches of Christianity understand sin as not just a story we tell ourselves but rather as something that has real temporal effects that must be addressed (i.e., through confession and performance of penance), and simply telling oneself a different story does not change one's actual state.
+A halluncination is to have a perception in the awake state when there is no external stimulus. 
+
+Colour is not a halluncination. Instead, it is the result of our processing of visual stimuli in the mind, see e.g., my answer to the previous question 
+https://philosophy.stackexchange.com/questions/32305/is-color-intrinsic-to-light/32306#32306 Is color intrinsic to light?
+
+Analogously, hearing tones is the result of our processing of auditive stimuli in the mind.
+
+In both cases, an external stimulus exist and serves as input to the processing.
+The more complex and numerous the phenomena that are to be explained, the more complex the theories with ever more necessary entities that have to be proclaimed for explaining them. 
+
+Occam's Razor in one contemporary (in his time) formulation is:
+
+
+  lat. Numquam ponenda est pluralitas sine necessitate
+  
+  engl. Plurality is not to be posited without necessity.
+
+
+This means that as long as there is no simpler alternative, Occam's Razor is served perfectly well, no matter how complex the theory may become, see e.g. https://philosophy.stackexchange.com/questions/3700/occams-principle-is-seen-as-a-corner-stone-of-modern-science-are-there-any-exam?rq=1 this answer.
+
+The complexity of quantum mechanics and the like is simply due to the vast variety and distinctiveness of phenomena we encountered in experimental environments. They necessitate all these fields/entities to be included because without them, not all of these phenomena could be explained (or rather: described).
+
+On the other side, these theories exclude even more complicated alternatives by delivering a simpler (in terms of plurality) explanation. Here, Occam's Razor can be and has been applied, e.g. in the history of the physics of fields regarding the postulation of 'aether'.
+
+Important aside
+
+What is known to us as Occam's Razor isn't a principle 'found' by himself, it is read out of Aristotle's metaphysics and often reformulated over the centuries, see https://en.m.wikisource.org/wiki/The_Myth_of_Occam%27s_Razor https://en.m.wikisource.org/wiki/The_Myth_of_Occam%27s_Razor
+To expand upon Mauro's excellent response: "Nothing" isn't a name of a thing that doesn't exist. Words like "nothing" "something" "everything" "most things" and so on don't refer to objects the way that proper names like "Shane" do. Rather these words, called quantifiers, show how many objects are being referred to by other expressions. So "nothing exists" doesn't mean "the object which is nothing has the property of existing", rather it says that the number of the things that have the property of existing is 0. 
+
+That resolves the paradox you mention above.
+First of all, God does exist outside of time, so there's nothing impossible about that. That's what is often referred to as God existing in eternity. Concerning the creation, Augustine specifically addressed that question:
+
+
+  "Those who say these things do not yet understand thee, O Wisdom of
+  God, O Light of souls. They do not yet understand how the things are
+  made that are made by and in thee. They endeavor to comprehend eternal
+  things, but their heart still flies about in the past and future
+  motions of created things, and is still unstable. Who shall hold it
+  and fix it so that it may come to rest for a little; and then, by
+  degrees, glimpse the glory of that eternity which abides forever; and
+  then, comparing eternity with the temporal process in which nothing
+  abides, they may see that they are incommensurable? They would see
+  that a long time does not become long, except from the many separate
+  events that occur in its passage, which cannot be simultaneous. In the
+  Eternal, on the other hand, nothing passes away, but the whole is
+  simultaneously present." (Confessions, 11.11.13)
+
+
+The key to understanding what he is saying is to remember that any concept whose meaning depends on a temporal idea needs to be omitted from any questions or descriptions of the eternal. For this reason, even the term creation must be understood in a way that does not imply time or change. From the human perspective, the creation involved a series of events in time, each of which involved change. However, from the divine perspective, the creation must be seen as an eternal expression of God's will. We see it as a change, but there is no reason to assume that He sees it that way.
+
+It's interesting that many mistakenly think of God's existence in eternity as a limitation to what He can do or how He is, but that's really looking at it backwards. Existence in eternity implies a liberty that is not easy for us to comprehend since we are subject to temporal constraints. How could freedom from these constraints ever constitute a limitation?
+
+  "I am having some troubles with the whole notion of materialism which
+  states that only matter exists,namely how can be said that only matter
+  exists without implying the idea of "existence /being " ?"
+
+
+It is confusing because most people who say that don't know what it means in the technical philosophic sense. They usually just mean that they are into science.  In the strict sense it is a claim about the nature of a secret inner core of a thing, the substance, which is not the thing we see, the mere appearance. When Penrose says math really exists, he makes a claim about the nature of homogeneous Philosophic Material.  
+
+Dennett speaks of “one stuff”, i.e., one hidden substance which consciousness represents through the appearance. In his sense it amounts to the same thing as saying consciousness is a an illusion, or, almost an illusion. Reducible to the one stuff. 
+
+In the Heideggerian sense it means there is something that is there, e.g., a chair, and we understand it as something, a chair. The claim is that a thing and the way it is understood both lay in a shared being. Da(there)-sein(meaning). The “-” dash is being. 
+
+Kant says, contravening Heidegger, when I have something which is something, I add no more by saying, it is. Is is the “cupola” of a sentence. People like Russell exclude the sentence, and hold that it has no proper existence. 
+Here is a beautiful talk of Feynman about chains of why questions:
+https://www.youtube.com/watch?v=wMFPe-DwULM https://www.youtube.com/watch?v=wMFPe-DwULM
+
+In his case the chain ends in why magnetic and electric forces attract:
+
+
+  I can't explain that attraction in terms of anything else that's familiar to you. For example, if we said the magnets attract like rubber bands, I would be cheating you. Because they're not connected by rubber bands. I'd soon be in trouble. And secondly, if you were curious enough, you'd ask me why rubber bands tend to pull back together again, and I would end up explaining that in terms of electrical forces, which are the very things that I'm trying to use the rubber bands to explain. So I have cheated very badly, you see. So I am not going to be able to give you an answer to why magnets attract each other except to tell you that they do. And to tell you that that's one of the elements in the world – there are electrical forces, magnetic forces, gravitational forces, and others, and those are some of the parts. If you were a student, I could go further. I could tell you that the magnetic forces are related to the electrical forces very intimately, that the relationship between the gravity forces and electrical forces remains unknown, and so on. But I really can't do a good job, any job, of explaining magnetic force in terms of something else you're more familiar with, because I don't understand it in terms of anything else that you're more familiar with.
+
+
+As for existence vs non-existence, according to eastern thought / religious philosophy, in particular buddhism and hinduism, the nature of nature (pun intended) transcends the human concepts of existence and non-existence.
+
+For example in http://www.shambhala.com/the-royal-seal-of-mahamudra.html The Royal Seal of Mahamudra, an 18th century Tibetan manuscript:
+
+
+  The evident concept-free
+  wisdom of mind essence does not fall into any extreme whatsoever,
+  whether of existence or nonexistence, being or nonbeing, eternalism
+  or nihilism. (p.263)
+
+
+In shows up in western thought as well in the claim that the world is fundamentally unintelligible. For example as put by https://chomsky.info/20060301/ Chomsky:
+
+
+  Instead of trying to show that the world is intelligible to us, we recognized that it’s not intelligible to us. But we just say, ‘Well, you know, unfortunately that’s the way it works. I can’t understand it but that’s the way it works.’ And then the aim of science is reduced from trying to show that the world is intelligible to us, which it is not, to trying to show that there are theories of the world which are intelligible to us. That’s what science is: It’s the study of intelligible theories which give an explanation of some aspect of reality. 
+
+
+And by https://plato.stanford.edu/entries/hume-newton/#Ske David Hume:
+
+
+  While Newton seemed to draw off the veil from some of the mysteries of nature, he shewed at the same time the imperfections of the mechanical philosophy; and thereby restored her ultimate secrets to that obscurity, in which they ever did and ever will remain.
+
+
+So yeah, according to some, nature fundamentally transcends our capacity for making sense of it, and therefore you could say that it cannot make sense.
+With our present understanding of the universe, the answer is very probably. Any god that exists has only ever acted within the laws of physics.
+
+More precisely, regardless of your definition of a god, there is no extant evidence that the laws of physics have ever been violated. 
+
+Now, there are a number of reasons why we may find that this isn't true:
+
+
+we have an incomplete understanding of the laws of physics (almost definitely true)
+we aren't aware of every event ever (definitely true)
+there have been violations that we haven't witnessed (not unreasonable)
+the gods exist but haven't bothered to do anything (both scientifically and theologically tricky)
+
+
+What we can reasonably safely say though, is that any regular action that a god takes in our bit of spacetime e.g. answering prayers, either doesn't violate the laws of physics or the gods are being super sneaky about the violations.
+
+Edit. As Arthur has correctly pointed out in the comments, this answer assumes the existence of a god or gods. This assumption was present in the question so I felt it reasonable to answer with that assumption intact. 
+
+For the record, I do not rule out the possibility that there are no god or gods. Though any clear determination in that regard would render Philosophy.SE much less fun.
+There is a pretty fundamental fallacy at play in the argument.  Let's take it step by step.
+
+
+  I can conceive of a potentially infinite amount of time ahead of me, for it is not actual as it remains to be experienced
+
+
+True.  Naturally, since no one (yet) has proven to be immortal, the vast majority of that infinite time "ahead of you" will also be "without you"; but either way, we can conceive of, say, the year 2090, or the year 20000000[...insert zeroes at leisure...]000090.
+
+
+  I can't conceive of a potentially infinite amount of time behind me, for having been experienced it is actual, and being actual it is finite,
+
+
+Wrong.  You have experienced a small fraction of that potentially infinite time "behind you", but there is nothing stopping you from conceiving of, say, the year 1890, which (to all appearances) occurred without your presence.  Of course, if you are a Buddhist, the year 1890 did include your presence, in some manner or another, but that's neither here nor there-- and that's precisely the flaw in the argument.  Imaginary time is symmetrical, whether we imagine ourselves around to experience it or not.
+
+
+  Has anyone discussed this argument in the literature?
+
+
+Nope, for reasons that should be apparent.
+
+  Is my conflation of extensionless with without magnitude the problem?
+
+
+No, I don't think so-- I think you've put your finger on a genuine conundrum regarding Nyāya atomism.
+
+I'm by no means an expert on Nyāya or Vaiśeṣika philosophies-- my knowledge of them comes largely from Buddhist polemics and debates with them-- but the problem that you raise is one that is in turn raised by various Indian Buddhists, so it is not a new criticism.  I'm afraid I don't know the Nyāya-Vaiśeṣika response to this charge; I'd be most interested if someone more knowledgeable can provide it.
+I believe the question here makes assumptions which invalidate the endeavor. You assume that "nothing" is something which exists; without getting into the philosophical and formal approaches to the concept of "nothingness," this is patently contradictory.
+
+Taking from the discussion http://en.wikipedia.org/wiki/Nothing here, one may propose that "nothing" can be defined as "not anything," or in a very rough sense, the negation of all that there is (minus the contradictory negating of course; refer to the history of modern set theories and formal logic to see what I mean). 
+
+So, in the strictest sense, it is not possible to subtract not anything from any set as subtraction is a binary operation; i.e., what you are asking is equivalent to asking, for example, "58 - ". Doesn't hold, does it?
+
+At any rate, I hope I've addressed your concern here.
+This reminds me of an old zen statement that someone once told me. It is said about a bowl or a wheel (I have forgotten which: an empty bowl is a common koan subject, and wheels are even in the I Ching). I'll say it as if it were about a bowl. It is a dialogue, and it goes something like this:
+
+
+  What is it that makes a bowl useful?
+  A bowl can carry things, and we can eat or drink out of it.
+  So we like a bowl because it provides us with other things?
+  Well, no. A bowl doesn't actually provide anything that we don't first provide to the bowl.
+  And the things we provide to the bowl are all that we like about the bowl?
+  Well, no. A bowl is empty, capable of holding things.
+  So we like a bowl because of what is not there? Because the middle of a bowl is not bowl?
+  Yes. We like a bowl because of what is not there.
+
+
+But more relevantly, there are some very nice cosmological questions all wrapped up into one bundle here. And we should look at some of them.
+
+You say: Even if everything is relative and space is infinite, there aren't any bounds like the start or end of space. How can be this space in nothing?
+
+Part of this comes down to the interpretation of what a 'bound' on 'space' is. One way of thinking about the universe is to think of it as a http://en.wikipedia.org/wiki/Manifold manifold. Some might say it is a 3-manifold, some might say it's a 4-manifold, and still others might say that it's a much higher-dimensional manifold with tightly curled dimensions. Let's not focus on that, but instead just on the idea that the universe might be interpreted as a manifold. What is a manifold? It's something that looks locally like 'normal space.' So the idea is that everywhere we go in space, we expect its shape to look roughly the same.
+
+This leads us to a big debate in cosmology as to http://en.wikipedia.org/wiki/Shape_of_the_Universe the shape of the universe. This is all physics so far. But I bring this up because I wanted to mention some of the leading ideas. In general relativity, which has a cosmological component, the shape of the universe is typically modelled on a particular exact solution to a set of Einstein's equations, called the http://en.wikipedia.org/wiki/Friedmann%E2%80%93Lema%C3%AEtre%E2%80%93Robertson%E2%80%93Walker_metric Friedmann-Lemaitre-Robertson-Walker metric. Associated with this metric is a sign (positive, negative, or zero). It sounds to me like you are implicitly thinking of this sign as zero.
+
+If it's zero, then the universe more or less 'extends forever' exactly like it looks locally. That is, if you were to have a set of infinite, straight axes, like an x, y, and z axis, and where to measure everything according to these axes, nothing bad would happen. While this is possible, as it is suspected that this cosmological constant is very small (source, e.g. http://en.wikipedia.org/wiki/Shape_of_the_Universe#FLRW_model_of_the_universe here) even though the sign itself is unknown, it's not all that is thought possible.
+
+In particular, if it were positive or negative, then things become very different. One suddenly tosses words around like a 'sperical manifold' or a 'hyperbolic manifold.' It becomes possible for there to be a universe that is infinite (in the sense that we can go on in any direction forever) yet bounded. When I say bounded here, it has a very particular meaning, but that's also a bit complicated. So we'll discuss it by means of example.
+
+Poincaré used to like to describe a hyperbolic geometry that's easy to visualize. Suppose we have a disk, and in the center of the disk we are a certain size. As we approach the edge of the disk, we shrink, and perhaps we shrink at the perfect rate so that, were we to hit the edge of the disk, we would have zero size. Then, walking towards the edge of the disk, we would never get there, in a sort of Xeno's Paradox. We keep getting smaller and smaller, and cover less and less apparent distance. Like below:
+
+
+
+A nicer image from our good friend M.C. Escher:
+
+
+
+Einstein spoke of a particular spherical manifold that had a similar characteristic. The fundamental similarity comes from the strange aspect of relativity that http://en.wikipedia.org/wiki/Length_contraction objects contract in length when they move very fast.
+(This is a whole thing to consider in itself - there is a 'dumb' problem about fitting a ladder in a tower. Suppose you have a 1-roomed tower that's much taller than it is wide, so that a ladder won't just fit in the door. If we want to replace the lightbulb on the chandelier at the top, what do you do? Answer: point the ladder at the door and run really, really fast. You and the ladder will shrink, and you just need to be sure to rotate the ladder before you slow down.)
+
+So what I'm getting at is that some have conceived of potential universes that are both infinite and bounded, in a certain sense. I hope you'll forgive me if I left a lot out - I just wanted to pull out certain ideas.
+
+But this leads me to talk briefly about a second aspect of your question: The assumption that the universe is supposed to be in something. I was under the impression that you were referring to the universe as, well, everything. Then this is silly, and reduces to: if there is Everything, where is it? But conceivably you do not consider 'space' to be part of the 'universe' that you mentioned, because 'space' is 'empty,' right?
+
+That's not how space is thought of in terms of the manifold-interpretation I was using above. In this, 'space' is more or less the manifold itself, while every atom, molecule, radiation, etc. are simply spots or regions in the manifold. So while I think that there are nice cosmological questions there, I don't think that they're properly formulated, perhaps. [For additional reading, you might start with the http://en.wikipedia.org/wiki/Theorema_Egregium Theorema Egregium or http://en.wikipedia.org/wiki/Physical_cosmology Physical Cosmology, and follow links and references to your heart's content].
+
+To end, I want to look away from mathematical physics or cosmology for a moment. Reading back on what I wrote, I get the impression that things are far more certain than they really are. Although we posit many things, we know very little (I don't want to get into https://philosophy.stackexchange.com/questions/2868/do-we-know-whether-we-know-something Do we know whether we know something? or https://philosophy.stackexchange.com/questions/2259/claims-that-we-know-virtually-nothing-can-they-be-refuted Claims that we know (virtually) nothing - can they be refuted?). I think a very nice, much more philosophical (in a modern sense) perspective starts with the http://en.wikipedia.org/wiki/Anthropic_principle Anthropic Principles. 
+
+
+
+Whoo! That's a lot longer than I was anticipating, and more technical than I had hoped. But the included ideas, those are what I wanted to get across. The popular science writer Jeremy Bernstein has http://rads.stackoverflow.com/amzn/click/0139055487 a book that I've heard many good things about (though haven't read - but I like some of his other material, and his articles for the New Yorker), and it's very inexpensive. Restricting ourselves only to free things, I would start with the anthropic principle and see where I'm taken. 
+
+I hope this was an okay read.
+"Objects" are coherent clusters of properties that our minds distinguish and/or imagine. In this sense even when an object corresponds to something real (http://en.wikipedia.org/wiki/Noumenon "thing per se", "noumenon"), as soon as one considers this part of reality as something separate and distinguished by particular properties under one's consideration, it is the creation of one's mind, that one is now dealing with: with some properties and relations unknown, others ignored and yet others mistaken about. 
+
+Inserting a microscope between an object and the inquiring mind serves but to remind the mind of this its own property.
+Especially given what you observe about electromagnetic forces, not to mention atomic theory post 1911 (c.f. the Rutherford model) and gravity post 1916 (c.f. general relativity theory), the notion of what is "material" becomes a rather significant question. To say nothing of special relativity and the Einstein equation linking matter to energy...
+
+I would, as a matter of practical discussion, include antimatter and energy, and in fact anything which is understood to obey mechanical laws, into the notion of what "materialism" accepts as pertinent 'substances'. It seems to me that materialism was originally presented in opposition to dualism and idealism; and inasmuch as there is any distinction between the monism of materialism and that of idealism, it is that the notion of matter following mechanical laws of motion being primary versus consciousness and/or spirit being primary as the fundamental nature of reality. Aside from taking different positions on the hard problem of consciousness, the pertinent difference is whether mechanism or intention is the most important principle of dynamics: and materialism is clearly on the side of mechanism.
+
+Physicalism is therefore the natural modern formulation of materialism, and perhaps is best construed as an elaboration of it in which it is recognised that 'matter' was a potentially narrow description of what one ought to consider pertinent. (Though it is still perhaps feasible, if unfashionable, to try to interpret energy as merely describing kinetic behaviour and potential.)
+Touch is just another form of sensory input subject to imperfect reading of the world like any other sense.  http://en.wikipedia.org/wiki/Tactile_illusion http://en.wikipedia.org/wiki/Tactile_illusion
+
+The whole phantom limb phenomenon involves massive deception, not sure whether this fits in your categorization of "tact". (http://www.goodreads.com/book/show/31555.Phantoms_in_the_Brain Phantoms in the Brain: Probing the Mysteries of the Human Mind - fascinating and unexpected)
+
+It's interesting that the sense of touch is a main element in a parable about the fallibility of senses and knowledge: https://en.wikipedia.org/wiki/Blind_men_and_an_elephant https://en.wikipedia.org/wiki/Blind_men_and_an_elephant 
+In Quantum Mechanics the wave-function of a system is also known as the state of the system. This state is not static but evolves in time. The evolution is only dependent on the present time, so is not historical. It is exactly deterministic. 
+
+(Exactly the same holds for all Classical theories including Newtonian Mechanics and General Relativity).
+
+However, in the classical Copenhagen Interpretation introduced by Bohr, a measurement provokes the collapse of the state into an eigenstate. This introduces a stochastic element into the physics. After the collapse the State evolves as before.
+
+This was a tactical manouver by Bohr to separate the classical & quantum worlds so that the physics of the quantum world could develop without a thick fog of interpretational issues. 
+
+Notably Heisenberg did not see the collapse as real, preferring to see the physics describe a kind of objective epistemology. That is the collapse of the state indicates a jump in our knowledge of the system. 
+
+Bohm taking his cue from Heisenberg introduced quantum decoherence, so that the state never actually collapses, but is seen to have done so by the environment surrounding the system. The state itself is always hidden from the measurer and only the decohered state is seen. 
+
+This allowed Bohm to introduce a wholly determinsitic account of QM called Bohmian Mechanics. It is non-local, so the evolution is not just determined by the present time but also by previous times. 
+
+Quantum Decoherence is also used in conjunction with a temporal logic in the Consistent Histories approach to QM where what is predicted is the set of consistent histories for a system. In this interpretation both the measurement process and collapse are not neccessary. One could consider this a revision of Everetts many-worlds interpretion except consistent histories are not real alternate worlds. Here, the world doesn't fracture and isn't fractal. 
+
+So, to be recap:
+
+
+In the Copenhagen interpretation, the State evolves deterministically punctuated by a non-deterministic collapse. 
+In the Consistent Histories interpretation, the State evolves deterministically but is inaccessible, one measures the probability for a consistent set of histories which are decoherences of the State with the environment.  
+
+
+In both of these interpretations the State never depends on past states. 
+
+However the Bohmian interpretation does, but this is due to its non-locality which is controversial to theorists, being attractive to some and deeply unattractive to others. 
+
+Of course once one introduces special relativity one has problems with the idea of simultaniety. General Relativity brings along its own confusion with time as spacetime becomes dynamic. 
+The question is a little confusing. You cannot have a state without time - a state evolves in time. 
+
+When a measurement occurs this provokes a collapse in the state through decoherence with the environment it then continues to evolve. Note a measurement is defined to be anything that actually causes a collapse, it doesn't ahve to be a specific measuring device operated by some conscious being.
+
+Hence, at least when physically modelled, there is no prior state.
+
+However one can speculate at what happens at the Big Bang. Since spacetime is held to have started then, a prior state again isn't possible - there is literally no spacetime in which it can occur.
+
+There may be other cosmologies which allows spacetime to continue through this 'singularity'. One could argue since the physical world is uncomfortable with infinite anything, this is only an apparent singularity and spacetime does continue through it. In which case the state should also continue through this singularity. But this isn't mainstream.
+
+So, the answer to your question is no.
+
+You can only see all the colors that you can see.
+If you are color blind (like me) you cannot see all the colors that people who are not color blind can see; just as you cannot see the ultra violet light that some birds and insects can see, and there is nothing it is like for you to NOT see the ultra violet light that some birds and insects can see.
+Why do you think that darkness is the same as not having the vision sense at all?
+
+A manifold is a space, not an object in space. The line you draw on paper is not a manifold, although it may be an attempt to visualise one.
+
+The reason you should not think of manifolds as embedded is that it leads to wrong intuition about shortest paths, distances, curvature: if you visualise a 2D sphere embedded in 3D space, you might think the »real« shortest path between its poles is along the axis. This is wrong because the axis is not part of the manifold.
+
+As for manifolds really existing, this depends on whether you are a platonist. If by »naturally« you mean occurring in our space-time continuum, then by definition everything is embedded in space-time. 
+
+Edit: Mathematically, just as you can have »subspaces« in Euclidian space, you can have »sub-manifolds«. In fact, there are infinitely many 2D spherical manifolds »embedded« in Euclidean space. But that's maths. And in even in mathematics you abstract from the fact that a manifold is or might be embedded, because otherwise you would not examining the manifold but the thing it is embedded in. Can a manifold be a useful to describe real objects? Obviously. But only as long as we abstract from the fact that they aren't. The surface of the earth can be seen as a manifold; but still, the shortest route from the north pole to the south pole is through the centre of the earth.
+That god is a possibility means that there is at least one possible world with a god.
+
+That god is not a possibility means that there are no possible world with a god.
+
+That it is not impossible that there is no god means that there is at least one possible world with no god.
+
+That it is impossible that there is no god means all possible worlds have a god
+
+...
+
+You are using the term possibility in two distinct ways, one to refer to possible worlds and the other to refer to all possible worlds.
+
+One might want to check out the very similar post https://philosophy.stackexchange.com/questions/8389/should-multiverse-theories-be-rebranded-as-meta-physics Should multiverse theories be rebranded as meta physics?.
+
+
+I will not dare to answer your question myself, since I have no clear definition of metaphysics up my sleeve. Because of this lack of experience, I can also not give you a good compendium. The following is what I found after a quick search:
+
+
+The 2 subjects you describe form the basis of some posts tagged as http://sententias.org/tag/metaphysical-multiverse/ Posts tagged as "metaphysical multiverse" by http://sententias.org/about/ Max Andrews.
+I'll just mention another public-comments post, dealing with these issues: http://www.npr.org/blogs/13.7/2011/06/22/137282707/landscaping-the-cosmic-garden Landscaping The Cosmic Garden.
+There is a book called http://www.jstor.org/stable/10.7312/rube15662# Worlds Without End. The Many Lives of the Multiverse by http://mrubenstein.faculty.wesleyan.edu/ Mary-Jane Rubenstein which sais the following in the book's description:
+
+
+
+  In their very efforts to sidestep metaphysics, theoretical physicists propose multiverse scenarios that collide with it and even produce counter-theological narratives.
+
+
+Again: I haven't thoroughly looked through these sources. I hope you invoke on an interesting intellectual progress though, wishing you a fruitful and enjoyable contribution to science.
+No no no no no.
+
+No.
+
+Points and places do not work that way.
+
+An element of a set X is considered a point when one defines a http://en.wikipedia.org/wiki/Topological_space topological space over that set.  The point is not itself created any more than sets themselves are created - what happens rather is that one brings to the table an additional series of subdivisions of the totality of elements we're interested in to serve as a Topology, and it is in virtue of the subdivisions we accept that we consider something a point.
+
+Is it possible to define a topological space that might totally trivialize all the points and collapse any kind of distinction there?  Of course it is - the topology can simply consist of the full set X and the empty set as the only partitions it admits.  But this isn't an act of creating new points - rather it's just a conscious choice to filter out any other more fine-grained forms of individuated sets that might form a more interesting or complicated basis for our topology.
+
+What you seem to be doing is asserting without proof or clarification that one is confined to viewing all forms of topology within the confines of a two-dimensional and discrete case.  But mathematicians have a logical technology that lets them work around the difficulties of standard first order theory with reference to http://en.wikipedia.org/wiki/Neighbourhood_(mathematics) Neighbourhoods.  The language of Set theory allows us to identify and characterise subspaces, within which individual points can be quantified over as part of the open sets that make up the topology over our space.  Since these subspaces can be individuated in set theory and reasoned about, the functions we appeal to can act without fixing on particular points that we want to position in exact places without thereby giving up on the idea that the topology is itself composed of individual points.
+
+So with a language of continuous functions over topological spaces, there is indeed a way to describe spaces using our discretely based language that do not collapse into point singletons; moreover it's an immensely rich language that gives us access to such a diversity of ways of explaining the spaces we find ourselves in and the surfaces we find ourselves on.
+
+The key is not assuming that the only two things that matter are everything and nothing.
+Sounds like you are thinking of non-standard analysis. On the hyperreal line, extension of the real line that contains infinitesimals, every number has an infinitesimal http://en.wikipedia.org/wiki/Monad_%28non-standard_analysis%29 "monad" (the term goes back to Leibniz), a.k.a. "halo". This monad consists of all numbers infinitesimally close to it. Every interval with real endpoints will "end" with a "half" of their monads. The semi-open interval [0,1), for example, ends with all hyperreals of the form 1-ε, where ε is a positive infinitesimal. But monads do not contain a single "instant", there is a plethora of "instants" of different orders of smallness, a whole continuum of them.
+
+Not sure how this helps with paradoxes of motion though.
+Let's take numerals as the representations of numbers - as @possibleWord suggests. His/her description is indeed similar to the mathematical definition of natural numbers from set theory according to von Neumann: 
+
+
+The empty set is the numeral representing the number 0, 
+the set with single element the numeral representing 0 is the numeral epresenting the number 1, 
+and in general, the union of (the numeral representing the number n) with (the set with single element the numeral representing n) is the numeral representing the number n+1. 
+
+
+By definition, the set of all numerals and the set of all natural numbers map bijectively to each other, hence they have the same cardinality. 
+
+Hence the answer to your question: No, there are not more numbers than numerals.
+
+In my opinion your question does not presuppose to write down numerals. And the answer is independent whether the universe is finite or not. Both numerals and numbers are abstract concepts.
+
+Anyhow, could you please add your definition of a numeral.
+
+Added. Reference to @jobermark cancelled.
+As is typical for Derrida-related concepts, the short answer would be something like both yet neither. 
+
+"Metaphysics of presence" refers to the way in which our thought privileges what is present over that which is absent. "Presence" in this sense can be a physical presence, a temporal duration, a presence in thought, a presence in speech—any mode of being-present.
+
+An example of what is meant by the "metaphysics of presence" can, perhaps, be deduced from a passage in Plato's Phaedrus (Derrida has written on this dialogue famously in his essay "Plato's Pharmacy" published in Disseminations). In the Phaedrus, we find the following exchange:
+
+
+  Socrates I cannot help feeling, Phaedrus, that writing is unfortunately like painting; for the creations of the painter have the attitude of life, and yet if you ask them a question they preserve a solemn silence. And the same may be said of speeches. You would imagine that they had intelligence, but if you want to know anything and put a question to one of them, the speaker always gives one unvarying answer. And when they have been once written down they are tumbled about anywhere among those who may or may not understand them, and know not to whom they should reply, to whom not: and, if they are maltreated or abused, they have no parent to protect them; and they cannot protect or defend themselves. 
+  
+  ...
+  
+  Phaedrus You mean the living word of knowledge which has a soul, and of which written word is properly no more than an image? 
+  
+  Socrates Yes, of course that is what I mean.
+  
+  Phaedrus 275d–276b
+
+
+Here, Socrates is expressly thinking of the written word as an image of speech. I may write something down, but what I write down most properly belongs to a dialogical context which will be lost in its being written. Unlike in a dialogical context, my written words cannot be subjected to interrogation. Removed from this spoken context, the written word loses its life. Here, what is favoured is the face-to-face context which is taken to be the more authentic means of communication, because in face-to-face communication, the person who speaks is present to us: we may question that person to see for ourselves if what he or she has to say is truly wise.
+
+It is presence in this sense that is meant by the "metaphysics of presence." What is at stake is not the way in which something is present to us, but that we take certain modes of presentation as being more authentic and truer than other modes of presentation. What the deconstruction of the metaphysics of presence (ugh... what a phrase...) tries to do (roughly) is to uncover these more or less automatic structures of privilege and bring this structure of privilege into question.
+I doubt that I have read enough on presentism, but from what I can gather, the flow of time is extremely fundamental in presentism. As Ned Markosian wrote in his paper "A Defense of Presentism":
+
+
+  Presentism seems to entail that there is no time except the present time. Thus 
+  Presentism also seems to entail that there are no propositions about any non-
+  present times, and that we never say anything about any such times.
+
+
+An important point to make is that the flow of time as you describe it implicitly refers to an infinitesimally small interval between two points in time. However, the flow of time in presentism works a little differently. Markosian claims that " Times are like worlds" and then goes on to elaborate:
+
+
+  Here’s how times are like worlds. Consider the actual world. There are 
+  really two of them. There is the abstract actual world, which is a maximal, 
+  consistent proposition. There are many things that are similar to the abstract 
+  actual world in being maximal, consistent propositions. Each one is a possible 
+  world. The abstract actual world is the only one of all of these possible worlds 
+  that happens to be true. And then there is the concrete actual world, which is 
+  the sum total of all actual facts. The concrete actual world is the only 
+  concrete world that exists, and it is what makes the abstract actual world true.
+  
+  The Presentist can say that it is the same with the present time. There are 
+  really two of them. There is the abstract present time, which is a maximal, 
+  consistent proposition. There are many things that are similar to the abstract 
+  present time in being maximal, consistent propositions that either will be true, 
+  are true, or have been true. Each one is a time. The abstract present time is 
+  the only one of all of these abstract times that happens to be true right now. 
+  And then there is the concrete present time, which is the sum total of all 
+  present facts. It is the only concrete time that exists, and it is what makes the 
+  abstract present time true. Talk about non-present times can be understood as 
+  talk about maximal, consistent propositions that have been or will be true. For example, the time ten years from now can be identified with the maximal, 
+  consistent proposition that will be true in ten years.
+
+
+As I interpret it, this means that flow really doesn't require motion. Instead, the flow of time is simply a flow between these worlds. The present world isn't a derivative of the past worlds, it simply is what it is. Thus, a particle doesn't move from the past world to the present, it simply exists in the present and ceases to exist in the past.
+
+I cited Ned Markosian's paper a lot here. It's really good and you should read it. It clears up a lot of ambiguities and criticisms of presentism. http://myweb.facstaff.wwu.edu/nmarkos/papers/defpres.pdf Here's a link to it.
+You are not the only one to question the infinite myriad of numbers.  In fact, there are entire schools of thought exploring the infinite spectrum of numbers, entire schools of thought exploring the transfinite numbers beyond the infinite spectrum, and entire schools of thought exploring how to do math where infinities do not exist (known as finitist schools of thought)!
+
+Fundamental to the discussion of infinite numbers is the concept of Peano arithmetic.  Giuseppe Peano developed a set of https://en.wikipedia.org/wiki/Peano_axioms axioms for the so called "natural numbers," which are informally defined to be the sequence 0, 1, 2, 3, 4...  The axioms are:
+
+
+0 is a natural number (we declare it to exist, it is a constant)
+For every natural number x, x = x (reflexive: everything "equals" itself)
+For all natural numbers x and y, if x = y then y = x (symmetric property of equality)
+For all natural numbers x, y, z, if x = y and y = z then x = z (transitive property of equality)
+For all a and b, if b is a natural number and a = b then a is a natural number (equality is "closed")
+
+
+We then need to define a function S, known as the successor function, so that we can have numbers greater than 0.  Informally, S(0)=1, S(1) = 2 and so on.
+
+
+For every natural number n, S(n) is also a natural number
+For all natural numbers m, and n, m = n if and only if S(m) = S(n) (S is an injection)
+For every natural number n, S(n) = 0 is false (the successor of a number is never 0... aka 0 is the "first" natural number)
+
+
+Now we need the axiom that makes your question so exquisitely interesting, the axiom of induction:
+
+
+if f is a function such that f(0) is true and, for every natural number n, if f(n) is true then f(S(n)) is true then f(n) is true for all natural numbers.
+
+
+That last axiom is the one that causes so much interesting behavior to occur.  It's the one that tries to reach towards infinity, and claims to offer ways to grasp it.  And, like all axioms, it does not necesarially state that it is "correct," merely that it is declared to be true within the confines of the rules of arithmetic (as defined by Peano).
+
+Much of arithmetic was formalized onto what is known as "set theory," which is the foundation of a great deal of our mathematics because it appears to be fundamental as to how the universe is organized.  Sets deal with particular collections of stuff, like "the set of natural numbers that are smaller than 5," which is written as {0, 1, 2, 3, 4}.  Peano arithmetic is most commonly mapped onto set theory using the following construction:
+
+
+The empty set {} is declared to be the constant 0 in Peano's axioms
+The successor function S(n) is defined to be `S(n) = {{}, {n}} (The successor for any number is defined to be the union of the empty set and a set containing the previous number)
+
+
+That definition sounds a bit obtuse, but it was chosen because it is easy map all of the other Peano axioms onto these two definitions.  With this, we gain the ability to use set theory axioms to manipulate "numbers" in very powerful and fundamental ways.  One of the most important of these is the concept of the cardinality of a set.  This is the "number" of things in a set.  Informally {1, 2, 3}, {3, 4, 5}, and {apple, orange, orangutan} all have a cardinality of 3 because they have 3 elements, but {2, 4, 6, 8} has a cardinality of 4.
+
+This is where it gets tricky, because it turns out "the set of all natural numbers" is a valid set, typically represented with a capital N, so we can ask "what is the cardinality of the set of all natural numbers?"  The answer is "infinity," and that statement is made as a definition.  We define the cardinality of N to be a particular number, known as  ℵ₀ which is given the English name "countable infinity."  Yes, to mathematicians, infinity is countable, because you can theoretically start at 0, count upwards 1, 2, 3, 4, 5... and "reach" ℵ₀ according to the axiom of induction.  There are also uncountable infinities, such as ℵ₁, known as the cardinality of the continuum or the number of real numbers (assuming the continuum hypothesis is true... there's even different opinions on this).  There's even a school of thought on "transfinite" numbers which can handle phrases like "I double dog dare you infinity plus one times!"
+
+Welcome to the rabbit hole of infinity in mathematics.  We've defined the word to mean something here.  It is defined with respect to a set of axioms.  Do those axioms hold in "real life?"  Most mathematicians find it convenient to presume they do.  The computer you are reading this on today was developed using many models from calculus, and calculus's roots are found deep in infinity (particular its concept of "limits).  So far, that assumption has done us pretty good.  Is that assumption "true?" That's a more complicated question.  There are finitist schools of thought which start from the assumption that the number of natural numbers is finite, usually related to the finite capacity of the human mind or the universe in one way or another.  If time is finite, and computation is finite, then one cannot theoretically computer "infinity," so they argue it doesn't exist.  Are they right?  Well, yes... by their definitions, just as the opposing claim is true by the definitions of the Peano axioms and set theory.  Both can arguably be true because they each define the word "infinity" to means something ever so slightly different.
+
+As a closing, it may be worth dabbling in linguistic choice: "So, shall we say that numbers are infinite?"  We can say a great number of things.  Whether those things meet the ideal of truthhood (itself a very hard word to describe formally) depends greatly on one's individual meanings for words.  If you accept the definition for "infinity" given by mainstream mathematics, then "numbers are infinite" is true, literally because mainstream mathematics defines "infinity" as such.  If you accept the definition given by the finitists, then "numbers are infinite" is false, literally beacuse the finitists define "infinity" as such.  You may choose your own definition.  It may even be contextual (it is not uncommon to find Christian mathematicians who define "infinity" within their religion slightly differently than they define it within the mathematics, with no ill effects besides two very similar concepts being assigned the same word in their vocabulary).
+Douglas Hofstadter provides a mechanism for how this happens in his books https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach "Godel Escher and Bach" and https://en.wikipedia.org/wiki/Strange_loop "I am a Strange Loop". 
+
+The mechanism is based on feedback loops: He compares the mind to a video camera with and extendable camera lens which can be twisted back so that the camera can take footage of itself. 
+
+In the same way, the mind gradually develops higher order symbolic processing of it's own sensory inputs. At one point it realizes that some of those inputs are coming from itself, and that it can control these inputs, and it starts associating them with the symbol that associates with itself, the "I". 
+
+More detailed and technical explanations of this approach are studied as part of http://plato.stanford.edu/entries/consciousness-representational/ Self-Representational Theories of Consciousness and http://plato.stanford.edu/entries/consciousness-higher/ Higher Order Theories of Consciousness. 
+It is not the case that for every clear cut question there is a 'good' answer:  was walking on two legs discovered or invented?
+
+Just as the perception of straight lines, edges or corners, small numbers, say, up to 5, seem to be hardwired. Practical experience has given humans a 'feeling' what is to add/subtract, that is, for example, to get from 4 to 5 or to 3. Neither form nor content was first (just like in the chicken-or-egg problem).
+
+Measuring is a refinement of counting and Pi is the name of the attempt to measure the circumference of a circle with its diameter;  it can be expressed in infinitely many ways, just as any other number.
+
+The alternative seems more meaningful when considering more advanced mathematics: many 'inventions' from one domain are 'discovered' elsewhere (eg the Gamma function).
+Lee Smolin in his Singular Universe exposes a view according to which 'mathematics is evoked', so  it is neither discovered nor invented and also it is not arbitrarily phantasized.
+
+A more sociological-historical approach would propose that mathematical objects are a specific kind of 'collective representations'. Actual people live in a society which maintains a tradition. In early times observations and thoughts are anonymously 'sedimented'. Mythological figures fullfill the expection about  heroic figures, a person who has been the first inventor or discoverer. Unstated contexts and rules offer for late-comers ready-to-use quasi-objects amenable to further perfecting.  
+Determinism handles the first event very carefully.  From http://plato.stanford.edu/entries/determinism-causal/ SEP's article on causal determinism:
+
+
+  Determinism: The world is governed by (or is under the sway of) determinism if and only if, given a specified way things are at a time t, the way things go thereafter is fixed as a matter of natural law. 
+
+
+That definition is written in a form which focuses on the future state of the world given a present state, sidestepping the touchy issue of first events or uncaused events.
+
+Obviously not everyone agrees to the same definition, but this is one reliable approach with substantial acceptance.
+There seem to be a series of very serious non-sequiturs here.
+
+First of all, we easily represent empty space in three dimensions.  Despite the lack of contents, or points of reference, we can visualize it easily, and we understand its geometry implicitly.
+
+To the extent that we can imagine anything timelessly, we can imagine empty space timelessly more easily than we can imagine actual matter or energy, which is made up of 'waving' entities, timelessly.  We have no idea what light or particles would actually look like if they were stopped.  But we know we could never see it -- light travel is not instantaneous.  So it may be that empty space is the only thing we can imagine properly without time involved.
+
+Even if it any of that were ironed out, I am not sure how that leads to the conclusion.  One of our basic intuitions of time may very well be best captured in the impossible image of seeing particles suspended in something (like a very thick fluid) and not moving.  Since this is, in fact, an illusion of the impossible, it may itself be nothing.
+
+But your path to there does not fit with common intuitions of space or time.  And our pure intuitions of space have their own drawbacks, too, and we adapt them rather than discarding them.
+I think you are assuming the answer straight from your question- if there is the possibility that an event will occur, then that exact possibility holds some probability of the event occurring- because how else would you know it is possible?
+
+For example, the converse- if you said there is no possibility for something, then there's no probability of it happening. It's just a vague formulation for the same thing.
+I don't think Descartes has a special idea of what it means for something to exist.
+
+I think you may be confused when you write:
+
+
+  Is the only criterion to exist to be able to think?
+
+
+Descartes' argument in Meditation 2 is quite different from what a simple reading of "I think, therefore I am" would mean.
+
+Specifically, we need to grasp a few things that have already happened in the meditations:
+
+
+In Meditation 1, Descartes talks about often being deceived -- especially by his senses.
+He then decides to embark on a quest to find certainty by abandoning everything uncertain and clinging to only what is certain.
+He flirts briefly with the idea that he's being manipulated but abandons it -- in part because if he accepts he cannot get off the ground at all.
+
+
+Thus, he's starting from a place where he doubts:
+
+
+His senses and everything that comes from him
+The content of his thoughts
+
+
+What he accepts:
+
+
+There's no deceiver jamming up his thinking
+A certain set of reasoning skills
+
+
+From this, he constructs an argument that looks at this phenomenon:
+
+    He's experiencing thoughts.
+
+
+He proposes two possibilities:
+
+
+He is experiencing true thoughts (what he thinks is true)
+He is not experiencing true thoughts (what he thinks is false)
+
+
+One of the thought is:
+
+    I exist
+
+
+If possibility 1, then Descartes exists. The inference here is if his thoughts are true and one thought is "I exist", then this thought is true. Therefore, He exists.
+
+If possibility 2, then Descartes also exists. The added premise here is that only things that exist can think and be deceived. Thus, if he has a false thought, then he is deceived. If he is deceived, then he exists.
+
+Thus, by constructive dilemma (take either fork and get to the same place), Descartes infers he exists.
+
+This doesn't amount to a blanket "if someone else has thoughts, I know they exist."
+
+To return more generally to your question about Descartes' views on existence. There's no where in the Meditations where Descartes draws a generic connection between existing and thinking. He does draw a specific connection between his having thoughts and his existing -- but this argument does not extend to others. Moreover, based on later Meditations, it's clear Descartes thinks lots of things exist including things that are non-thinking -- like rocks, towers, candles.
+The intuition behind time being a physical dimension is in the experience of being able to "travel" through it. However, in daily life we only seem to be able to move in one direction and at one speed. In theory, we enter the realm of traveling through time forward, backward, and at different speeds. Thus it has traits of physical dimensions. The phrase, "in cosmology terms, far away means long ago", can at least refer to what we see. Because light takes a specific amount of time to reach us, we are actually seeing an image of something which existed in the past. The farther away it appears to be, the older the image which we see. One way we can think of time outside of space and matter is by thinking of space and matter being inside time. Time does not necessarily need space or matter to exist. If space and matter exist, they do so for a length of time. Matter exists in the physical dimensions. The physical dimensions describe matter. Thus, there are two uses of the term "physical dimensions". The first is the name of a place, the second is a measurement.
+Could be different. What you're asking about is the mathematically defined difference between a poset and a preorder. Both are characterized by a ≤ relation, typically called "weaker than". For a poset, a≤b and b≤a implies a=b, which is called the antisymmetry condition. For a preorder, a≤b and b≤a doesn't imply equality. You can google those words for some examples of preorders that aren't posets.
+Since the questioner sounds confused about Hume's contribution on causality, I would like to offer a little background first.   
+
+The story should begin with Descartes. After the process of Cartesian skepticism, Descartes concludes that we must be born with some ideas. That is, some ideas are not the outcome of empirical acquisition and must have been imprinted in our mind prior to any experience. Descartes enumerates God, substance, causality as some examples of innate ideas. This tradition of believing in innate ideas is called Continental Rationalism by historians of philosophy.
+
+Now, British empiricists thought the continental postulate of innate ideas BS, as Locke famously responded the postulate with the doctrine of tabula rasa. Berkeley got rid of extensional substance with Esse est percipi.  It is Hume who got rid of causation as an innate idea.  
+
+For this, Hume partitioned the relationships among ideas into two categories: analytic and synthetic. Analytic knowledge obtains by pure examinations of the relationship among ideas: '2+3=5' or "A white swan is a swan" is an example. Synthetic knowledge obtains when we test our ideas by experiences: e.g., "Swans are beautiful." To Hume, we cannot know causation (cause and effect) by purely examining the relationship among ideas: e.g., we cannot get the idea of smoke from the idea of fire. So casualty is not analytic. So it must be synthetic, and when we examine our experiences relating causality, all we got are proximity in location, temporal concurrence, and constant conjunction. Thus Hume concluded that the thought that the world events are governed by a causal chain is a projection of human psychology. 
+(The framing seems to assume some form of physicalism, so I am going to answer in terms of modern physics.  There are good philosophical reasons to question physicalism.  But I do not think this is part of the question.)
+
+The closest concept that enters physics is information = negative https://en.wikipedia.org/wiki/Entropy entropy, the ability to direct energy so that it does not disrupt an expected state.
+
+Physics does include entropy, which measures the orderliness of a system, as a real thing, especially in thermodynamics.
+
+According to thermodynamic principles, the overall entropy of a system must increase over time, but positive entropy can be traded for negative entropy.  This means that we (and other forms of life) must expend energy in some way that causes waste, in order to retain the predictable patterns on which knowledge relies, and over which it gives us influence.
+
+So your observation that it can be multiplied without loss is not true.  Some energy must necessarily be expended and turned into an unusable form, or no more information can be created.  Those people remembering it have to eat, the paper that book is printed on had to grow and will rot, those bits stored in a computer require current flow in a circuit, that recorded medium will degrade over time and will have to be copied before it is unreadable, etc.
+The Shrodinger's cat is a thought experiment. In QM there are several interpretentions and some of these does not require the "collapse of the wave function". So QM is an established theory of the quantum level but it is not a completed theory so the hypothesis that we may derive from each interpretention are nothing else than hypothesis without any real value. So yes according to an interpretantion of QM we exist in superposition but this is an ampty idea in essense. 
+If time as we (or any mechanism we construct) can observe it were infinitely divisible, the uncertainty of the energy of an object would always have to be infinite, because we would be able to observe the particle basically frozen in time.
+
+But we have Heisenberg's inequality.  The only way to make delta E times delta t exceed h-bar over 2, if delta t can be arbitrarily small, is for delta E to be arbitrarily large.
+
+I am not sure that makes anything 'mind-dependent', but it does mean that physical reality would not really cohere if we had this power.  So if it were really possible, everything we observe would have to be an illusion of some sort.
+
+(But I do think we already had that result from Zeno, and from Kant's Atomicity Antinomy paraphrased by @PhilipKlocking in the first comment.  You appear to disagree.  So I am not altogether sure I understand the question.)
+You might want to ask yourself whether 'absolutely everything' is even a concept, or if it is simply a placeholder for one.
+
+Kant made this objection that 'exists' is not really a property of things:  If 'exists' is a property of things, then 'not exists' is a property of things.  But although 'not exists' does seem to actually apply to some things, like "the integers between 6 and 7", those things are not things, given their objective absence.  What 'not exists' actually applies to are descriptions or criteria.
+
+Therefore 'exists' is a property of criteria and not of things.  If a set of criteria actually describes something, then that thing exists.  If the set contains an internal contradiction or some other sort of impossibility, then 'that thing' does not exist.  But then, of course that thing is not a thing.
+
+Your concept of 'absolutely everything' similarly does not apply to things, but only to definitions of things.  We can decide that purple unicorns are included in 'absolutely everything', or that they are not depending upon how absolute a meaning 'absolutely' has in our current mood.  But that decision is not about purple unicorns, it is about what kind of concept we consider the notion of "purple unicorns" to be.  It is really a property of concepts, and not a basic concept itself, applicable to things in general.
+
+The different notions of 'nothingness' have this same nature.  We cannot conceive of Berkeley's set of "all things of which we have no concept".  We can't start listing them, as that would involve imagining them, which is impossible until we have the concept of them.  We can only list internally inconsistent or otherwise defective descriptions.  Likewise, we cannot actually have the concept of 'absolutely everything', we can only have a pointer to the empty set of restrictive criteria -- the property that says 'yes' to anything it is given to judge.  Actually conceiving of absolutely everything is obviously beyond us as limited creatures.
+Most of the Zeno-like paradoxes involve an infinite sequence of events buried in the language used in the problem.  Your example appears to go down the path of doubling the distance between the lines enough times to achieve the desired separation, while Zeno's original paradox depends on halving the distance.
+
+In both cases, the tricky part is coming up with a language to describe the problem which is capable of describing this infinite series of steps without contradiction.  The problematic portion is typically identifiable with an appeal to reason, such as your "... it seems we cannot create..."  It is dependent on the listener agreeing with such a statement.  If they agree with that statement, then typically they agree that the problem is paradoxical, and thus there must be something wrong.
+
+If one's listener does not automatically agree with you about this statement, one must defend it.  Defending it is where the really precise language often comes into play.  Mathematics, for instance, has a extraordinarily precise ways of dealing with the concept of infinity, and prides itself on its self-consistency.  If one phrases the problem in the language of mathematics, then one can use the strength of mathematics to argue for their position.
+
+However, the current "preferred" solution to Zeno's paradox is calculus.  Calculus handles these infinities in a way that appears to be consistent with the world we live in without causing paradoxes from self-consistency issues.  If your efforts to phrase the question in mathematical terms leads you to use notations from calculus, one will find that the issue is dealt with by the handling of limits which elide away issues that might come up regarding infinitesimals.  These methods have been heavily analyzed over the years, so lead people to have a great deal of confidence in answers derived from them.
+
+In my opinion, your Zeno-like argument is going down a direction which would be proven using set theory.  There are systems for handling sets like ZFC which one would be tempted to use, but your particular construction is likely to go down the path of having an infinite descending set, which is forbidden in ZFC by the axiom of regularity.  One would need to look at different solutions, such as https://en.wikipedia.org/wiki/Urelement#Quine_atoms Quine atoms which are used in some non-well-founded set theories.  Such set theories are much less popular than their well-founded brethren, so they do not encourage the same level of confidence.
+There's a distinction between language and reality.  Language consists of verbal behaviors and concepts which may or may not have a correspondence to reality.  So having a word doesn't mean that there's a corresponding object.  Previous posters have mentioned classic examples like unicorns or even the obviously logical contradiction of square circles.
+
+But there's something else here that you touch upon which I think has some validity.  Is nothing really the complete absence of anything?  We can see many examples which seem to contradict this, all of which revolve around the fact that these nothings seem to do some real work.
+
+For instance, you bring up 0.  0 is supposed to be nothing, no quantity, yet its role in math is significant, and some consider it one of the most important developments in mathematics, possibly being the thing that made positional notation practical and with it, the relative ease of calculation that we have today.  It's hard to imagine something not existing (having unreality) while simultaneously having this very real effect.
+
+Or take the more mundane example of the space inside a cup.  A cup is hollow inside, hence most people would think there's nothing there.  Yet, it's this nothing that allows the cup to hold fluid, and which gives it its use.  Without this nothing -- with a "filled cup" we'd have a useless chunk of matter.
+
+So really, maybe nothing isn't nothing?  If something exists in some level -- even as a contradictory idea -- it can have some impact on reality.  Unicorns don't exist, but the idea of them has caused paintings, shows, etc... to feature them.  That's certainly something.  Square circles don't exist, yet we write about them, discuss them, and their analogies involve our discourse on contradictions.  That's certainly something.
+
+So we use nothing in a relative sense, not in an absolute sense.
+There are three pertinent aspects to this question:
+
+
+the time evolution of (special) relativity
+the time evolution of (relativistic) quantum mechanics
+observation of quantum phenomena
+
+
+I'll keep this answer to special relativity and quantum mechanics as their relationship is very well established. The relationship between general relativity and quantum mechanics is still largely speculative. 
+
+For both the time evolution of special relativity and quantum mechanics, the very well attested, underlying mechanics are time reversible. In other words, the equations of motion are the same however you choose to interchange past, present and future.
+
+With just these two, there is nothing special about the past, present or future; these are just arbitrary points on a continuum.
+
+Observation is different and is, with indeterminism, the key driver for QM interpretations. In all the interpretations (that I'm aware of), something qualitatively special occurs in the present i.e. the point of observation. The effect, to the observer, is to make the past deterministic while leaving the future non-deterministic. 
+
+In the Copenhagen interpretation, for example, this event is the waveform collapse. In others, such as the many worlds interpretations, the event is more subtle. In the latter, although there is no collapse per se, observation still has the effect of having a past that is not affected by other worlds with a future that is.
+
+So, taking QM observation into account, it is hard to justify a time equality interpretation. Without observation, it falls out of the equations quite naturally. 
+Hume's view is that ideas derive from impressions, meaning roughly and to take an example that I cannot have the idea of blue unless I have had sensory experience (impression) of the colour. The idea is causally dependent on the impression. He doesn't keep strictly to this view in his example of the missing shade of blue. Hume concedes that if we were to have sensory experience of every shade of blue except one, we could imagine - form an idea - of what the missing shade of blue would be like. ('Treatise of Human Nature', 1739-40, I.1.1.) 
+
+After receiving an impression of blue I can retain the experience in memory; I thus acquire an idea of the colour, blue. There are no innate ideas; all ideas derive from impressions. This is a part of Hume's empiricism. 
+
+'Matters of fact' are broadly limited to beliefs about the existence of perceptible objects - chairs, tables, statues, trees and such like. Such beliefs have two features. The first is that we cannot establish them by reason, by logic, but only by perception. The other is that 'the contrary of every matter of fact is still possible; because it can never imply a contradiction' ('Enquiry Concerning Human Understanding, 1748, IV.1) The Statue of Liberty exists but it is logically possible for it not to do so. By contrast a triangle cannot exist without its having three sides and three internal angles; a triangle without three sides and three internal angles is in Hume's language a contradiction. 
+
+Hume never offers an explanation of how external objects, if there are any, cause our impressions to occur, nor does he try to show that there actually are any external objects to cause our impressions. In this sense we can't - or don't - have an impression of the external world but only (at best) an impression caused by an object in the external world. 
+
+It seems to me that you identify 'matter of fact' with 'external world'. I don't think this is quite right. A matter of fact is a perceptual belief based on our experience of impressions. But you are right (to repeat) that we do not have impressions of anything in the external world. Perhaps there is an external world and perhaps objects in it cause our impressions but of the external world itself we have no impressions. 
+
+Hume is an extremely elusive writer. There appears to be extreme clarity but on many points it is desperately hard to pin down his exact meaning. However, the above is my considered view about the relation of impressions to matters of fact. I believe it to be correct but as so often with Hume one must be tentative. 
+'Uncertain' is a tricky term'. 'One is always uncertain about everything' - does this mean that 1+1 might not = 2 and that our existence might be a figment of imagination ? That these are logical possibilities about which you cannot have epistemological certainty ? By which I mean that you are uncertain that (say) 1 + 1 = 2 because you don't have evidence that gives indefeasible justification for the belief that 1 = 1 = 2.  
+
+So your examples are examples of epistemological uncertainty. But in your question, 'You are certain that you are uncertain?', while the 'uncertain' is epistemological, the 'certain' is subjective. It means that you have the highest degree of confidence that the beliefs listed in your examples, and all others like them, are such that you do not have evidence that gives indefeasible justification for them.  
+
+You might reply that you have not merely subjective certainty that you do not have evidence that gives indefeasible justification for the beliefs in question. Instead, you have epistemological certainty about this. But how so ? Ex hypothesi, this belief itself is not based on indefeasible evidence since there is no evidence you can trust. All evidence has gone with the beliefs which you have bracketed out as epistemologically uncertain. You are just left with the highest degree of confidence that none of your beliefs is based on indefeasible evidence. And this is merely a psychological, not an epistemological, state. 
+
+My suggestion is that there is an unintentional slide in your remarks from epistemological uncertainty to psychological certainty. 
+
+You pose an interesting question, intriguing to grapple with. Naturally I claim no epistemological certainty that I am right ! But you have my arguments. 
+If by bit we mean a mathematical 1 or 0, then there is no smaller unit of information.
+
+But if we are talking about implementations of bits, then a bit has smaller constituent parts. An electrical engineer can calculate the number of atoms that make up a bit in a particular semiconductor material. Read world bits are made of atoms. Same as if you used a sequence of coins showing heads or tails to represent a bitstring. Each coin is made of atoms, quarks, strings, whatever level of discourse you prefer. 
+
+Another interesting fact about the implementation of bits in a digital computer is that they are not absolute. If you have a particular electronic element representing one bit, that element has at any moment some particular voltage that rapidly transitions between high and low states to represent a 1 or a 0. 
+
+In theory, the transition is represented by a perfect square wave. But in practice, there are no perfect square waves. So the designers of the circuit never examine the bit during its transition state. They use the system clock to measure the bit only in the middle of the square-ish wave so as to avoid the transition period in which the state of the bit is indeterminate.
+
+In other words we know the state of the bit only because we agree to measure its voltage during the stable part of its cycle, and never during the unstable transition. During the transition interval, the state of the bit can not be determined. It's not zero and it's not one. 
+
+In short, the answer to your question is that in theory, a bit is the smallest unit of information. But in practice, it takes a lot of electrical engineering to pretend that there is any such thing as a bit with an exact value. Bits are made of atoms; and their value is deterministic only by choosing to measure them during intervals of electrical stability.
+Actually, this is not true.
+
+It's not that the Big Bang did not have a cause; it's that our understanding of physics breaks down at that point. In other words, the Big Bang may well have been caused by something, we just have no way of knowing what that something was with our current understanding of physics.
+
+Also, cause and effect implies a uni-linear view of time. In reality there's only ONE law of physics that can only work in one direction of time; the second law of thermodynamics, also known as the law of entropy.
+
+That law states that in any closed system, the system tends from order to chaos over time. (Hawking defines 'chaos' as the potential number of ordered states that can explain a system state, so it's not what we semantically view as chaos)
+
+Newton's third law (every action has a equal and opposite reaction) works both ways through time; if you reverse time, then the actions of the particles being observed are still consistent with that law.
+
+So, cause and effect are concepts that help us make sense of our universe, but don't necessarily mean that the universe is bound to a particular sense of linear time the way we perceive it.
+Your profile mentions an interest in math, which you seem to be pursuing in the formulation of your question. So let me suggest how physics approaches this same kind of question. Terminology-wise, your "object" is a "system", and its "properties" are the system's "observables".
+
+Then the collection of all possible states a system can assume is modelled by (the unit vectors of) a Hilbert space H corresponding to that system. And then the collection of bounded Hermitian operators B(H) on H represent all the system's observables, and this B(H) comprises what's called a C*-Algebra.
+
+Now, if you have two systems, A and B represented by H_A and H_B, then the composite system is represented by H_A x H_B, and the C*-Algebra of observables B(H_A x H_B) of that composite system is way more complicated than B(H_A) and B(H_B) alone (and way more complicated than their simple set-theoretic union).
+
+Now, regarding the comments, a property like "wetness" wouldn't really be a formal observable in the above sense (at least I'm pretty sure -- make that almost absolutely positive -- not). But if you're looking for a rigorous mathematical treatment of your question, it couldn't hurt (except for the mental time and effort) to google some of the above stuff and start with that kind of approach, which has been carefully developed by many people during the last ~75 years (I'm dating it since Irving Segal's 1947 seminal paper).
+A definition describes the area which collects risk and opportunity in relation to a given goal. The properties included in a definition depend on the definition's purpose. 
+
+If the purpose is to illustrate a children’s book of colors, it is sufficient to show how a banana has a certain shape and is yellow. If the purpose is to place a banana scientifically among all plants, it is necessary to say that one banana tree species is, for example, Musa acuminata. If the purpose is to ship bananas from the forest to the store, it is necessary to describe the degree of ripeness before the banana can be harvested and sold. 
+A photon is a photon, a feature of a quantum field.
+
+Talk of "a photon is sometimes a wave and sometimes a particle" not about what is happening according to quantum mechanics — these are descriptions of the classical approximations that are capable of describing some features of the quantum field.
+
+While the words as spoken have carried over into quantum mechanics (i.e. the term wavefunction, and using "particle" to refer to features of fields), they really don't mean the same thing at all.
+
+
+
+Regarding epistemology, at a very abstract level the ultimate form of the reasoning process is that it takes observations as input and emits predictions as output.
+
+A common way to do this is to insert something in the middle, which I will call a model. We use the observations to shape the model, and take predictions from the features of the model.
+
+Often, people like to adopt the conceit that the thing in the middle is the "real world" or a good approximation thereof. Maybe it even is. But it doesn't really matter so long as the predictions we get match later observations. Maybe that's all it means for a model to be the "real world" anyways.
