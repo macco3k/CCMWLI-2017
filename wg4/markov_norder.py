@@ -30,18 +30,31 @@ class Markov():
     # table, seen = generate_table("gk_papers.txt")
 
     # Generate output
-    def generate_output(self, max_words=100, newline_after=10):
+    def generate_output(self, max_words=100, newline_after=10, seed=None):
         output = ''
-        self.seen.extend([NONWORD] * self.order)  # clear it all
+
+        if seed:
+            self.seen = collections.deque(seed, self.order)
+            # self.seen.extend(seed)
+            try:
+                word = random.choice(self.table[tuple(self.seen)])
+            except IndexError as e:
+                print("Seed is not found in the corpus.")
+                self.seen.extend([NONWORD] * self.order)
+        else:
+            self.seen.extend([NONWORD] * self.order)  # clear it all
+
         for i in range(max_words):
-            word = random.choice(self.table[tuple(self.seen)])
-            if word == NONWORD:
-                exit()
-            if i % newline_after == 0:
-                output += word + '\n'
-            else:
-                output += word + ' '
-            self.seen.append(word)
+                word = random.choice(self.table[tuple(self.seen)])
+                #print(word)
+                if word == NONWORD:
+                    exit()
+                if i % newline_after == 0:
+                    output += word + '\n'
+                else:
+                    output += word + ' '
+                self.seen.append(word)
+        #print('Output:', output)
         return output
 
     def walk_directory(self, rootDir):
@@ -55,5 +68,7 @@ class Markov():
 m = Markov(order=3)
 
 # m.walk_directory('./pres-speech')
-m.walk_directory('./pres-speech/clinton')
-m.generate_output(max_words=50)
+#m.walk_directory('./pres-speech/clinton')
+#m.generate_output(max_words=50, seed=['they','thank','of'])
+# TODO crete different order network
+# aiml  
