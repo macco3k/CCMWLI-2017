@@ -1,0 +1,889 @@
+A "complete description" of a target language would in one sense require enumerating all the possible sentences one could form in that language. I presume you don't intend us to be quite this strict since clearly a dictionary doesn't (explicitly) enumerate all possible sentences. 
+
+One point to consider here is how vacuous a dictionary would be without any form of external reference. It could only be used to decode another language once you had some other means of translation; it's nothing but a map of words to other words. 
+
+On the other hand, consider a similar but distinct hypothetical situation: suppose we only have access to an encyclopedia in the target language. I submit that a reasonably complete encyclopedia would come closer to answering to your terms of a "complete description" of the language, since it embeds a significant amount of context the dictionary lacks; it maps words to things, concepts, places, etc.
+
+Finally, there is certainly at least a sense in which a dictionary formulates a 'description' of a language, inasmuch as a dictionary is by definition a standard for usage and pronunciation. (However, even in this sense standard dictionaries perhaps fall short, as they usually don't include a complete grammar.)
+The Twin Earth thought experiment does not show that "meanings just aren't in the head”.
+
+It is a flawed http://en.wikipedia.org/wiki/Intuition_pump "Intuition pump", and Putnam's conclusion was flawed.
+
+Consider that Oscar and Twin-Oscar, and their worlds, are identical in every way (but the one).  The properties of H2O and XYZ are exactly the same; they have to be or the worlds could not otherwise be identical.
+
+Oscar's "water" = H2O and Twin-Oscar's "water" = XYZ.  If you teleported Oscar to Twin-Earth and zapped Twin-Oscar to Earth, Oscar would see that XYZ was also "water" and Twin-Oscar would see that H2O was "water".
+
+Since by all their observable traits, both compounds behaved the same way, both Oscar and Twin-Oscar would agree that both H2O and XYZ were "water".
+
+Both would be accurate.  Among the mistakes Putnam makes is confusing accuracy for precision.
+
+Analyzing the state of Oscar's mind would allow one to determine, detect, or define "water" just as well as either Oscar or Twin Oscar, on either world.   The information may not be precise enough to tell the XYZ variant of "water" from the H2O variant of "water", but that does not mean that the definition is not accurate and the information "in the head" is not sufficient.
+Although Hegel was always important, especially due to Marx, he seems to have given a freshly challenging Hegel to the world. Also, surely, the Slovenian School, has all but appropriated the body of Lacan, and distorted the previous reading to the point of an alienation, that is now applied by practicing analysts. 
+
+If you know how to do a search of the journals, in fields such as sociology and ethnography I think you will find it is not unmoved by his inquiry. The style of reading alongside the actual transformations and revivals along with the doctrine of transcendental materialism, as a great move from the primitive Marxist position amount to a synthesis of Marxism and Hegel such as Marx himself never achieved. 
+
+By this I mean that Marx ignored Hegel's great and lasting insight that wisdom comes only with the dusk, claiming that, hither to the philosophers have only interpreted the world (the task is to change it), the discovery of Hegel was that this is impossible in the proper sense. However, Hegel could not finish his own objective work, since he did not live in this day, but his, he had in mind certain rational laws, but in order to delineate them one must live to see the way the society and culture unfold and make themselves know in actual terms and so Zizek as attempted such work. Perhaps very badly, but who knows?
+Freya Mathews (yes, spelled with one t) has been advocating a rather idealistic position as a "cosmological" version of panpsychism, but gaining little notice, certainly outside the limited panpsychic circle. Her most direct statement, I think, is ...
+
+Panpsychism as Paradigm, in Michael Blamauer (ed), The Mental as Fundamental, Ontos Verlag, Frankfurt Heusenstamm, 2011. (http://www.freyamathews.net/downloads/PanpsychismParadigm.pdf http://www.freyamathews.net/downloads/PanpsychismParadigm.pdf)
+
+Here is the introductory clip...
+
+
+  The gist of the argument is that a holistic or cosmological version of
+  panpsychism, according to which the universe as a whole is the
+  ultimate locus of mind, or of mind-like properties, can function as a
+  rival to materialism, materialism being understood as the view which
+  denies that mind, or any mind-like property, inheres in an essential
+  way in matter or in other fundamental elements of physical reality.
+  Moreover, I shall suggest that, in relation to materialism,
+  cosmological panpsychism functions not merely as a rival theory but as
+  a rival paradigm. I make this suggestion because materialism generates
+  a number of intractable anomalies, anomalies that have become so
+  entrenched in the philosophical tradition of the West as to seem
+  inevitable. We perhaps forget that they are anomalies, and treat them
+  instead as the very substance of metaphysics.
+
+The closest thing to the "study of naming objects" today, it seems, would be http://en.wikipedia.org/wiki/Semiotics semiotics or semiology. As a sustained field of interest it has begun with Ferdinand de Saussure at the beginning of the 20th century. He convincingly and very influentially argued that language is a system of signs and that it does not pertain to "the world in itself" but is rather arbitrary. 
+
+Of course, Saussure had many predecessors interested in the very same question, but his posthumously published lectures were the main impetus behind turning this interest into a full blown discipline (which today one will find very far away from the original Saussurean conjectures).
+
+In Cratylus, for example, Plato is already pondering whether the names of objects pertain to the "essence" of these objects or if they are simply arbitrary. Plato in this particular case is either on the essentialist side or takes no position. Aristotle, on the other hand, argued for conventionality of language: if a word had some sort of intrinsic connection to what it signifies why, then, even such basic concepts as bread and wine are called differently in different languages?
+Your question is complicated because you take the big bang as an example, which marks also the "beginning of time" and is thus more problematic. In fact, the http://philosophynow.org/issues/92/Did_Time_Begin_With_A_Bang first of Kant's famous antinomies is dedicated to it.
+
+However, always keep in mind that Kant was a transcendental idealist, http://plato.stanford.edu/entries/kant-spacetime/#KanCriBer not to be confused with an "esse est percipi"-idealism á la Berkeley.
+
+As to the more general question: Is it possible in Kant's view to conduct history as a science on a geological/development scale? – The answer is yes.
+
+Kant was acquainted with so-called natural history his time, i.e. the work of http://en.wikipedia.org/wiki/Carl_Linnaeus Linnaeus and http://en.wikipedia.org/wiki/Georges-Louis_Leclerc,_Comte_de_Buffon Buffon. Kant introduced an important distinction between "description of nature" (Naturbeschreibung) and "history of nature" (Naturgeschichte). Only the second can aspire to be science proper. As Kant writes,
+
+
+  if by the [description of nature] one wanted to understand a narrative account  of natural events to which human reason [Vernunft] cannot extend, e.g. the first appearance [Entstehen] of plants and animals, then to be sure […] this would be a science for gods, who were present at the time of creation or who were themselves the creators, and not for human beings. A history of nature would, by contrast, concern itself with investigating the connection between certain present properties of the things of nature and their causes in an earlier time in accordance with causal laws that we do not invent but rather derive from the forces of nature as they present themselves to us, pursued back, however, only so far as permitted by analogy. Indeed, this would be of a kind of history of nature that is not only possible, but one which is attempted frequently enough, as, for example, in the theories of the earth formulated by careful natural scientists (among which the theories of the famous Linnaeus also find their place).
+  
+  I. Kant, Ueber den Gebrauch teleologischer Prinzipien in der Philosophie, 1788.
+
+
+
+
+This paper contains a more detailed discussion: 
+
+
+Phillip R. Sloan, http://www.sciencedirect.com/science/article/pii/S1369848606000690 Kant on the history of nature: the ambiguous heritage of the critical philosophy for natural history, Stud Hist Philos Biol Biomed Sci, 37(4), 2006, pp. 627-48.
+
+Limited as Google is as a tool for lexical research, the fact that Googling the phrase fails to turn up anything beyond this question suggests it's unique to the author. I don't think they've used it as though it's common, though; it's simply a reference to a relatively well-known visual paradigm shift.
+
+
+I believe Einstein said this in response to criticism on his theories of special and general relativity. This criticism was a result of the fact that common sense did not seem to agree with Einstein's new theories.
+
+
+  The simple assertion that the speed of a flash of light is always c in any inertial frame leads to consequences that defy common sense.  When this was pointed out somewhat forcefully to Einstein, his response was that common sense is the layer of prejudices put down before the age of eighteen. (http://galileoandeinstein.physics.virginia.edu/lectures/sreltwins.html source)
+  
+  Gravitation as a curved field and as a part of space-time is a bit difficult to envision in that it seems to contradict common sense. But then, Einstein maintained that common sense is essentially little more than the collection of prejudices acquired by about age eighteen. (http://courseweb.stthomas.edu/paschons/language_http/essays/Einstein.html source)
+
+
+I found it very hard to find any context for the quote you mentioned, but I believe that he means that common sense should only be applied to common, everyday situations (on which it is based), rather than also applying it to deep and unintuitive physics or other fields to which common sense shouldn't be applied for the same reason. Common sense is about common, simple, everyday situations ("its own field" in Einstein's quote); it shouldn't be applied to uncommon, complex decisions or complex theories. People aren't sufficiently aware of these limitations of common sense.
+
+Duncan Watts, author of "Everything is obvious", gives the following example from policy-making: 
+
+
+  We can agree that something is common sense as long as we share the same set of assumptions. I think people really don’t understand how much of a problem this is, because they assume that what they think is common sense is right.
+  
+  Someone was just telling me the other day that she was mystified at how we couldn’t just use common sense to make policy. It seemed completely ridiculous to her—why isn’t there someone in politics who could say that it’s common sense that everyone should have equal access to healthcare? But that’s a belief that is deeply disputed! And people who disagree with her also feel that they are using common sense.
+  
+  So common sense is actually very good for resolving everyday situations, where everyone shares the same set of assumptions. The problem is that it feels so effective to us in these circumstances that we’re tempted to use it to make decisions and plans and predictions about situations that are not everyday situations. (http://www.lifehacker.com.au/2011/04/you-shouldnt-apply-common-sense-to-big-complex-decisions/ source)
+
+
+  Is it an acceptable idea that each individual carries their own model of reality in their mind?
+
+
+Certainly! To some extent, everyone does. How many people have you come across who believe that their spouse or parent is the best in the world? Or even something as concrete as "I believe I sent you the email last week".
+
+
+  Is there a name for the model that each individual uses to perceive the reality?  Is there a name for the sphere of reality that can be perceived by each individual to construct their mental sphere of reality?
+
+
+I don't know of a name for this, but there are conventions that some people use when talking about knowledge and belief. http://aclweb.org/anthology/Y/Y07/Y07-1004.pdf This paper by Tojo gives a whirlwind tour of the various aspects of it. In particular, section 4.2 talks about knowledge and belief.
+
+
+  Finally is there a theory/theories that work with individual realities rather than a universal one that is constrained by universal rules?
+
+
+The Wikipedia pages for https://en.wikipedia.org/wiki/Epistemic_modal_logic Epistemic modal logic and https://en.wikipedia.org/wiki/Doxastic_logic Doxastic logic are a good place to start. 
+I think Shane aptly describes the concept on a basic level, so I'm just going to supplement that by trying to address how the concept is supposed to benefit us and the value it is supposed to add.
+
+Even though Gadamer is the big name for hermeneutics, "horizons" is a concept that we can trace back to at least Heidegger but perhaps further to Hegel and Kant. I will start with therelevant image in Heidegger's Being and Time -- the hammer. There, Heidegger distinguishes between Vorhandenheit and Zuhandenheit often translated as "presence/being at hand" and "read to hand" respectively. The relevant difference is that what is presence/being-at-hand is the sort of objects we think about, i.e. it's the dot in "consider the red dot." What is ready-to-hand by contrast are the tools we use regularly. In "consider the red dot", it is say the computer screen through which we are looking at the example. Whence horizons? Horizons are the backgrounds that determine how something is ready-to-hand for us. For instance, is garlic ready-to-hand as a spice for food or as a vampire-ward? Horizon is supposed to stand for the sort of cultural and background ideas that make this possible.
+
+Moving backwards towards Hegel, we could say that horizons are the structures of thought through which we have environment where there are objects at all. Stepping back to Kant, we are working within a framework where each and every object involves the use of our thinking categories (our hermeneutical tools) to appear before us as something.
+
+Phenomenology is an inheritor of all of these systems of thought, and the idea of much recent phenomenology is that differences in our experience of the same thing are traceable to differences in the horizons through which we experience them. So for instance what is happening in Crimea and Eastern Ukraine is open to interpretations that will determine what sort of events "riots" "uprising" "rebellion" "revolution" is actually happening.
+Frankly, the terms analytic and continental are not especially meaningful when applied to contemporary philosophers. Let me explain what I mean by that.
+
+Sure, there have been and still are clearly analytic and clearly continental philosophers. No one would confuse Carnap or Quine with continental philosophy. And no one is calling Foucault, Heidegger, Derrida, or Lyotard an analytic. But part of what made things clear was that the original group of analytic philosophers specifically believed metaphysics was bunk.
+
+In contemporary philosophy, "analytic" refers to a method built around argued claims -- with claim being meant in the technical sense as a falsifiable claim. With such a definition in hand, I would argue that analytic philosophy becomes largely synonymous with good philosophy. You can do go analytic philosophy about continental figures.
+
+Conversely, "continental" in contemporary philosophical discourse refers either to philosophy about figures from the continent (including stretching back to say Hegel or so) or a particularly bombastic politicized method of writing philosophy. The latter is generally looked down up by analytic philosophers; the former is viewed a bit askance if only because its not in conversation.
+
+
+
+Moving past the difficulties with the terms, there are several groups that are neither continental nor analytic due to historical groupings:
+
+(1) The American pragmatists (C.S. Peirce, William James, etc)
+(2) The [catholic] personalists [though they might be continental on most definitions]
+(3) Contemporary Chinese philosophers (Tu Weiming, Roger Ames, Henry Rosemont, etc)
+
+For some reason, I also tend to imagine Karl Popper as not fitting in well with either grouping -- but I have to admit that I haven't read him so I can't give a definitive answer.
+
+So then I would describe McDowell as an analytic who writes, in part, about Hegel and phenomenology. I gather Dan Zahavi does something like that too .Similarly, I would describe Dreyfus as an analytic who writes about Heidegger. But returning to my earlier claim, the problem with trying to split things and find someone not in either is that the words "analytic philosophy" have become partially synonymous with "good philosophy" in this era.  And I, as someone who wrote an ethics dissertation used people from both sides of the split, but I would definitely say that following an analytic method is better in one's own writing.
+I think by 'ugly' he meant two things: 'relying on hidden or unwarranted assumptions' and 'unnecessarily complicated'. The irony IMO is that he was an advocate of ugly mathematics. In The Man Who Knew Infinity, about Ramanujan and his partnership with Hardy, it explains how Hardy supported the new discipline of 'real' analysis which was meant to replace the old ways of explaining calculus. However, those old ways which were unnecessarily complicated were only in use because mathematicians were afraid of using infinitesimals. So Hardy replaced one ugly mathematics with another equally ugly version. Once infinitesimals were accepted with the emergence of smooth infinitesimal analysis and non-standard analysis the whole dispute was cleared up. 
+A universe having a finite volume can be unbounded in length and have unbounded cross-sectional area.
+
+The example I have in mind is mathematical, not physical. It's called http://en.wikipedia.org/wiki/Gabriel's_Horn Gabriel's Horn. It's a standard example in first-year calculus.
+
+It's also called Toricelli's Trumpet, after http://en.wikipedia.org/wiki/Evangelista_Torricelli Evangelista Torricelli, a student of Galileo. His discovery of this strange mathematical object set off a philosophical storm about infinity back in the 1640's. He is most famous for inventing the barometer. 
+
+You generate Gabriel's Horn by rotating the graph of y = 1/x about the x-axis, and considering the horn-shaped region swept out for values of x >= 1. (You steer way clear of the messy bit at zero where it blows up). Using basic calculus you can show that it has infinite surface area and infinite cross-sectional area but finite volume. 
+
+In fact, its volume is ... (drum roll, please) ... pi.
+
+
+
+If you lived in a universe shaped like this, your greatest physicists would determine that the volume of your universe is finite. Yet the universe would contain a 2-dimensional cross-section whose area is infinite; and the boundary of the universe would have infinite surface area. But the volume is finite, and that's the best definition of a finite universe. 
+
+As I visualize this, there's a 2-D boundary of infinite surface area, bounding a finite volume. That's what Gabriel's Horn is. 
+
+Now, in this universe, which remember has finite volume, you can jump down the hole down the middle (along the x-axis) and keep on going forever. You can increase your x-coordinate without bound. So yes this is a very skinny hole! It's one-dimensional. I don't know if that will satisfy the OP's idea of "bottomless pit." Surely a tiny little point-creature could slither down a line. Maybe one of Deleuze's infinitesimals, who's to say? 
+
+So that would be my concept of a finite universe with a bottomless pit. 
+
+(ps) You know, the pit isn't one-dimensional at all. At every finite value of x the cross-section has positive area. So a little particle or being could vibrate down the hole, just at a smaller and smaller wavelength ... hence higher and higher energy ... so a physicist would have to jump in and invoke quantumness to spoil all the fun. But an object doesn't have to be infinitely skinny to get down this hole ... it just has to get skinnier and skinnier, the farther down it goes. But it's always got nonzero size, just tending to zero at the limit.
+
+And in fact at every point inside the horn, you could fit a little three-dimensional being. So maybe this isn't so bad at all. In order to keep falling down the hole you just have to keep getting smaller. But you can continue to be a three-dimensional creature all the way down ... just one that's getting smaller. 
+
+I think this example works. It's a finite universe with an infinitely deep pit.
+Well, there's several things that break the analogy.
+
+First, noumenal reality is not known at all for Kant. This is because knowledge for Kant has a very different meaning that it does for Aristotle. On Aristotle's model we know things as we perceive at them and reproduce a phantasm of them in our minds from which extract the essence and have knowledge in this way of the substance through its essence and particulars [i.e., accidents]. 
+
+For Kant, we know things through the categories of understanding and the forms of sensibility which turn a thing into an object and phenomenon proper respectively (http://plato.stanford.edu/entries/kant-spacetime/ see the SEP entry for more details on the latter).  Thus, for Kant things-in-themselves are not knoweable de minimis because they are not objects. They are inaccessible to the knowledge operation. In Aristotelian vocabulary, things in themselves are closer to absolute potential or prime matter. But they differ insofar as what comes after them is not exactly formed matter.
+
+Second, while substances, for Aristotle, are formed matter and thus when we can know the form and the accidents of a substance, the relationship between thing and phenomenon and object is not one in which the thing has inherent properties that follow from its kind. As far as we can known on Kant's account, it makes no sense to speak of kinds of things for Kant. Because thingness doesn't admit kinds -- since kinds are categories.
+
+Third, it's not entirely clear (here just inside of the Kantian picture) that we should identify noumenon with thing-in-itself. The noumenal is the realm of mind or reason -- which is not necessarily identical with the substrate of the phenomenon we perceive or the objects know. Or to put it another way, thing and object are a pair of opposites and phenomenal and noumenal are a pair of opposites as well, but it's not clear that what we do not know as objects is therefore noumenal. (This is a point on which there is some disagreement among Kant scholars).
+
+One aside is that I tend to agree with what my advisor wrote many years ago in http://www.degruyter.com/dg/viewarticle/j$002fkant.1968.59.issue-1-4$002fkant.1968.59.1-4.118$002fkant.1968.59.1-4.118.xml;jsessionid=1C8ECA0630E9BC6382C8824A1EDB66F7 Kant Studien. God, on the Kantian picture, does have direct knowledge of things-in-themselves just as they. This is because God does not know through the categories of understanding.
+After studying the fundamentals of special relativity and denouncing a neo-Lorentzian approach to time, I am convinced that a tenseless theory of time is best representative model of the given evidence. That being said, under this view, the very events of history are every bit as real and as existent as this discussion. John F. Kennedy's assassination is just as real as the inaugural address given by the 45th president of the United States.
+
+From a slightly physical standpoint, if we were to assume that reality does exist as perceived, all events that you perceive from the outside world (i.e. not originating within your own mind) are necessarily past events as the maximum speed at which information can propagate is the speed of light. This may not seem to be a relevant interjection, but I posit that it is simply because, at the time at which you perceive an event, that precise event is no longer taking place and is, thus, no longer "real" in a tensed theory of time. Ontologically speaking, I would say that past events are in existence in the same way present events are; they exist merely as temporal points on a [perceived] linear timeline, not as a physical object, but as concepts used to describe the temporary nature of things at the given point.
+The philosophy of mathematics is definitely not mathematics; one can learn a lot of mathematics without knowing any philosophy - consider it as a carpenter who learns how to use his tools; so there is an artisanal quality to it; and a good carpenter knows how to use his tools well.
+
+Modern mathematics has many different disciplines but they're natural outgrowths of each other or related in an organic fashion; and the relations change in time; plus, of course there are relations with other subjects; hence one shouldn't think of it like a tree but Rhizomatically.
+
+The philosophy of mathematics really grew out of the foundational crisis of mathematics in the early twentieth century when there was a large programme (pushed by Hilbert, but I imagine there was antecedents) to place the whole of mathematics in exactly a tree-like organisation; with its root in logic - mathematical logic; I suppose one could go further back and suggest it was also the criticisms by Bishop Berkeley (and no doubt others) of the lack of foundations in calculus; and then implicitly Newtonian Mechanics.
+
+This programme is still continuing - with for example various efforts to place QFT, or the path integral on a amthematically precise bearing.
+
+The main question of mathematical philosophy is the ontological status of mathematical objects - numbers, sets, algebras etc; hence the three main schools: intuitionism, platonism, and formalism; the first says they're human constructions, the second says they're objectively real; the third says anything goes so long as it has significance and we stay within the rules of logic.
+
+note: sometimes the word philosophy in mathematics is used in a non-philosophical manner; for example the 'philosophy' of the Langlands programme; in this sense its better thought of strategy and tactics; in other words the mathematical landscape hasn't been fixed so one requires guidance of how to look at it, and how to navigate it.
+
+For example the Langlands programme can be called non-abelian class field theory; which sounds impressively intimidating; but if you know that abelian just means it matters not one whit which order you do things.
+
+For instance it doesn't matter if you put on your left shoe first, and then your right; or vice-versa; but it does matter when you unlock a door and turn the handle.
+
+Then consider that abelian class field theory is an already well-established field; then one can see that the Langlands programme is adding 'a twist' to this theory; but why add 'twists'? Well, because Quantum Mechanics, considered mathematically, is non-abelian or 'twisty'.
+"heating water to 100 degrees Celsius (the boiling point of water) at sea level" is a sufficent reason to boil water. 
+
+But it is not necessary: 
+
+When you boil water on a mountain top, where air pressure is less than at sea level, you can boil water at a temperature less than 100 degrees Celsius. 
+It refers to Kant's solution to the problem of justifying knowledge. After the criticsm of "intellectual intutition" by empiricists two legitimate sources of knowledge remained: logic and experience. Logic however produces only tautologies, or something tautologically equivalent to experience, and experience itself directly justifies little. Hume's argument against induction and causality showed that even most basic inferences lack justification.
+
+One could, and Rosenberg discusses such options in his book, try to find a third source of justification, tertium quid as he calls it in Latin. Husserl's phenomenological intuition is an example, but Rosenberg considers such a solution disappointing. What he describes as strategy K is to change the concept of justification. Instead of justifying the content of a principle theoretically, by providing an argument for it, one can give a logical argument that the principle has some meta-property, making it practically reasonable for us to adopt it. 
+
+For example, Kant agrees with Hume that we can not deduce the principle of causality from observations, but argues that we should adopt it nonetheless because it is a condition for having a unified account of experience in time, "condition of the possibility of knowledge", as Kant calls it. He then proceeds to give an empirically grounded logical meta-argument that causality is indeed such a condition (questionable from modern point of view). This does not give us theoretical certainty for the principle, but it does give it a practical justification, and strategy K does not take us beyond senses and logic, there is no tertium quid.
+
+See http://pubpages.unh.edu/~wad/Archive/Kant%20and%20Rosenberg.pdf de Vries's Kant, Rosenberg, and the Mirror of Philosophy.
+It is both, or rather it has aspects that are mathematical, and aspects that are empirical (the same is true of Newtonian mechanics or special relativity, but more obviously so). If we take Euclidean geometry as the science of space, as Greeks understood it, it is an empirical theory that may or may not match observations, and is subject to revision based on them. On the other hand, if we take it as the collection of theorems derivable from Hilbert's axioms (which complete those of Euclid) then it is a purely mathematical theory. This is related to existence of alternative geometries only in the sense that we can not conclude a priori that empirical geometry is Euclidean, because alternatives do exist.
+
+Underdetermination enters in that observations allow us to test empirical geometry only to some precision for example, so small curvature may not be detectable. More subtly, as Poincare pointed out observations only depend on the pair geometry + physics, not each one separately. So we could keep Euclidean geometry of space by altering the physical part of the theory, and still get a theory equivalent to general relativity, but with rather unattractive physics. As a simpler example, Einstein's special relativity and Lorentz's theory of ether are empirically equivalent, but one is set in Minkowski 4D spacetime, whereas the other in the Newtonian 3D space times 1D time, but with physics that compensates for the absence of ether wind with specialized dynamical effects, like the length contraction and time dilation.
+
+See https://philosophy.stackexchange.com/questions/37768/is-logic-empirical/37787#37787 Is Logic Empirical? for a related discussion.
+I believe holarchy is what you're looking for. A holistic hierarchy. Rather than the great chain of being, it becomes the great nest of being. Nests within nests within nests. In this view, nothing is either whole or part, but rather whole/parts, simultaneously. E.g., an atom is a whole thing in and if itself, and quite remarkable. A molecule is a whole thing in and of itself, also. But it is made up of atoms, which are wholes acting as parts. A cell is similarly a whole, made up of molecules, made up of atoms. And the cell is even more remarkable. And it goes this way on to multicellular organelles, organisms, species, etc, ad infinitum. 
+You can see this in other simple terms such as language; letters to words to sentences to paragraphs to poetry to stories to mythological cosmologies. Each part is also a whole and is fundamental to the entirety. Indeed, the "lower" you go, the more fundamental. While the "higher" you go, the more significant. If that seems incongruous, it still makes sense. In brief, a molecule is fundamental to my organism, and without molecules there would only be atoms raving about the universe. No more "me". However, this "me" is full of ideas, hopes, dreams, artistic impulses, morals, ethics... basically, "the good, the true, and the beautiful", ergo, more significant. 
+So... a collection of collections is what we've got, and holarchy os the best name for it at present.
+Of the medieval physicists who studied this question, it is hard to say which of their arguments is more "Aristotelian," as some physicists in circa the 13th and following centuries were influenced more by Averroes ("The Commentator") than others, or by the Nominalists more so than by the Thomists or Scotists, etc. In other words, there are several interpretations of Aristotle on this point.
+
+One popular interpretation is due to one of the greatest physicists of that era, http://www.encyclopedia.com/people/philosophy-and-religion/philosophy-biographies/jean-buridan#1 Jean Buridan (1295-1358), rector of the University of Paris. He is known for his impetus theory, impetus being similar to what we would call momentum today (cf. http://www.encyclopedia.com/people/history/historians-miscellaneous-biographies/john-philoponus#1 John Philoponus, circa 6th cen., who held a similar theory). http://www.encyclopedia.com/people/philosophy-and-religion/philosophy-biographies/jean-buridan#1 Moody's Dictionary of Scientific Biography entry on Buridan gives a good summary:
+
+
+  The Questions composed by Buridan on problems raised in Aristotle’s http://dhspriory.org/thomas/Physics.htm Physics and http://dhspriory.org/thomas/DeCoelo.htm De caelo et mundo exhibit his application of these criteria of scientific method and evidence to the critical evaluation of Aristotle’s theories and arguments and to the diverse interpretations of them offered by Greek, Moslem, and Christian scholastic commentators. The general scheme and conceptual framework of analysis, within which Aristotle’s physics and cosmology are formulated, is accepted by Buridan as the working hypothesis, so to speak, of natural philosophy. But the scheme is not sacrosanct, and Buridan not infrequently entertains alternative assumptions as being not only logically possible but also possibly preferable in accounting for the observed phenomena. While the authority of Aristotle had often been challenged on the ground that his positions contradicted Christian doctrine, it had come, in Buridan’s time, to be challenged on grounds of inadequacy as a scientific account of observed facts. Buridan’s major significance in the historical development of physics arises from just such a challenge with respect to Aristotle’s dynamic theory of local motion and from his proposal of an alternative dynamics which came to be known as the impetus theory.
+  
+  An obvious weakness of Aristotle’s dynamics is its inability to account for projectile motions, such as the upward motion of a stone thrown into the air after it has left the hand of the thrower. According to the assumptions of Aristotelian physics, such a motion, being violent and contrary to the natural movement of the stone toward the earth, required an external moving cause continuously in contact with it. Since the only body in contact with it is the air, Aristotle supposed that in some way the air pushes or pulls such a body upward. This feeble explanation drew criticism in antiquity and from medieval Moslem commentators and gave rise to a theory that the violent action of the thrower impresses on the stone a temporary disposition, of a qualitative sort, which causes it to move for a short time in the direction contrary to its nature. This disposition was called an impressed virtue (virtus impressa), and it was held to be self-expending and quickly used up because of its separation from its source. Franciscus de Marchia, a Franciscan theologian who taught at Paris around 1322, gave a full presentation of this theory, and it is likely that Buridan was influenced by it.
+  
+  In treating of the problem of projectile motion in his https://isidore.co/misc/Physics%20papers%20and%20books/Classic%20Papers/Medieval%20Physics%20selections/finished/Impetus%20Theory%20of%20Projectile%20Motion%20(Fr.%20Buridan).pdf Questions on Aristotle’s Physics (VIII, question 12), Buridan expounded Aristotle’s theory of propulsion by the air and rejected it with arguments similar to those that Marchia had used. His own solution was in some respects like that of Marchia, but in one crucial point it was strikingly different. The tendency of the projectile to continue moving in the direction in which it is propelled, which Buridan calls impetus rather than virtus impressa, is described as a permanent power of motion, which would continue unchanged if it were not opposed by the gravity of the projectile and the resistance of the air. “This impetus,” he says in another discussion given in his Questions on the Metaphysics, “would endure forever [ad infinitum] if it were not diminished and corrupted by an opposed resistance or by something tending to an opposed motion.”[Qu. in Metaph. II, Qu. 1, (1518) m fol. 73r.]
+  
+  The suggestion given here of the inertial principle fundamental to modern mechanics is striking, as are some further uses that Buridan makes of the impetus concept in explaining the accelerated velocity of free fall, the vibration of plucked strings, the bouncing of balls, and the everlasting rotational movements ascribed to the celestial spheres by Greek astronomy. Buridan defines impetus in a quantitative manner, as a function of the “quantity of matter” of the body and of the velocity of its motion; thus, he seems to conceive of impetus as equivalent to what in classical mechanics is called momentum, defined as the product of mass and velocity. In treating the action of gravity in the case of freely falling bodies, Buridan construes this action as one imparting successive increments of impetus to the body during its fall.
+  
+  
+    It must be imagined that a heavy body acquires from its primary mover, namely from its gravity, not merely motion, but also, with that motion, a certain impetus such as is able to move that body along with the natural constant gravity. And because the impetus is acquired commensurately with motion, it follows that the faster the motion, the greater and stronger is the impetus. Thus the heavy body is moved initially only by its natural gravity, and hence slowly; but it is then moved by that same gravity as well as by the impetus already acquired, same gravity as well as by the impetus already acquired, and thus it is… continuously accelerated to the end.[https://isidore.co/misc/Physics%20papers%20and%20books/Classic%20Papers/Medieval%20Physics%20selections/finished/Cause%20of%20Acceleration%20of%20Free-Falling%20Bodies%20(Fr.%20Buridan).pdf Qu. De caelo et mundo (1942), 180.]
+  
+  
+  The effect of a force, such as gravity, is thus conceived of as a production of successive increments of impetus, or of velocity in the mass acted upon, throughout the fall. It is a short step from this to the modern definition of force as that which changes the velocity of the body acted upon, implying the correlative principle that a body in uniform motion is under the action of no force. Buridan does not quite take this step, since he retains the Aristotelian assumption that a constant cause must produce a constant effect, and ascribes the increase in velocity to the addition of impetus as an added cause acting along with the gravity.
+  
+  Yet his theory obviously requires a distinction between impetus as a “conserving cause” of motion and gravity as a “producing cause” of the motion conserved by the impetus; his failure to draw the consequence of this distinction was perhaps because he did not attempt a mathematical analysis involving the concept of instantaneous velocities added continuously with time. Whether Buridan construed the acceleration as uniform with respect to time elapsed, or with respect to distance traversed, is not clear. He probably regarded the two functions as equivalent, a view that, however impossible from a mathematical point of view, was retained into the seventeenth century, when Descartes and Galileo (in his letter to Sarpi of 604) sought to prove that velocity increases in proportion to time elapsed from the premise that velocity increases in direct proportion to distance of fall.
+  
+  Buridan’s concept of impetus is further distinguished from the modern inertial concept by the fact that he construes rotational motion at uniform angular velocity as due to a rotational impetus analogous to the rectilinear impetus involved in projectile motion. Galileo did likewise, and was in this respect nearer to Buridan than to Newton. But Buridan makes a striking use of his impetus concept, in its rotational sense, by arguing that since the celestial spheres posited by the astronomers encounter no external resistance to the rotational movements and have no internal tendency toward a place of rest (such as heavy and light bodies have), their uniform rotational motions are purely inertial and require no causes acting on them to maintain their motions. There is, therefore, no need to posit immaterial intelligences as unmoved movers of the heavenly spheres, in the manner that Aristotle and his commentators supposed. “For it could be said that God, in creating the world, set each celestial orb in motion… and, in setting them in motion, he gave them an impetus capable of keeping them in motion without there being any need of his moving them any more.”[https://isidore.co/misc/Physics%20papers%20and%20books/Classic%20Papers/Medieval%20Physics%20selections/finished/Cause%20of%20Acceleration%20of%20Free-Falling%20Bodies%20(Fr.%20Buridan).pdf Qu De caelo et mundo (1942), 180.] It was in this way, Buridan adds, that God rested on the seventh day and committed the motions of the bodies he had created to those bodies themselves.
+  
+  It is clear that Buridan’s impetus theory marked a significant step toward the dynamics of Galileo and Newton, and an important stage in the gradual dissolution of Aristotelian physics and cosmology. Buridan did not, however, exploit the potentially revolutionary implications of his analysis of projectile motion and gravitational acceleration, or generalize his impetus theory into a theory of universal inertial mechanics. Thus, in discussing the argument of Aristotle against the possibility of motion in a void, Buridan accepted the principle that the velocity of a natural motion in a corporeal medium is determined by the ratio of the motive force to the resisting force of the medium, so that if there were no resisting medium, the motion would be instantaneous. This is scarcely consistent with the analysis of gravitational acceleration as finite increments of impetus given to the falling body by its gravity, and Buridan made no effort to harmonize these two different approaches within a common theory.
+
+
+For an excellent historical summary of the medieval physicists' various interpretations of Aristotle's Physics (and De Cælo) regarding this question, see:
+
+
+http://www.encyclopedia.com/topic/Pierre_Maurice_Marie_Duhem.aspx#1 Pierre Maurice Marie Duhem, https://archive.org/details/tudessurlona03duhe Études sur Léonard de Vinci, ceux qu’il a lus et ceux qui l’ont lu, vol. 3: Les Précurseurs Parisians de Galilée [Galileo's Parisian Precursors] (Paris: A. Hermann, 1913).
+
+
+That 3rd vol. is on Galileo's precursors and is standalone. The question you ask was hotly debated in the 13th centuries onward, preceding Galileo. An English translation of it is coming out in Springer's https://www.springer.com/series/5710 Boston Studies in the Philosophy and History of Science in circa 2018.
+
+A more popular, but still scholarly overview of the medievals' interpretations of Aristotle's physics is:
+
+
+http://jameshannam.com/ James Hannam, https://isidore.co/calibre/browse/book/4182 God’s Philosophers: How the Medieval World Laid the Foundations of Modern Science (London: Icon Books, 2009).
+
+Greeks did ask the question, and did give answers. To https://plato.stanford.edu/entries/atomism-ancient/#EpicAtom ancient atomists "everything that exists" were atoms in motion, and they had no beginning or end. Lucretius phrases it as follows in https://www.mcgoodwin.net/pages/otherbooks/tlc_rerumnatura.html De Rerum Natura:
+
+
+  "No visible object ever suffers total destruction, since nature renews one thing from another, and does not sanction the birth of anything, unless she receives the compensation of another's death. [...] Each thing springs from the source that has the matter that it needs, the primary particles, and comes into the boundaries of light, and that's the reason every thing cannot give rise
+  to every other thing, because there is a separate power in distinct things".
+
+
+On this issue Parmenides concurred, https://en.wikipedia.org/wiki/Nothing_comes_from_nothing nihil fit ex nihilo (nothing comes from nothing) is attributed to him. The idea of cyclic time, and more specifically of eternal recurrence, was also widespread, https://books.google.com/books?id=UkYJ5NYXTcUC&pg=PA183&lpg=PA183&dq=aristotle+eternal+recurrence&source=bl&ots=X8-rpjrsRq&sig=4IFoCw_7HqamBJpLJprrEkig8Eg&hl=en&sa=X&ved=0ahUKEwjyiunA8vLRAhVS0mMKHW1YDDkQ6AEINTAF#v=onepage&q=aristotle%20eternal%20recurrence&f=false Pythagoreans, Heraclitus, Stoics, possibly even Aristotle subscribed to it, although the last is disputed. But his revolving Cosmos eternally powered by the unmoved mover certainly suggests it. In fact the idea of linear time, where the beginning and end of things becomes thinkable, does not even get articulated until the rise of Christianity, https://books.google.com/books?id=8RBRAVBw3_AC&pg=PA45&lpg=PA45&dq=augustine+plato+cyclic++linear+time&source=bl&ots=BA3Yf0x2Bd&sig=2dKUHPt6dqcfwnRI-IhZCn_4HAM&hl=en&sa=X&ved=0ahUKEwiWsO6x-fLRAhXGLmMKHVaSAGsQ6AEIHzAA#v=onepage&q=augustine%20plato%20cyclic%20%20linear%20time&f=false particularly in Augustine, who was an adamant anti-cyclist.
+
+However, there are ambiguities in the question on "everything" and "exists". Above I interpreted them narrowly in the "fundamental" sense. But if "everything" includes transient atomic composites or each recurrence cycle separately, etc., and their dissolutions count as terminations of their existence, then obviously one can always find some "formations" that do have beginning and end. Whether they count as "objects that would fall under the universal set" depends on one's notion of the "universal set". E.g. whether it includes its own subsets and other combinations of its elements as elements.
+I'm going to attempt a rather long exposition of what's going on here because there are several issues involved.
+
+First, it's important to note that this early section (§1) involves a deconstruction1 of traditional ontology. Hence, his point in this passage is that in the terms of traditional ontology, 'Being' cannot be conceived of as an entity. The quotation marks here are important, because they indicate that what is under discussion is not Being as such, but the concept of 'Being' as the supreme universality.
+
+It follows from this "supreme universality" that 'Being' is not an entity in a rather straight-forward way. The traditional ontology Heidegger references requires that an entity has a definition, that is a genus and a specific differentiation.2 For example, the much abused Scholastic dictum that "Socrates is a man" involves both the genus (man) and the specific differentiation (Socrates), and hence is taken as a "full" definition of Socrates. 'Being', however, has no genus nor no specific differentiation since it is predicated of all things; likewise, 'Being' is not itself a genus nor is it itself a specific difference which defines the individual thing; hence "being adds nothing else to nature."3 Since 'Being' has no definition nor is involved in the definition of anything, 'Being' cannot be an entity.
+
+This, I think, is sufficient for detailing how in terms of traditional ontology 'Being' cannot be an entity. But still the question you raise is an important one and, as @virmaior pointed out in the comments, Heidegger takes the idea that Being is not an entity to have an relevance beyond just the terms of traditional ontology.4 So, if we aren't thinking within the bounds of an Aristotelian notion of entity which requires both a genus and a specific differentiation, why can't Being be taken to be an entity? Or, as you wrote, "I can talk about it, study it, use it in various ways: It is and is not various things."
+
+On my reading, Heidegger's initial answer to this question comes in the next numbered passage:5
+
+
+  It is held that 'Being' is of all concepts the one that is self-evident. Whenever one cognizes anything or makes an assertion, whenever one comports oneself towards entities, even towards oneself, some use is made of 'Being'; and this expression is held to be intelligible 'without further ado', just as everyone understands 'The sky is blue', 'I am merry', and the like. But here we have an average kind of intelligibility, which merely demonstrates that this is unintelligible. It makes manifest that in any way of comporting oneself towards entities as entities... there lies a priori an enigma. The very fact that we already live in an understanding of Being and that the meaning of Being is still veiled in darkness proves that it is necessary in principle to raise this question again (M&R p.23 / H4).
+
+
+Here the problem of raising the question of the meaning of Being is put in terms outside the terminology of traditional ontology. Instead, Heidegger is simply referring to the everyday use of Being. The problem arises when we try to give an account of things. When we say "The sky is blue", everyone understands what this means. The copula "is" seems to add nothing but a grammatical niceity; one could very easily imagine constructing a sentence such as "the sky blue" or "blue the sky" and have it be perfectly understandable according to rules of a certain grammar.6 The problem that Heidegger sees is that taking Being as this empty signifier occludes the meaning of Being from our understanding; rather than 'simply understanding' Being, what such formulations show is that we do not grasp Being at all or rather, "we already live in an understanding of Being" without being able to articulate this understanding.
+
+This "already liv[ing] in an understanding of Being" applies to how we come to think of Being itself. We can "study" Being and "use" Being "in various ways", but none of these really grasp Being itself. Rather what we study as Being is always simply a certain pre-conception7 of 'Being', a construct of our understanding, which, takes 'Being' as an empty, "obvious" signifier.
+
+Given that the above is very abstract, let me try to make things more concrete. If I were to say "Being is..." or "Being is not...", for example, "Being is not an entity" then I face a kind of a priori problem because I can only make such an assertion about Being by already having a conception of Being, that is, by already assuming I know what this 'is' or 'is not' means. Hence, in these broader terms, I can only talk about how 'Being' 'is' or 'is not', i.e., how a certain conception of 'Being' operates in an already-given conception of 'Being', but not about Being itself.8
+
+This a priori aporia seems to leave us with no hope of getting any closer to Being, but Heidegger thinks he has a way out: there is a primordial, pre-conceptual experience of Being that, when clarified can give us a non-conceptual meaning of Being. The task of Being and Time is to destroy our conceptions of Being in order to make this experience of Being come to light.
+
+
+
+The question of space in Heidegger is a fairly complex one. In Being and Time Heidegger devotes §§22-24 to space and spatiality. This has been explored in numerous places (especially concerning architecture, topology and geography), but it's particularly worth mentioning the work done by Jeff Malpas and Stuart Elden. Suffice to say that for Heidegger, space is not an entity in much the same way that Being is not an entity. Most importantly, to take space as an entity is to operate with a conception of space, but this conception is ultimately grounded in the experience of spatiality, which, for Heidegger is what must first be clarified. This is, in effect, the general structure of Heidegger's phenomenology: everything that is has its Being grounded in a primordial structure of experience that becomes occluded by our conception of it.
+
+The locus classicus for the discussion of entities (i.e., our primordial experience of entities) in Being and Time is §§15-18, which includes the famous discussion of tools and the difference between 'ready-to-hand' (Zuhandenheit) and 'present-at-hand' (Vorhandenheit). On this point, Graham Harman's Tool-Being could be a useful guide.
+
+
+
+Notes
+
+1: "Deconstruction" as used by Derrida derives from the use of "destruction" by Heidegger, in the sense outlined in §6 of Being and Time (p. 44-49 in Maquarrie & Robinson's translation, p. 22-27 in the German). "Deconstruction" in this sense is an attempt to call into question our pre-existing assumptions about a concept in order to open it up for new possibilities of understanding.
+
+2: This is the upshot of the first Latin gloss Heidegger cites in this passage: definitio fit per genus proximum et differentiam specificam.
+
+3: My translation of enti non additur aliqua natura. See Aristotle's argument in Metaphysics 3, especially 998b, where Aristotle argues that being is not a genus. For a use of these concepts in a Scholastic context, see, e.g., Aquinas' De Veritate q. 1 a. 1.
+
+4: In Dreyfus' passage-by-passage commentary on Being and Time, Being-in-the-World, he notes that "[Heidegger] begins by noting three ways in which the nature of being has traditionally been miscontrued, ways that nonetheless contain hints of what he considers the real issues." (p. 11) While I have some issues with some of Dreyfus' interpretations, Being-in-the-World is a valuable and extremely clear commentary on Heidegger.
+
+5: Being and Time is constructed in a rather difficult way where the initial hints of something to be developed are given first and the development of the idea occurs substantially later in the text. For example, this bit that I've called an "initial answer" is elucidated in §9, §16, §27, §31 etc., essentially spanning the entireity of the text.
+
+6: This is, in fact, how ancient Greek and, in some cases, Latin actually functions; the copular verb is often omitted completely. One might also consider the various language-games Wittgenstein offers in Philosophical Investigations.
+
+7: It would be slightly accurate to say "fore-conception" (Vorgriff) or "fore-having" (Vorhabe), two terms which become very important later in the text of Being and Time. But I'm trying to eschew Heideggerian jargon here.
+
+8: If you like, I think it's fair to say that this conception of 'Being' (any conception whatsoever) is itself an entity. It can be defined, given bounds, discussed, etc. The point is that this conception of 'Being' still is in a certain way and both the way in which it is and what it means for it to be remain obscure; even more so since this conception stands in for what is trying to be explained.
+Epistemology, as systematic reflection on knowledge, is traced back to Aristotle who was the first to discourse explicitly about logic, e.g. how some true propositions are obtained from others and cases where it is not so. Gaining epistemological awareness is much like becoming aware of grammar:  people can talk and they  know lots of things without any 'theory', but, except for radical pragmatists, doing is usually taken to be different from knowing.
+
+As the later name suggests it is second order knowledge: bio-logy is knowledge about life and epistemo-logy is about knowledge. Distingishing meta-knowledge became rather important in modern times when the cases science vs. religion  were debated. However philosophy also rapidly lost credibility on empirical grounds and it turned more and more into epistemology. Raids into the domain have been carried from the factual side by psychology and cognitive science and from the theoretical - by mathematics.
+
+(No need for refs about such well known history.)
+Yes. According to https://philpapers.org/surveys/results.pl the philpapers survey it's quite a lot actually, so around at least 39% lean towards platonism (or existence of abstract objects/properties) and 20% believe in it. So it's fair to say that the position is at least popular with anglophone analytic philosophers.
+
+Like the other comment points out, non-natural moral realists are an example. Another would be belief in abstract mathematical facts (opposed to nominalism).
+
+  But minds also think, and this is a private activity
+
+
+What's more, Wittgenstein makes this argument explicitly with his "Beetle Box" thought experiment (in the Philosophical Investigations.)  And, what's more, he also shows that much thought is not of a propositional nature, and does not work well with traditional notions of epistemology; one cannot be mistaken about having one's tooth ache.
+
+
+  Does he make the claim that thinking cannot be rationally explicated to any extent, ie given some kind of structure?
+
+
+No he does not, and the fact that we are able to discuss his writings here and now demonstrates that his thinking can be rationally explicated to some extent; the claim that you suggest would be self-defeating.
+
+I'd recommend that you have a go at the Philosophical Investigations-- it is that very rare kind of book that matches a high degree of accessibility (it is fairly easy to follow Wittgenstein's arguments, and does not require any particular knowledge of the prior philosophical tradition) with some very serious challenges to traditional ways of seeing things.
+A good starting point for your research would be the http://plato.stanford.edu/entries/representation-medieval/ SEP Article on the subject.
+
+I don't think any of us will be able to condense it down much more than that.
+CULT:
+
+1.A system of religious veneration and devotion directed toward a particular figure or object.
+
+2.A relatively small group of people having religious beliefs or practices regarded by others as strange or sinister. 
+
+RELIGION:
+
+1.The belief in and worship of a superhuman controlling power, esp. a personal God or gods.
+
+2.Details of belief as taught or discussed.
+
+Well, that's pretty self explanatory; a cult is a type of religion (a cult IS a religion), but a religion does not necessarily have to be a cult.
+
+i.e...
+A square IS a rectangle; however, a rectangle does not have to be a square.
+Its impossible to predict what Kant would say exactly.
+
+However the concept of Integers is not to be confused with sense of space,time and scale/quantity:
+
+To intuitively observe and acknowledge the existence of an entity does not require a basis or prior memory of it, like there is this strange thing on the table. This is natural intuition of acknowledging existence of something.
+
+However, to comprehend the quantity of such entities , a prior understanding (memory) of such entities is required. like now there are more of those strange things on the table. Else you might mistake a collection as a single object when you notice it for the first time (intuition explained in point 2 below will eventually resolve this). This is  a composite natural intuition of quantity. Being composite means it depends roughly upon following intuitions:
+
+
+Acknowledge: Accepting and memorizing the existence of an object.
+Remember: Noticing the similarity of all those objects with, accepted definition. This also helps when we are capable of observing similar parts of an object and proceed to divide it further.
+Compare: Have a sense of contrast, a scale, that is differentiating between more and less, one and many. (let's say general readings from our biological sensors)
+
+
+All these natural intuitions work together to make us capable of counting. Similar interplay of memory and intuitive acknowledgements and comparisons also brings us sense of time passing by , and a sense of distance/space. Like now those strange things on the table are becoming more and more, and now they cover the entire table.
+
+Notice how our intuition works fine with the still unknown strange thing. Let's call these strange things Integers. Let them represent our sense.
+http://garrigou.us.to/get/pdf/Philosophical%20Physics%20-%20Smith,%20Vincent%20Edward,%201915-_3012.pdf Philosophical Physics by Vincent Edward Smith discusses (ch. 6: pp. 181 or PDF pp. 98 ff.) how elementary particles have less being than, e.g., a human; hence, they are more indeterminate.
+
+http://www.innerexplorations.com/philtext/an.htm Wolfgang Smith's http://www.worldcat.org/title/quantum-enigma-finding-the-hidden-key/oclc/651761142 Quantum Enigma (cf. http://www.thomist.org/jourl/1999/Jan%20A%20Smith.htm his related article) discusses the relation between what he terms "corporeal bodies" (what we sense with our external senses) and "physical bodies" (what modern physics conceives, e.g., atoms).
+
+Werner Heisenberg recognized in his http://www.archive.org/details/physicsandphilos010613mbp Physics and Philosophy that the probability wave concept in quantum mechanics "was a quantitative version of the concept of 'potentia' in Aristotelian philosophy" (p. 41) and that the "concept of the soul for instance in the philosophy of Thomas Aquinas was more natural and less forced than the Cartesian concept of 'res cogitans,' even if we are convinced that the laws of physics and chemistry are strictly valid in living organisms." (p. 80). 
+
+https://groups.google.com/forum/#!msg/quaestionesdisputatae/u_jIp2hebR0/4pFGb45VZCoJ This discussion of hylemorphism and modern science might help. 
+Apparently Einstein recognized the human tendency of allowing pride to overrule honesty. When the facts prove that your theory is wrong, change the facts so you can continue to have the admiration of your peers and cronies, and in many cases to acquire the funds necessary to continue your work. Hats off to Einstein for his insight. 
+There is a strong case to be made that Wittgenstein did not hold any 'anti-essentialism', for in PI he clearly rejects metaphysics (eg see http://books.google.com/books?id=cqeSsPbpO8kC&pg=PA177&lpg=PA177&dq=philosophical%20investigations%20metaphysics&source=bl&ots=Wb2htBHopL&sig=XiIHTJS7TteMLCer7I7eUTiQ-6A&hl=en&sa=X&ei=ibDRUb6QBISZ0QHU2oC4CQ&ved=0CD8Q6AEwAg#v=onepage&q=philosophical%20investigations%20metaphysics&f=false here). 
+
+In any case, it would be quite wrong to think that games or gameness determines the 'essence' of language.  Read on in PI and you will see a game is for Wittgenstein a 'family resemblance' concept.  There is no essence of a game, but many overlapping features with no sharp edges (see http://en.wikipedia.org/wiki/Family_resemblance http://en.wikipedia.org/wiki/Family_resemblance).
+
+PI 69:
+
+
+  How should we explain to someone what a game is? I imagine that we
+  should describe games to him, and we might add: "This and similar
+  things are called 'games' ". And do we know any more about it
+  ourselves? Is it only other people whom we cannot tell exactly what a
+  game is?—But this is not ignorance. We do not know the boundaries
+  because none have been drawn. To repeat, we can draw a boundary— for a
+  special purpose. Does it take that to make the concept usable? Not at
+  all!
+
+In my experience, it means that an antecedent philosopher has given a well-known discussion of that topic.
+
+  "Famously, one of the objections against Newtons theory of Gravity was that it instantaneously acted at a distance."
+
+
+Firstly, historically, I'd say it's not necessarily an objection against Newtons gravity but against special relativity. Secondly, it's worth pointing out that the problems in considering the two theories next to each other are not merely of philosophical nature. If two observers in special relativity move with non-vanishing velocity relative to each other, their conception of spatial now is different, geometrically tilted to one another. And if you have instantanous action, you might be able to affect events in the others past. The concept of the http://en.wikipedia.org/wiki/Tachyonic_antitelephone Tachyonic antitelephone is similar.
+
+
+  The solution was found in Einsteins GR, where it was seen that it was spacetime itself that propagated the influence.
+
+
+I have some minor issues with some formulation. E.g. the expression "propagated the influence" seems to take one concept and make two out of it, for the sake of rhetoric. 
+
+Also, and this is just an digression, I always like to point out that there were earlier attempts to go geometric gravity. And many later attempts, although they were never takes to overtake Einstiens construction. The alternative proposals seem endless, http://en.wikipedia.org/wiki/Alternatives_to_general_relativity#Classification_of_theories this list contains some classical ones.
+
+
+  "Now one of the insights of the mathematical investigation of space, is that there are two structures - the space of points and the space of contiguities ie its topology. This means that distant points can be connected directly without there being a propagating influence."
+
+
+Again, minor issue: To a contemporary mathematican, calling a mere set of points a structure sounds like calling a group of people (e.g. Madonna, Obama, Bob and you) a team. Dedekind said: "I imagine a set to be like a bag of things."* And then such a set is considered a space as soon as you equip it with a topology. This is still a broad notation compared to what one would usually take to be space. When you speak about propagation of the gravitational effect, the sense in which "points can be connected" by topology is rather loose. Topology is able to capture a sense of neighborhood (https://mathoverflow.net/questions/19152/why-is-a-topology-made-up-of-open-sets this MathOverflow thread is of interest) but it is also a lot broader than that. http://en.wikipedia.org/wiki/Connected_space Connectedness is a feature. You say they can be connected directly, but without some additional structure, such as a notion of distance, this sort of connection has not much effect. Conversely, a distance function (metric) induces a topology, but the topology induced by a classical metric hardly leaves space open for playing around. 
+
+*Cantor said: "I imagine a set to be like an abyss".
+
+
+  Does this mean that one should consider a radically different topology on quantum reality (which in Bohmian Mechanics is real) such that every point is connected? But in conventional topology this means that the topology is trivial.
+
+
+http://en.wikipedia.org/wiki/Characterizations_of_the_category_of_topological_spaces#Definition_via_open_sets By definition, the whole set is part of the topology in any case. 
+
+
+  Does this then mean one needs a 'quantum topology' that incorporates somehow the mechanics into quantum reality so that the topology is not trivial?
+
+
+Again, the notion lets one restrict the class of functions (one can restrict oneself to investigate continous function, a concept which depends on the choosen topology) but a topology alone doesn't do much on its own. Contemporary theories are build upon spaces which admit a map to R^n, and a spacetime metric alla general relativity produces topologies which are very classical. Nobody really knows how to improve this successfully, but of course, there are people who are of the opinion that the problem of matching the quantum world with the classical space concept is by not starting with space in the first place. I can't really say anything about the question if there is a natural topology for e.g. emergent gravity scenarios which differs much from the ones which are well investigated. I also don't know to what extend the notion is even necessary if e.g. spacetime is just the spectrum of an abstract operator. I think http://en.wikipedia.org/wiki/Noncommutative_geometry noncommutative geometry goes along these lines. Lastly, although this kind of work is arguably more far fetched than the already highly hypotetical attempts above, the autors of http://arxiv.org/abs/quant-ph/0703060 this paper argue for non-set foundations for physics and in the first two chapters, they give their arguments.
+Presocratics do not usually use the word episteme, they prefer gnosis. In Plato, episteme is regularly about the forms. The hypotheses that episteme is the same as perception, true opinion, or true opinion with an account, are all refuted. Plato uses gnosis relatively rarely, although he does use it of knowledge of the beautiful. For Heraclitus, “People are deceived about the gnosis of the obvious things”. For Aristotle, episteme is about the causes, represented in syllogistic deductions. Aristotle says that episteme may be distinguished into practical, productive, and theoretical, and that theoretical episteme into mathematical, physical, and theological. In Aristotle, episteme is often  translated as science. The Aristotelian term gnosis is used about particular facts, observable and unobservable. Episteme by contrast, sometimes refers to scientific knowledge or to a body of truths known. Mathematics or astronomy counts as episteme. Sometimes refers to crafts and disciplines that lack a demonstrative structure, but are also cases of episteme, a body of truths. Aristotle explicit comments are mostly about episteme, if we think of episteme as continuous with the philosophy of science. Aristotle says that all animals share some kind of gnosis because they all have the faculty of perception. In general, in old Greece Gnosis means more knowledge by perception, particular facts, episteme means more knowledge by systematic study or demonstration. In the New Testament, gnosis appears with the sense of spiritual knowledge. In later Greek writers, it is used especially of esoteric knowledge.
+According to part 3 (Theory of Perception) of the http://plato.stanford.edu/entries/democritus/ Stanford Encyclopedia of Philosophy's Democritus page, his eidola argument is based on his atomist views.  
+
+
+  Democritus' theory of perception depends on the claim that eidôla or images, thin layers of atoms, are constantly sloughed off from the surfaces of macroscopic bodies and carried through the air. Later atomists cite as evidence for this the gradual erosion of bodies over time. These films of atoms shrink and expand; only those that shrink sufficiently can enter the eye. It is the impact of these on our sense organs that enables us to perceive.
+
+Yes
+
+The total number of humans that have graced this earth: roughly 100 billion
+
+The total number of attempts at a theory of everything: probably 500-1000 billion.
+
+I would argue that every individual has tried and failed several times, because it is human nature.
+
+Consider what the purpose of a "theory of everything" is.  Most definitions of "theory" imply that it must be testable -- thus a theory of everything must be testable by future tests.  Since it's a theory of everything, it must predict all future events.
+
+Now at some point, most individuals contemplate the eternal.  Religion spends a great time pontificating on the eternal... its a popular topic.  To contemplate the eternal and one's life in one gulp calls for a theory of everything.  This is pretty darn important if you want to make sure you pick the right religion!
+
+Of course, so far either 100% of these theories have been wrong, or all but one have been wrong (depending on whether you believe your current religion's theory is right or not).  We don't give up; we pick our selves up and try it again!
+
+I would feel comfortable with the claim that every individual has gone through 5 or 6 "theories of everything" before they finish puberty, simply relying on anecdotal evidence.
+
+The tricky bit, of course, is that some of these theories look less like what you might expect a "theory of everything" to look like.  Many of them include things like "God knows all" or "What goes around comes around."  These are fuzzy phrases, but they are not any less a "theory of everything" than the infamous Grand Unified Theory of physics would be.
+
+In fact, there are three famous "theories of everything" which you may be familiar with:
+
+
+Physicalism - Everything obeys "natural laws."
+Idealism - Everything is a mind with "freewill."
+Dualism - Some things are physical, others are minds
+
+
+One could easily argue these are theories of everything, though one is a little pressed for details.  All of them certainly have predictive capacity.
+No upvoted answers, so I figured I'd give it a go. There is a thought in Christian philosophy that says that the world is not of God's substance.
+
+A derivative of the Latin word http://plato.stanford.edu/entries/substance/ substantia is found in the phrase "consubstantialem Patri" in the http://www.preces-latinae.org/thesaurus/Symbola/Nicaenum.html Nicene Creed, referring to Jesus, that is the "Word of God" ("Logos"). It is made pretty clear in the creed though that while Word is of the same substance as God, everything else that was created is different. 
+
+Where this becomes important in the Christian tradition is that God is unintelligible by creatures - we cannot run science experiments on the devine. But nature is intelligible by creatures. Joseph Ratzinger (later known as Benedict XVI) wrote about how the intelligibility of nature is pre-requisite to doing science (a summary of the argument can be found http://www.wordonfire.org/WoF-Blog/WoF-Blog/March-2012/Philosophy-Intelligibility-and-the-Natural-World.aspx here, couldn't find a more direct reference). In this school of thought, if the world was made of God's substance, scientific inquiry would be impossible.
+The "reference". 
+
+The sign signifies the signified.
+
+The reference refers to the referent.
+I think conception of something generally refers to those things that we abstract from approved writings or sometimes through unreliable source which might not be authentic.That might be a reason , we sometimes realize that we are understanding that particular thing differently than what it really is.Conception of something depends on our way of understanding that something and setting it in our mind.
+
+Meanwhile, theory of something is proved, reliable ,authentic, practised writings which is outcome of long term rational analysing and processing of different hypothesises .Theory of something might be universal as well.Its one of the major sources of gaining conception of that thing.
+
+Making conception of a thing is a lot easier than making it recognised as a theory.
+Sure.  In certain modal logics, the concepts of necessity and possibility are taken as quantifications over those worlds that are accessible to a world, which allows us to say things like "necessarily, P, but not necessarily necessarily P".
+
+If we have a semantics in which there is a value assigned to a given world (let's say the number of cute fuzzy bunnies in that world), we can talk about the value of that measure in all of the accessible worlds (all of the possible ways things might be only have so many cute fuzzy bunnies).  The choice function that says we can pick out an accessible world that maximises that value (we want "a world with the greatest number of fuzzy bunnies") follows from the semantics.
+
+Now what this line doesn't give you is an algorithm - it is just an existence property, rather than a generative procedure, as is common with most choice functions.  To make this more palatable, you would need a more precise account of why some worlds are accessible and others are not.  For instance, just what is it in virtue of which a certain number of fuzzy bunnies might exist?  Arguably that's a matter of the science of the measured value, rather than pure philosophy. In my case ecology, presumably.
+
+For a more careful and considered notion of what it would mean to create a more Just world, say, you would really need to look at empirical political and social science, and what they tell you about how positive change can be brought about.  (but more fuzzy bunnies would be a good start)
+No, this is not possible, because velocity is defined as distance divided by speed. In the SI system there are some non-derived base units, like time, distance, etc., but velocity is not one of these:
+
+
+  The seven SI base units and the interdependency of their definitions. Clockwise from top: kelvin (temperature), second (time), metre (length), kilogram(mass), candela (luminous intensity), mole(amount of substance) and ampere (electric current). The second of time, kelvin and kilogram are defined independently of any other base units. The metre is defined in terms of the speed of light, so depends upon the definition of the second. The definitions of the other base units are more complicated.
+  
+  (http://en.m.wikipedia.org/wiki/International_System_of_Units http://en.m.wikipedia.org/wiki/International_System_of_Units)
+
+
+There is an answer talking about the speedometer in a car. However, the speedometer always slips a little bit and is therefore not accurate. Also, the speedometer essentially measures voltage, and they have a formula for velocity depending on voltage. This formula is not derived from the definition of velocity but from an earlier measurement of... distance and time. 
+
+The doppler effect which is used by GPS tracking systems mentioned in the other answer is based on a phase difference in the received GPS signals which is caused by a different distance to the satellites on different moments. So essentially this method uses distance and speed as well. 
+
+The highway patrolmen mentioned in the comments measure time over a predetermined (short) distance. 
+Platos theory of Forms is expanded, criticised and defended most fully in his late dialogue Parmenides. One of the themes of this dialogue is to understand the relationship of the Forms and the World. 
+
+(At least to me, the theory of Forms is a Pythagorean theme that was picked up by Plato).
+
+At one point Socrates considers the Forms as being immanent in Nature, this is picked up and expanded by Aristotle in his Physics and Metaphysics as hylomorphism, which is a considered as an indivisible union of form and substance. This appears to connect with Hegels notion (begriff).
+
+Its a curious feature of the Parmenidian Dialogue that he mentions the master/slave relationship as an Idea; this ties this dialogue in some way with Hegel, as he infamously/famously describes this as a dialectic.
+
+Another theme of the dialogue, is a sustained meditation on the One vs the Many; that this is a contrary pair, is yet another Pythagorean theme. At one point a question is raised are the Ideas/Forms themselves, One or Many; as the Forms participate in each other. 
+
+As One, it's compared from the All or Whole (that which has parts); two themes treated again by Aristotle; and also from the Infinite (that which is not finite, the finite being understood as that being traversable) again treated by Aristotle.
+There are significant differences betweens the epistemologies of Locke and Aristotle.
+
+For one thing, they differ as to what the objects of knowledge are. For Aristotle, what we know are essences; how we know them are that we abstract the form of a substance. For Locke, we know secondary qualities and infer primary qualities. To invoke a different vocabulary, Aristotle is thus a realist about essences and Locke is not.
+
+To summarize, they share the idea that knowledge begins in the senses. But they define knowledge very differently, because they have divergent metaphysics and different ideas of the role of perception in knowledge.
+
+I do not think Locke's empiricism is directly inspired by Aristotle though it might be mediated by Locke having learned some scholastic philosophy (though on that point I am speculating).
+Of course it has, but not in some clear, fundamental shift. Aesthetics first became a central topic for philosophy with Kant, and shortly thereafter Hegel correctly diagnosed its "death."
+
+By this Hegel did not mean that art would cease to be made and enjoyed. But it could no longer serve as the basis of human development in the Greek or Christian manner, a centrality henceforth to reside in the modern constitutional state, civil society, and the philosophies that rationalize them.
+
+And whither art? While "art" appears more visible than ever, it requires ever more mediation through "theory" or the market to retain a social vitality. It dissolves on the one side into high "concept" and on the other into low, mass "commodity," where it is subjected to critical and sociological theories of commodification, etc.
+
+In general, art became subsumed under "language" in philosophical practices. On the analytical side, art per se no longer held much philosophical interest, with exceptions like Nelson Goodman or Arthur Danto. On the Continental side in the wake of phenomenology, Heidegger essentially dissolved philosophy itself into poetic description. After all, if there is no "real substance" beyond the subject-centered phenomena for philosophy to explicate, then what is philosophy except "redescription"?
+
+There is a great deal of very interesting philosophical work on art, high and low. It continues to be a "topic" for philosophy and critical theory. But the higher hopes for a redeeming aesthetic expressed by Schelling or even the young Hegel in "The Oldest System Programme" appear today the both quaint and tragic.       
+Interesting question.
+
+For all three of them material and formal cause are important, and this was true for Aristotles predecessors.
+
+Aristotle argued that final cause was another distinct cause, though it often collapses to the others; his main defence for it appears to be predicated on the order found in nature.
+
+I'm not sure about Boyle or Galileo; but according to the http://plato.stanford.edu/entries/spinoza-physics/ SEP Spinoza following Descarte rejected final cause as the cause of order found in nature, and claimed it was an efficient cause - but wasn't entirely successful in removing all aspects of finalism in his cosmology:
+
+
+  Spinozas physical theory appears to exploit an irreducible element of finalism, and to accord an important role to individual bodily essences.
+
+
+In this he differed from his main influence: Descarte who held that:
+
+
+  Descartes held that final cause is useless in Physics, not because physical nature is not in fact teleological but because our finite understanding cannot hope to understand the divine will, hence cannot grasp the purposes with which nature is imbued. 
+
+Exhausting plane geometric figures by triangles is named triangulation. 
+
+In dimensions higher than two, i.e. for not necessary plane figures, the generalisation of triangles is named simplices. This leads to the mathematical concept of homology, which in the 20th century developed into Algebraic Topology. 
+Conifold's answer seems right on target. But if not, is the term you are thinking of Lewis's "Modal Realism"?
+
+Also, though Leibniz seems to be saying the opposite, he does in some sense speak of an infinity of divinely "possible worlds" that "demand existence," but are necessarily reduced to one "actual" world as the "best possible" world that can "actually" exist, given God's optimal choices. 
+
+Like many things with a 17th-century baroque curvature, this seems almost to reflect into its opposite: the "maximum possible" actualization of all possibilities. Not what you were thinking of, probably, though not impossible.     
+
+  if we don't exist does the knowledge disappear?
+
+
+Yes. Knowledge is a subjective concept, and so without subjects to do the "knowing", there is no knowledge.  
+
+
+  Is all knowledge dependent on culture? how to define knowledge to our own perspective?
+
+
+Most educated "laymen" would put forward the intuitive argument that empirical facts are objective and therefore culture/subject independent, and value and ethical statements are subjective and dependent on cultural background. 
+
+Consider however the https://en.wikipedia.org/wiki/Pirah%C3%A3_language#Numerals_and_grammatical_number Pirahã, who don't have concepts of cardinal and ordinal numbers, and who, because of their language, https://en.wikipedia.org/wiki/Pirah%C3%A3_language#Pirah.C3.A3_and_linguistic_relativity might not be capable of numeracy at all. For someone from the Pirahã people, a lot of seemingly empirical and objective facts to someone from another culture might appear completely different.  
+
+This extreme case illustrates the https://en.wikipedia.org/wiki/Duhem%E2%80%93Quine_thesis Quine-Duhem thesis, that all observations are ultimately theory laden, including those we https://philosophy.stackexchange.com/questions/24795/to-what-extent-are-observations-theory-laden think are indisputably objective. Although the idea that everything is theory laden was developed mainly within the context of the underdetermination of scientific theories, one could easily extend the principle to show that knowledge in general is always language and theory dependent, and therefore culture dependent. 
+
+Derrida offers a similar idea, but using a different approach, with his concepts of https://en.wikipedia.org/wiki/Diff%C3%A9rance différance  and https://en.wikipedia.org/wiki/Deconstruction deconstruction. Roughly speaking, Derrida establishes that terms in a language have meaning only relative to other terms, they never have inherent meaning. Again it is straightforward to extend this to the context of culture: Knowledge is based on meaning, and meaning is relative and therefore culture dependent, and so the same applies to knowledge.
+
+Some in the scientific community have taken issue with this, feeling that the whole "Knowledge is culture dependent/everything is a social construct" idea has been taken too far by various thinkers and philosophers. Things came to a head with Alan Sokal's publication of a http://www.physics.nyu.edu/sokal/transgress_v2/transgress_v2_singlefile.html parody paper mocking such viewpoints, in what became know as https://en.wikipedia.org/wiki/Sokal_affair the Sokal Affair.   
+It depends on what you mean by "nothing". Modern physics has shown that empty space has energy ("dark energy") and other properties suggesting that it is "something", even though by any ordinary standards an empty void would be considered "nothing". Physics may indeed be able to explain why, given empty space as we know it, there is something of substance in that space. However, there are the further questions of why space has those particular features, and why there is space at all (and whether this last question even makes sense to ask). These questions are beyond science at least as it exists today.
+
+I don't think philosophy has much chance at addressing this either, except to investigate the meaningfulness of the questions themselves.
+For Kant, a tree falling in a forest will make a sound in so far as every necessary condition for it making a sound has been given. In the Critique of Pure Reason, he generally extends both causality and the principle of sufficient reason to all possible experience (A195/B240 [1] and A201/B246 [2])[*] such that, for any possible event, it's conditions to occur must have been given in the world. He also took causality for granted on a fragment [3] dating to 1788, immediatelly after the publication of the second edition of the CPR.
+
+Now, compare the problem of a falling tree with Hume's problem of whether the sun will rise tomorrow given that it has risen every single day before. For Hume, our expectation that it ought to rise is completely due to our generalization of the past experience. For Kant, if the sun happens to not rise one morning, it should very well have a darn good reason not to, because otherwise such an event would violate those two principles.
+
+On the other hand, it isn't impossible that a falling tree doesn't make a sound when no one is around for entirely empirical reasons but, just like it isn't impossible that the sun should explode overnight, we have no evidence to suggest that this is the case and thus we cannot think to ourselves that it might be without violating these principles, as whatsoever happens in the world ought to have a cause in the world. In anyway, the way this question is presented never suggests that humans ought to be considered a relevant empirical condition for it making a sound or not, but as a purely metaphysical question.
+
+The bit about whether it makes a sound or not if no one has the relevant categories to perceive this event is a different question. Because, if the event in question isn't merely not perceived, but imperceptible, it wouldn't be an object in any possible experience and thus nothing could ever be said about it with any degree of certainty.
+
+[*] With the caution of not extending their domain to the whole of experience, which would lead to the Third Antinomy of Pure Reason (A488/B516)[4].
+
+
+
+Relevant Quotes:
+
+
+  If, therefore, we experience that something happens, then we always
+  presuppose that something else precedes it, which it follows in accordance with a rule.
+
+
+[1] Kant, Immanuel. "Critique of Pure Reason". Cambridge University Press, 1998. p 308.
+
+
+  This rule for determining something with respect to its
+  temporal sequence, however, is that in what precedes, the condition is
+  to be encountered under which the occurrence always (i.e., necessarily)
+  follows. Thus the principle of sufficient reasond is the ground of possible experience, namely the objective cognition of appearances with regard to their relation in the successive series of time
+
+
+[2] Kant, Immanuel. "Critique of Pure Reason". Cambridge University Press, 1998. p 311.
+
+
+  Further, no alteration in the world (thus no beginning of that motion)
+  can arise without being determined by causes in the world in accordance
+  with laws of nature in general, thus not through freedom or a miracle
+  proper;
+
+
+[3] Kant, Immanuel. On Miracles. "Notes and fragments". Cambridge University Press, 2005. pp 290-291.
+
+
+  [...], if you assume that in everything that happens in the world
+  there is nothing but a sequence occurring according to laws of nature,
+  then the causality of the cause is always once again something that happens, and that necessitates your regress to still higher causes, and hence
+  the prolonging of the series of conditions a parte priori without cessation. Mere efficient nature in the synthesis ofworld-events is thus too
+  big for all your concepts.
+  
+  If you choose now and then to admit occurrences produced from
+  themselves, hence generated through freedom, then by an unavoidable law of nature the question "Why?" will pursue you, and require
+  you, in accord with the causal laws of experience, to go beyond this
+  point; then you will find that such a totality of connection is too small
+  for your necessary empirical concept.
+
+
+[4] Kant, Immanuel. "Critique of Pure Reason". Cambridge University Press, 1998. p 509.
+Wittgenstein never changed his opinion about Cantor's set theory.
+
+Imagine set theory's having been invented by a satirist as a kind of parody on mathematics. – Later a reasonable meaning was seen in it and it was incorporated into mathematics. (For if one person can see it as a paradise of mathematicians, why should not another see it as a joke?) [V. 7]
+
+If it were said: "Consideration of the diagonal procedure shews you that the concept 'real number' has much less analogy with the concept 'cardinal number' than we, being misled by certain analogies, inclined to believe", that would have a good and honest sense. But just the opposite happens: one pretends to compare the "set" of real numbers in magnitude with that of cardinal numbers. The difference in kind between the two conceptions is represented, by a skew form of expression, as difference of extension. I believe, and I hope, that a future generation will laugh at this hocus pocus. [II.22]
+
+The curse of the invasion of mathematics by mathematical logic is that now any proposition can be represented in a mathematical symbolism, and this makes us feel obliged to understand it. Although of course this method of writing is nothing but the translation of vague ordinary prose. [V.46]
+
+"Mathematical logic" has completely deformed the thinking of mathematicians and of philosophers, by setting up a superficial interpretation of the forms of our everyday language as an analysis of the structures of facts. Of course in this it has only continued to build on the Aristotelian logic. [V.48]
+
+[L. Wittgenstein: "Remarks on the foundations of mathematics", Wiley-Blackwell (1991)]
+
+The expression "and so on" is nothing but the expression "and so on". [p. 282]
+
+There is no such thing as "the cardinal numbers", but only "cardinal numbers" and the concept, the form "cardinal number". Now we say "the number of the cardinal numbers is smaller than the number of the real numbers" and we imagine that we could perhaps write the two series side by side (if only we weren't weak humans) and then the one series would end in endlessness, whereas the other would go on beyond it into the actual infinite. But this is all nonsense. [p. 287]
+
+"This proposition is proved for all numbers by the recursive procedure". That is the expression that is so very misleading. It sounds as if here a proposition saying that such and such holds for all cardinal numbers is proved true by a particular route, or as if this route was a route through a space of conceivable routes. But really the recursion shows nothing but itself, just as periodicity too shows nothing but itself. [p. 406]
+
+In mathematics description and object are equivalent. "The fifth number of the number series has these properties" says the same as "5 has these properties". The properties of a house do not follow from its position in a row of houses; but the properties of a number are the properties of a position. [p. 457]
+
+After all I have already said, it may sound trivial if I now say that the mistake in the set-theoretical approach consists time and again in treating laws and enumerations (lists) as essentially the same kind of thing and arranging them in parallel series so that one fills in gaps left by the other. [p. 461]
+
+[L. Wittgenstein: "Philosophical grammar", Basil Blackwell, Oxford (1969)]
+
+[...] there is no path to infinity, not even an endless one. [...] All right, the path must be endless. But if it is endless, then that means precisely that you can’t walk to the end of it. That is, it does not put me in a position to survey the row. (Ex hypothesi not.) [§ 123]
+
+It isn't just impossible "for us men" to run through the natural numbers one by one; it's impossible, it means nothing. [...] you can't talk about all numbers, because there's no such thing as all numbers. [§ 124]
+
+There's no such thing as "all numbers" simply because there are infinitely many. [§ 126]
+
+The infinite number series is only the infinite possibility of finite series of numbers. It is senseless to speak of the whole infinite number series, as if it, too, were an extension. [...] If I were to say "If we were acquainted with an infinite extension, then it would be all right to talk of an actual infinite", that would really be like saying, "If there were a sense of abracadabra then it would be all right to talk about abracadabraic sense perception". [§ 144]
+
+Set theory is wrong because it apparently presupposes a symbolism which doesn't exist instead of one that does exist (is alone possible). It builds on a fictitious symbolism, therefore on nonsense. [§ 174]
+
+[L. Wittgenstein: "Philosophical remarks", Wiley-Blackwell (1978)]
+
+  Do the expressions of pure mathematics express anything about objects
+
+
+There is a wide-ranging field of mathematics that does talk 'objects'. This is category theory, it actually arose from what would be usually termed pure mathematics - algebraic topology. Philosophically, one can't understand it without comparing it to set theory; whereas set theory posits sets themselves as the basic ontological entity with relations as a secondary, derived concept; category theory takes relations as the basic ontological concept with sets as derived. 
+
+However, as this leads to rather round-about circumlocutions it's generally taken to have a two level ontology, objects and relations (they actually call them arrows or morphisms - but here I wanted to clarify their conceptual status). 
+
+One might think this is merely a transposition of nomenclature; I mean, a set is called an object, and a function is called an arrow - so one might ask, has anything new been added here; sure,  it has led to conceptual clarifications in mathematics - which points to at least one philosophical point about mathematical logic, and also about set and category theory; this is - before it is about logic or ontology, it is about mathematics. 
+
+Given the slant of the question it's worth adding that sets are extensional, this means merely that it is constituted by its elements; objects are not like this - remember, they aren't sets; and to discover what they are one has to 'probe' them; if one is interested in discovering their 'elements' (if they have any) one probes them by a 'point' (a zero object); but they may have further structure which isn't apparent if one merely probes with the point; a good example here, is the real line equipped with its topology; if one probes by the point one discovers all the real numbers - the points of the real number line; but by this method one can't discover the topology; and the topology is important, it's what makes it what Weyl called it - a continuum. 
+
+
+  are the bearers of mathematical identity (e.g. the being number one of that number) themselves objects. 
+
+
+This is the crux of your question, and unfortunately nothing I have said so far - be it about set or category theory - sheds real light on this question; what light they shed, is on mathematics per se, and not on ontology - though note I used the word ontology above - this was merely a matter of convenience - and was said to posit what it is I was talking on or about, and to define, roughly, their dependencies and inter-relations. It's not ontology in the authentic ontological sense proper to it.
+
+I suppose one conceptual clarification is that when a someone says such or such a number exists what does he mean? He might mean several things depending on what philosophical school he may adopt - formalism, platonic, intuitionistic or nominalism; perhaps it might mean you ask your question in relation to these schools of thought; for example, it's worth noting that formalism is a species of nominalism; one might object to this, and say, given the lack of philosophical consensus that formalism settles on meta-mathematical principles about what we must/ought to agree on about the mathematical entities per se; and one could argue, from this view, formalism isn't nominalist but merely evades the ontological question and not as an evasionary tactic, but as a way to advance the subject by clarifying the philosophical position.
+No. Time is a defined unit of measurement. The second is defined as the duration of 9 192 631 770 periods of the radiation corresponding to the transition between the two hyperfine levels of the ground state of the cesium 133 atom at 0 K. This is an intrinsic property of a single cesium atom. As per http://physics.nist.gov/cuu/Units/http://physics.nist.gov/cuu/Units/second.html http://physics.nist.gov/cuu/Units/http://physics.nist.gov/cuu/Units/second.html:
+
+
+  The unit of time, the second, was defined originally as the fraction
+  1/86 400 of the mean solar day. The exact definition of "mean solar
+  day" was left to astronomical theories. However, measurement showed
+  that irregularities in the rotation of the Earth could not be taken
+  into account by the theory and have the effect that this definition
+  does not allow the required accuracy to be achieved. In order to
+  define the unit of time more precisely, the 11th General Conference on
+  Weights and Measures (CGPM)) (1960) adopted a definition given by the
+  International Astronomical Union which was based on the tropical year.
+  Experimental work had, however, already shown that an atomic standard
+  of time-interval, based on a transition between two energy levels of
+  an atom or a molecule, could be realized and reproduced much more
+  precisely. Considering that a very precise definition of the unit of
+  time is indispensable for the International System, the 13th CGPM
+  (1967) decided to replace the definition of the second by the
+  following (affirmed by the International Committee on Weights and
+  Measures in 1997 that this definition refers to a cesium atom in its
+  ground state at a temperature of 0 K):
+  
+  The second is the duration of 9 192 631 770 periods of the radiation
+  corresponding to the transition between the two hyperfine levels of
+  the ground state of the cesium 133 atom.
+
+
+If you were to measure the duration of 9 192 631 770 periods of the radiation corresponding to the transition between the two hyperfine levels of the ground state of the cesium 133 atom at 1 K (one degree above absolute zero as opposed to absolute zero), you would get a slightly different answer, but you wouldn't be measuring time as it is currently defined unless you corrected for the temperature difference. 
+
+The twin "paradox" in special relativity doesn't change this. The paradox presumes that both twins have clocks based on the same unit of time. That the twins are traveling in two different inertial reference frames, one at rest and one traveling at close to the speed of light, say, doesn't change the physical properties of either clock. 
+Interestingly, if all instances of an abstract object have been destroyed, we tend to use the word lost, not destroyed: 
+
+
+"Some of his works have been permanently lost."
+
+
+We usually use destruction in the context of the instances, not the abstract object:
+
+
+"The king ordered all copies of the text to be destroyed."
+
+
+We talk about the destruction of abstract objects if they are shown as seriously flawed:
+
+
+"Russell destroyed Frege's naïve set theory."
+
+
+But does "destruction" (as you described it) make sense in this context? Probably not. The flaws were always there, just not discovered. And "destroyed" (in that sense) abstract objects are not necessarily "lost" (in the sense "all instances were destroyed"): We can still inform ourselves about Frege's naïve set theory. "Destroyed" theories might even still be "used" (if just as an example what can go wrong).
+
+If we really want to talk about the destruction of abstract objects, as you describe it (analogous to physical destruction), at a minimum, it would require change of an abstract object.
+
+But can we take change of abstract objects really serious? Sure, we talk about how chess changed over the centuries. But this seems to be just a manner of speech. In reality it says that people started to play a different version of chess.
+
+So it seems abstract objects cannot be destroyed in a way that is even remotely analogous to physical destruction.
+It is more than that. Even if we take the https://en.wikipedia.org/wiki/The_Assayer#Mathematics_and_philosophy_in_The_Assayer Galileo's metaphor literally, he is suggesting that there is a language of mathematics, specifically geometry, not that mathematics, as such, is a language:
+
+
+  "Philosophy is written in this grand book — I mean the universe — which stands continually open to our gaze, but it cannot be understood unless one first learns to comprehend the language and interpret the characters in which it is written. It is written in the language of mathematics, and its characters are triangles, circles, and other geometrical figures, without which it is humanly impossible to understand a single word of it..."
+
+
+There are languages of physics, art, jurisprudence, etc., but they are not themselves "languages". Whether we take the dictionary description of "language" as a method of communication, or as a system of symbols for it, mathematics is not just that. It is also a discipline, a structured practice in human communities, "a motley of techniques and proofs", as Wittgenstein put it. Even on purely linguistic aspects it is fair to say what would not have been apparent in Galileo's time, that there are multiple mathematical languages. Euclid summarized one of them, which dominated until 17th century, although Diophantus, Indians, and Islamic algebraists made significant additions to it before Cardano's and Vieta's transformation. Today, despite the efforts of Russell and Bourbaki, languages of mathematics as spoken are not parts of a single universal tongue, say the first order language of ZFC set theory, although large portions of them are translatable into it. There are alternative tongues too, like the category theory or constructivism.
+
+But Galileo meant more than a language in his metaphor, invoking the medieval notion of enchanted nature, the https://en.wikipedia.org/wiki/Book_of_Nature Book of Nature, through which God is first known. He had in mind a particular philosophy of language and reality, where Nature was indeed written for human reading, and mathematical notions faithfully reflected their hidden counterparts in Nature, to be uncovered by "interrogating" it experimentally. This idea, albeit with a different method of discovery, shows already in the Pythagorean "everything is a number", and has modern supporters like Tegmark, who echos Galileo in telling us that "external reality is [not "is described by"!] mathematics (more specifically, a mathematical structure)", see https://philosophy.stackexchange.com/questions/32253/how-can-the-physical-world-be-an-abstract-mathematical-structure How can the physical world be an abstract mathematical structure? 
+
+But there is also an alternative to this Pythagorean/Platonist version of Galileo's dictum, which developed since Kant, a phenomenalist one. While the idea that human, all too human, mathematics underwrites reality "in itself" was non-sensical to phenomenalists, that mathematical languages are uniquely suited for expressing our experience of it, because they line its very texture, seemed far more plausible. Peirce and Husserl, two turn of the 20th century philosophers who were mathematicians by training, and stood at the very origins of the modern analytic/continental divide, developed this idea largely independently of each other. According to Peirce, all reasoning is diagrammatic (broadly construed), and mathematics is the science of pure diagrams (the vast expansion of Kant's schemata), it thus becomes the first philosophy, and the source of scientific structures. Early Husserl held a similar view, of mathematizable a priori structures revealed in categorial intuition of experience, but he changed his mind between the two editions of Logical Investigations. As https://books.google.com/books/about/Diagrammatology.html?id=fmYhudVu5rQC Stjernfelt comments in Diagrammatology:
+
+
+  "...in the first issue, it was seen as a major phenomenological task to describe vague forms in exact mathematical language – in the second issue, this task was given up in favor of the idea of ‘vague essences’ in experience which are assumed impossible to map mathematically. Why Husserl gave up that central idea is hard to say – it has not necessarily any inner connection to the well-known ‘transcendental’ turn..."
+
+
+Even earlier life philosophers, like Dilthey and Bergson, already disputed that mathematical or natural scientific language is adequate for expressing lived experiences. Analytic tradition went with Peirce and neo-Kantians in affirming a phenomenalist version of Galileo's dictum, while continental tradition went with Husserl and life philosophers in restricting the scope of Galileo's Nature and its language, to exclude (at least) ethics, arts and humanities. It is interesting however that in his last book, https://books.google.com/books?id=AcwR-Vsp4KkC&source=gbs_navlinks_s Pursuit of Truth, Quine is reluctantly acquiescing to some such restriction:
+
+
+  "I conclude that the propositional attitudes de re resist annexation
+  to scientific language, as propositional attitudes de dicto do not... Still the mentalistic predicates, for all their vagueness, have long interacted with one another, engendering age-old strategies for predicting and explaining human action. They complement natural science in their incommensurable way, and are indispensable both to the social sciences and to our everyday dealings."
+
+
+To appreciate this passage fully one should keep in mind that to Quine "indispensable" signifies an ontological committment, that was why he admitted mathematical sets and numbers themselves into ontology after his early nominalist days, see https://philosophy.stackexchange.com/questions/34144/does-quines-dissolution-of-the-analytic-synthetic-distinction-challenge-mathema/34155#34155 Does Quine's dissolution of the Analytic/Synthetic distinction challenge mathematical realism?
+Perhaps you may look to the Hegelian Lectures on Aesthetics. 
+As Hegel's philosophy is regarded Objective Idealism his analysis of the beautiful or of art includes an objective element.
+
+
+  Now when truth in this its external existence [Dasein] is present to
+  consciousness immediately, and with the concept remains immediately in
+  unity with its external appearance, the Idea is not only true but
+  beautiful. Beauty is determined as the sensible shining of the Idea.
+
+
+from wiki:
+
+
+  Hegel's Aesthetics is regarded by many as one of the greatest
+  aesthetic theories to have been produced since Aristotle.
+
+
+https://en.wikipedia.org/wiki/Lectures_on_Aesthetics https://en.wikipedia.org/wiki/Lectures_on_Aesthetics
+
+https://en.wikipedia.org/wiki/Objective_idealism https://en.wikipedia.org/wiki/Objective_idealism
+The earliest instance known is from the Rig Veda (verse 1.164.46) several thousand years B.C. It says "Ekam Sat Vipra Bahudha Vadanti" - "Truth [meaning Supreme Being or God] is One, men call It by various names". There are several other references in the Rig Veda to both monotheism and monism. 
+Your formulation "this is the fact of the matter" is similar to Wittgenstein's formulation in the Tractatus of the most general form of a proposition: "This is how things stand" (Tractatus Logico-Philosophicus 4.5) - However, your formulation seems to include a statement of the appended proposition's truth, and this is the way we often speak, in propositions and yet also referring to our certainty about those propositions. I think perhaps this is why Wittgenstein may have needed to reconsider how extensive his application of the ideas in the Tractatus could be to the practice of philosophy in general - though his ideas may have been plainly well thought-out, the right application of those ideas may not be universal, and in order to make sense of ordinary language usage, in particular, we may need to provide for a network of usages of language more complex than propositions, by themselves. For example, what your question raises, for me, is the idea that we do not always simply speak in terms of propositions in Wittgenstein's general form of "this is the way things stand"; we also give assertions of our relative certainty or lack of confidence in those propositions. "This is the fact of the matter" seems to me to imply certainty built into the general form of a proposition, "this is the way things stand" (in Wittgenstein's formulation)
+I believe that when the observation is limited to the projection, part of the information about the original object is lost. Therefore, it will not be possible to determine with any certainty the nature of the tree.
+The statistical methods used for the determination of the hidden parameters from the observed ones prevent the complete certainty about a single result.
+Originally mathematics, namely Euclidean geometry, counting and the four basic arithmetical operations is a branch of physics. The basic activity is finding labels (numbers) for sets of material bodies while properties like shape, mass, colour, etc. are disregarded. Same activity can be observed in other sciences, for instance classifying in botany or geology. All results of this mathematics can be experimentally verified.
+
+Also higher mathematics like analysis belongs to physics and sciences. This understanding has prevailed until far into the 19th century as can be seen from the fact that most universities have faculties of "sciences and mathematics" and mathematicians have lectured about theoretical physics (Cantor for instance lectured about mechanics).
+
+In principle the whole contents of mathematics can be reduced to this scientific basis, namely to the handling of integers - as far as real mathematics is concerned. But mathematics without abbreviations would be very elaborate and tedious.
+
+Simple examples: 2^3 = 2*2*2 = (2 + 2) + (2 + 2), and 2 = { } U {{ }} U {{ } U {{ }}}.
+
+Harder examples 7^7^7 = ..., and 7 = ...
+
+Therefore lots of abbreviations have been invented. And some mathematicans believe that these abbreviations stem from or belong to a "higher sphere". Like priests of the god of thunder have thought about their profession.
+Assuming that the translation is correct, first write all definitions. 
+
+Ignorance: lack of knowledge or information.
+
+Epistemology: the theory of knowledge, especially with regard to its methods, validity, and scope. Epistemology is the investigation of what distinguishes justified belief from opinion. 
+
+Phenomenon: a fact or situation that is observed to exist or happen, especially one whose cause or explanation is in question. 
+
+So "ignorance is an epistemological phenomenon" means that lack of knowledge is something that arises from either our own theory of knowledge, or separating justified beliefs from opinions. 
+
+The entire quote could be taken in two ways: 1) We already know the truth and questioning only leads to ignorance, or 2) Our lack of knowledge only exists because we try to separate truth from interpretation, i.e., there's no such thing as knowledge separate from perception. Either way, if you already know everything, or if you can't ever know anything, it seems pretty pointless, according to the author, to think about knowledge. The statement is in itself a theory of knowledge, but since it is a declaration and offers no reasons it is consistent within its own epistemology. 
+The only mention of "loose" and "dense" philosophy that I have run across is within Rosicrucian Philosophy where the following distinction is applied:
+
+'... humanity today is divided into two classes - those in whom the connection between the vitai body and the dense body is very close and another class where the connection is more loose."
+
+In summary -
+The dense class is engaged in more material pursuits.
+The loose class is engaged in more spiritual pursuits.
+
+I realize that many may not take Rosicrucian Philosophy seriously and perceive it as being esoteric.  But it is the only place where the terms "dense" and "loose" seem to appear (at least in my experience).
+
+Accepting this, I would say the image expresses "dense" philosophy.
+First, and I know this is somewhat subjective, I dislike the distinction between "soft" and "hard" science. When it boils down to it, all science is "soft" because at best we can https://philosophy.stackexchange.com/questions/47043/why-does-science-carry-so-much-weight-in-philosophy-when-it-is-highly-fallacious/47078#47078 falsify our theories. The issue with many social sciences is that it is hard to construct formal experiments or repeat an experiment, but we can still collect data to build more robust theories and to knock down old ones.
+
+Now, as for application of hard sciences like physics and chemistry to "soft sciences" like psychology and sociology, the answer is fairly simple. It is because there is a sort of hierarchy from more foundational sciences to more derived sciences.
+
+Physics drives chemical reactions. The reasons why certain molecules form, energy is released or absorbed during reactions, etc is all a matter of the physics of atoms. Biology is driven by chemical reactions. Thought is a manifestation, as best as we can tell, of the brain, a biological component of the body. With humans, behavior of individuals, couples together in social interactions in a meaningful way, and so our psychology and biology drive culture, group behavior, and so on. 
+
+Basically, while we might be able to understand the "what," such as "what do humans do when they interact" without these more foundational sciences, we cannot really understand the how or the why unless we look at the mechanisms which underlie them. So rather than being silly that "soft science" uses "hard science," it is necessary. 
+
+Example
+
+This connection does not mean that one can easily throw any theory from physics at more derived fields of study. However, there are cases where there is a direct enough connection. For instance, evolution is essentially a stochastic process, modulated by environment and energy dynamics. There are fairly direct theories connecting thermodynamics to biology. Specifically, Jeremy England has proposed that looking at entropy within an open system (usually entropy is thought of in terms of closed systems) within an energy bath, it seems that "life" is really natural consequence of thermodynamics (https://www.quantamagazine.org/a-new-thermodynamics-theory-of-the-origin-of-life-20140122/ Quantum Magazine).
+Like all terms in philosophy, these have different senses in different contexts and between different philosophers. I think actually the common contrasts are between singular and general and between universal and individual or particular. 
+
+A singular term is one that refers to just one object : e.g. 'the Great Pyramid', 'the Eiffel Tower', 'the tallest person in the world'. A general term by contrast applies in principle to any number of objects : e.g. 'planet', 'star', 'dog'.
+
+A universal is a property, attribute or feature that is possessed by all members of a collection or set. Thus redness is a property possessed by all red objects. 
+A particular or individual is an example or instantiation of (to keep to the example) redness - this patch of red two inches to your left. 
+
+'Individual' is a particularly tricky word, however - not that any of them are quite straightforward. An individual can be a particular as above but it can also be something which is indivisible at some level or under some description. 
+
+Just ask if you need further clarification. 
+It depends on what you mean by 'can'. Logically, I suppose this is possible. There is no contradiction in saying 'X is a new branch of science and it is utterly new', i.e. without precedent or prefiguration in existing or previously existing science. 
+
+Historically and empirically, there are few or no absolute beginnings in science. One science emerges from another. I think this happens in two broadly different ways. 
+
+▻ Revolutions in a field of inquiry create new conceptual schemes
+
+Think of physics. There is the physics of Aristotle, then the physics of Ptolemy, then the physics of Copernicus, then the physics of Newton, then of Einstein, then of quantum theory, now of string theory. In each case a conceptual revolution occurred that created in all but name a new science. And each revolution happened because of perceived defects in previous theories. 
+
+▻ Progressive refinement
+
+What starts out as a gross, undifferentiated subject matter breaks down into sub-inquiries : in physics, for example, astronomy, dynamics, mechanics, optics,  and any number of other fields progressively emerged. New fields of inquiry separated themselves as distinct groups of problems were recognised. But they all developed from existing inquiries.
+
+▻ New combinations
+
+Plainly the intersectional or bridge disciplines such as bio-chemistry, bio-physics, &c. could only emerge from pre-existing sciences.
+We can see the long discussion of continuum into:
+
+Hermann Weyl, https://quantitability.files.wordpress.com/2013/04/hermann-weyl-the-continuum-a-critical-examination.pdf The Continuum: A Critical Examination of the Foundations of Analysis (German ed., 1917), page 88-94.
+
+In a nutshell, Weyl asserts that it is impossible to furnish the continuum as presented to intuition with an exact mathematical formulation.
+
+His philosophival analisys is influenced by Husserl and phenomenolog and is focused on the continuum of immediately given phenomenal time:
+
+
+  [page 88] In order better to understand the relation between an intuitively given continuum and the concept of number (the above example having revealed the discrepancy between the two), let us stick to time as the most fundamental continuum. And in order to remain entirely within the domain of the immediately 
+  given, let us adhere to phenomenal time (rather than to objective time), i.e., to that constant form of my experiences of consciousness by virtue of which they appear to me to flow by successively. 
+  
+  [page 90] Now, I think that everything we are demanding here is obvious nonsense: to these questions, the intuition of time provides no answer. So the theoretical clarification of the essence of time's continuous flow is not 
+  forthcoming. The category of the natural numbers can supply the foundation of a mathematical discipline. But perhaps the continuum cannot, since it fails to satisfy the requirements mentioned in Chapter 1, §1: as basic a notion as that of the point in the continuum lacks the required support in intuition. It is to 
+  the credit of Bergson's philosophy to have pointed out forcefully this deep division between the world of mathematical concepts and the immediately experienced continuity of phenomenal time ("la durée").
+  
+  [page 91] The view of a flow consisting of points and, therefore, also dissolving into points turns out to be false. Precisely what eludes us is the nature of the continuity, the flowing from point to point; in other words, the 
+  secret of how the continually enduring present can continually slip away into the receding past. 
+  
+  [page 94] Exact time- or space-points are not the ultimate, underlying, atomic elements of the duration or extension given to us in experience. On the contrary, only reason, which thoroughly penetrates what is experientially given, is able to grasp those exact ideas. 
+  
+  The exhibition of a single point is impossible. Further, points are not individuals and, hence, cannot be characterized by their properties. (Whereas the "continuum" of the real numbers consists of genuine individuals, that of the time- or space-points is homogeneous.) Therefore, points and sets of points can be defined only relative to (i.e., as functions of) a coordinate system, never absolutely. (The coordinate system is the unavoidable residue of the eradication of the ego in that geometrico-physical world which reason sifts from the given 
+  using "objectivity" as its standard-a final scanty token in this objective sphere that existence is only given and can only be given as the intentional content of the processes of consciousness of a pure, sense-giving ego.) 
+
+
+
+
+Very useful are also: https://plato.stanford.edu/entries/weyl/#DasKon Hermann Weyl's *Das Kontinuum as well as: John Bell, http://publish.uwo.ca/~jbell/Weyl%20paper.pdf Hermann Weyl: Mathematician-Philosopher and John Bell, https://philpapers.org/rec/BELHWO Hermann Weyl on intuition and the continuum.
+“Perhaps in putting together our picture of the world there are many paths we could have taken. How, though, could we ever tell? We can think of each experiment and its interpretation as a fork in the road. Decision by decision we are pushed into new regions in the space of possibilities. Before long, we have ventured so far in one direction that it is all but impossible to go back. Our search for truth has carried us out along a single branch of the tree of knowledge until we are so far out on a single twig at the end of a certain limb that we are powerless to imagine how it could be otherwise.    
+
+Perhaps the patterns we discern are neither universal nor arbitrary, but the result of the intersection between our nervous systems and some kind of real world. Borrowing from Kant, we might begin to explain the seeming effectiveness of science and mathematics like this: We have these wired-in neurological filters (Kant called them the “a priori”) constantly sifting the barrage of sensory impressions. Then it is the result of the sifting that we study. All else is ignored. Thus the patterns we find tell us as much about the filters as about the filtered. There is something a bit tautological about this. Perhaps when the phenomena of the universe seem to obey mathematical laws, it is because one product of the nervous system - mathematics - is recognising another: the filtered sensory impressions. We are seeing the shadows of our own brains.” 
+
+George Johnson
+Fire in the Mind 
+Penguin, London 1997 (p 6/324)
+
+“It is necessary to keep reminding ourselves that all knowledge of our environment from which the world of physics is constructed, has entered in the form of messages transmitted along the nerves to the seat of consciousness. Obviously, the messages travel in code. When messages relating to a table are traveling in the nerves, the nerve-disturbance does not in the least resemble either the external table that originates the mental impression or the conception of the table than arises in consciousness. 
+    In the central clearing station the incoming messages are sorted and decoded, partly by instinctive image-building inherited from the experience of our ancestors, partly by scientific comparison and reasoning. By this very indirect and hypothetical inference all our supposed acquaintance with and our theories of a world outside us have been built up. We are acquainted with the external world because its fibres run into our consciousness; it is only our own ends of the fibres that we actually know; from those ends, we more or less successfully reconstruct the rest, as a palaeontologist reconstructs extinct monsters from its footprints.“
+
+Sir Arthur Eddington
+In Ken Wilbur
+Quantum Questions (p185)
