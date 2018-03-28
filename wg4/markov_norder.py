@@ -1,4 +1,5 @@
 import sys, random, collections, os, re
+from nltk import word_tokenize
 
 # Since we split on whitespace, this can never be a word
 NONWORD = "\n"
@@ -21,8 +22,10 @@ class Markov():
     # Generate table
     def generate_table(self, filename):
         for line in open(filename):
-            for word in re.split(r' ', line):
+            # for word in re.split(r' ', line):
+            for word in word_tokenize(line):
                 if word != NONWORD:
+                    word = word.lower()
                     self.table[tuple(self.seen)].append(word)
                     self.seen.append(word)
         self.table[tuple(self.seen)].append(NONWORD)  # Mark the end of the file
@@ -35,9 +38,11 @@ class Markov():
 
         if seed:
             self.seen = collections.deque(seed, self.order)
+            print(self.seen)
             # self.seen.extend(seed)
             try:
                 word = random.choice(self.table[tuple(self.seen)])
+                print(self.table[tuple(self.seen)])
             except IndexError as e:
                 print("Seed is not found in the corpus.")
                 self.seen.extend([NONWORD] * self.order)
@@ -45,15 +50,15 @@ class Markov():
             self.seen.extend([NONWORD] * self.order)  # clear it all
 
         for i in range(max_words):
-                word = random.choice(self.table[tuple(self.seen)])
-                #print(word)
-                if word == NONWORD:
-                    exit()
-                if i % newline_after == 0:
-                    output += word + '\n'
-                else:
-                    output += word + ' '
-                self.seen.append(word)
+            word = random.choice(self.table[tuple(self.seen)])
+            #print(word)
+            if word == NONWORD:
+                exit()
+            if i % newline_after == 0:
+                output += word + '\n'
+            else:
+                output += word + ' '
+            self.seen.append(word)
         #print('Output:', output)
         return output
 
@@ -71,4 +76,4 @@ m = Markov(order=3)
 #m.walk_directory('./pres-speech/clinton')
 #m.generate_output(max_words=50, seed=['they','thank','of'])
 # TODO crete different order network
-# aiml  
+# aiml

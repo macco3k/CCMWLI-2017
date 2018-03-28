@@ -3,9 +3,11 @@
 # https://github.com/sixhobbits/python-telegram-tutorial/blob/master/part1/echobot.py
 
 import json
+import random
 import requests
 import time
 import urllib
+from nltk import word_tokenize
 import markov_norder
 from markov_norder import Markov
 from config import token
@@ -14,6 +16,8 @@ from config import token
 
 TOKEN = token # don't put this in your repo! (put in config, then import config)
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
+
+GREETINGS = ["Hello", "Hi", "Hi there", "Greetings", "Hey"]
 
 m = Markov(order=3)
 
@@ -60,12 +64,15 @@ def handle_updates(updates):
             text = update["message"]["text"]
             #print(text)
             chat = update["message"]["chat"]["id"]
-            if text.upper() == "hi".upper():
-                send_message("Hello", chat)
-            elif  "your name".upper() in text.upper():
-                send_message("My name is Veesimsim.", chat)
+            if "hi" in text.lower():
+                send_message(random.choice(GREETINGS) + ",", chat)
+
+            if  "your name" in text.lower():
+                send_message("My name is veesimsim.", chat)
             else:
-                mess = m.generate_output(max_words=100, newline_after=101, seed=text.split())
+                text = text.lower()
+                text_tokens = word_tokenize(text)
+                mess = m.generate_output(max_words=100, newline_after=101, seed=text_tokens)
                 send_message(mess, chat)
             # items = db.get_items()
             # if text in items:
