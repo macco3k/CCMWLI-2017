@@ -20,7 +20,7 @@ class Markov():
 
     # Generate table
     def generate_table(self, filename):
-        for line in open(filename):
+        for line in open(filename, 'r', encoding='utf-8'):
             for word in re.split(r' ', line):
                 if word != NONWORD:
                     self.table[tuple(self.seen)].append(word)
@@ -40,20 +40,20 @@ class Markov():
                 word = random.choice(self.table[tuple(self.seen)])
             except IndexError as e:
                 print("Seed is not found in the corpus.")
-                self.seen.extend([NONWORD] * self.order)
+                self.seen.extend(random.choice(list(self.table.keys())))
+                # self.seen.extend([NONWORD] * self.order)
         else:
             self.seen.extend([NONWORD] * self.order)  # clear it all
 
         for i in range(max_words):
-                word = random.choice(self.table[tuple(self.seen)])
-                #print(word)
-                if word == NONWORD:
-                    exit()
-                if i % newline_after == 0:
-                    output += word + '\n'
-                else:
-                    output += word + ' '
-                self.seen.append(word)
+            word = random.choice(self.table[tuple(self.seen)])
+            if word == NONWORD:
+                exit()
+            if newline_after is not None and i % newline_after == 0:
+                output += word + '\n'
+            else:
+                output += word + ' '
+            self.seen.append(word)
         #print('Output:', output)
         return output
 
