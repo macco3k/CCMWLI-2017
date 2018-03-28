@@ -5,7 +5,7 @@ NONWORD = "\n"
 
 class Markov():
     """
-    This basically parse the text through a fixed-size sliding window (the order param).
+    This basically parses the text through a fixed-size sliding window (the order param).
     A dict stores a mapping between n-grams of size=order and the word coming right next.
     At generation time, the dictionary is queried for possible words in the following loop:
         - first, the most probable next word is chosen given the last seen n-gram
@@ -65,7 +65,7 @@ class Markov():
             # print('\t%s' % fname)
 
 
-m = Markov(order=3)
+# m = Markov(order=3)
 
 # m.walk_directory('./pres-speech')
 #m.walk_directory('./pres-speech/clinton')
