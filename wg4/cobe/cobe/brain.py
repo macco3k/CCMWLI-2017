@@ -34,13 +34,13 @@ class Brain:
     # in the tokens table
     SPACE_TOKEN_ID = -1
 
-    def __init__(self, filename):
+    def __init__(self, filename, order=3):
         """Construct a brain for the specified filename. If that file
         doesn't exist, it will be initialized with the default brain
         settings."""
         if not os.path.exists(filename):
             log.info("File does not exist. Assuming defaults.")
-            Brain.init(filename)
+            Brain.init(filename, order)
 
         with trace_us("Brain.connect_us"):
             self.graph = graph = Graph(sqlite3.connect(filename))
