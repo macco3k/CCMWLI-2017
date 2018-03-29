@@ -36,32 +36,38 @@ class Markov():
     def generate_output(self, max_words=100, newline_after=10, seed=None):
         output = ''
 
-        self.update_order(1)
-        if (seed):
-            seed = [seed[0]]
+        # INPUT: [life, universe, meaning]
+        # MAIN IDEA: start with order 1 (just pick up one of the words according to some score, e.g tfidf), and query the
+        # network. Now we have a 2-words seed. Go to the next order net, and pick the third word. Now have a 3-words seed.
+        # Go on unitil you reach the max order. That's your seed, start generating the output from there using the max-order
+        # network.
+
+        # self.update_order(1)
+        # if (seed):
+        #     seed = [seed[0]]
+        # else:
+        #     seed = [NONWORD]
+
+        # if self.order < 5:
+        #
+        #     if i is not self.order-1:
+        #         print("updating order to", i+1)
+        #         self.update_order(i+1)
+
+        if seed:
+            self.seen = collections.deque(seed, self.order)
+            self.seen.extend(seed)
+            if seed not in list(self.table.keys()):
+                print("Seed is not found in the corpus.")
+                # just select a random seed
+                self.seen.extend(random.choice(list(self.table.keys())))
+                # seed = []
+                # self.seen.extend([NONWORD] * self.order)
         else:
-            seed = [NONWORD]
+            self.seen.extend(random.choice(list(self.table.keys())))
+            # self.seen.extend([NONWORD] * self.order)  # clear it all
+
         for i in range(max_words):
-
-            if self.order < 5:
-
-                if i is not self.order-1:
-                    print("updating order to", i+1)
-                    self.update_order(i+1)
-
-                if seed:
-                    self.seen = collections.deque(seed, self.order)
-                    # self.seen.extend(seed)
-                    try:
-                        word = random.choice(self.table[tuple(self.seen)])
-                    except IndexError as e:
-                        print("Seed is not found in the corpus.")
-                        self.seen.extend(random.choice(list(self.table.keys())))
-                        seed = []
-                        # self.seen.extend([NONWORD] * self.order)
-                else:
-                    self.seen.extend([NONWORD] * self.order)  # clear it all
-
             word = random.choice(self.table[tuple(self.seen)])
             if word == NONWORD:
                 exit()
@@ -71,8 +77,9 @@ class Markov():
                 output += word + ' '
             self.seen.append(word)
 
-            if self.order < 5:
-                seed.append(word)
+        # if self.order < 5:
+        #     seed.append(word)
+
         #print('Output:', output)
         return output
 
