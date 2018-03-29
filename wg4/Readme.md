@@ -27,16 +27,28 @@ For both problems, i.e. clustering questions by topic and understanding the user
 # Implementation details
 For the final implementation, we had the following pipeline:
 
-1. perform data preprocessing. This includes stemming and associating each question which the 'best' answer, be it the accepted one or the one with the highest votes count.
-1. parse the resulting output in order to build a corpus of bow-documents. These will be used as input for the generation of the LDA model.
-1. generate the LDA model with a fixed number of topics (in our case, 10).
-1. create one file per topic, containing all the answer to questions belonging to that topic according to the model.
-1. train a different network on each of these files. Each network will represent a topic's bot.
-1. at runtime, parse the user's question in the same way as we did for the documents, and extract its main topic.
-1. pick the bot responsible for that topic and generate some reply.
+1. Perform data preprocessing. This includes standard nlp techniques such as stemming, stopwords and punctuation removal, etc. The final result is saved in a csv file for later use.
+1. Associate each question which the 'best' answer, be it the accepted one or the answer with the highest vote-count. In order to do this we joined each question by using pandas `merge` function, thus getting a refined dataframe.
+1. Process the resulting output in order to build a corpus of bow-documents usable for the LDA model training.
+1. Generate the LDA model with a fixed number of topics (in our case, 10).
+1. Based on such model, categorize each question into one topic.
+1. Create a text file per topic, containing all the answers to questions belonging to that topic according to the model.
+1. Train a different markov network on each of these files. Each network will act as the topic's bot.
+1. At runtime, parse the user's question in the same way as we did for the documents, and extract its main topic.
+1. Pick the bot responsible for that topic and generate some reply.
 
 # Comments
 We tried different versions of the networks, using the base implementation we were provided with and a more sophisticated library which we slightly adapted to our case (the original can be found at https://github.com/pteichman/cobe).
+
+Because of the way the inference process is implemented in the base version, there's no way to provide the network with a 'seed'. That is, to provide some context to boot it up with an n-gram from the query which would give the answer a bit of context. One solution we came up with was to generate different order networks, from 1 up to `order`, where order is the maximum order specified as a parameter of the network. As an initial seed, we picked part of the user's preprocessed query, i.e. a list of "keywords" (the first n-gram according to the order). If that could not be found, we fell back to lower order network, down to order 1. When finding a suitable order, we selected the corresponding n-gram (e.g. a unigram) as the new seed, and performed the same procedure in reverse. That is, we selected the higher order network to select the next word to output. The reasoning behind this being that, by moving to lower-order networks, we have a higher change of finding the seed, with the extreme case being that of selecting just a single word. From there, going back to higher-order networks means we try to recover some context by looking for longer n-grams. Unfortunately, this requires a lot more computation, as at runtime, all these networks needs to be either generated on-the-fly or at least queried (and also in the latter case, we need to generate the network at initialization time).
+
+** ADD EXAMPLES SCREENS **
+
+A second option was to rely on an external library (cobe), which already implemented a similar mechanism. The library builds both a forward and a backward versions of the same network. At query time, the network is traversed to find the best answer given some time-limit the user can provide (in our experiments, we set it to a couple of seconds). This traversal makes use of the user's query by selecting some pivot-words to seed the search. A number of answers are generated, with the best one being picked, according to a scoring system.
+
+** ADD EXAMPLES SCREENS **
+
+Performance in both cases was pretty low, though in the latter some more intelligible text could be produced, due to the smarter algorithm used by the library.
 
 * both performs pretty badly
 * it's hard to train a proper lda model -> not enough 'consistency' in questions.
