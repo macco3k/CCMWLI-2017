@@ -1,3 +1,5 @@
+Simge Ekiz(s4706757) - Katrin Bujari(s1005213) - Daniele Maccari (...)
+
 # Some preliminary ideas
 
 For a start-up, we had different questions to answer:
@@ -51,7 +53,7 @@ Examples:
 A second option was to rely on an external library (cobe), which already implemented a similar mechanism. The library builds both a forward and a backward versions of the same network. At query time, the network is traversed to find the best answer given some time-limit the user can provide (in our experiments, we set it to a couple of seconds). This traversal makes use of the user's query by selecting some pivot-words to seed the search. A number of answers are generated, with the best one being picked, according to a scoring system.
 
 ![Screen3](https://github.com/macco3k/CCMWLI-2017/blob/master/wg4/screenshots/3.png)
-![Screen4](https://github.com/macco3k/CCMWLI-2017/blob/master/wg4/screenshots/4.png)
+![Screen4](https://github.com/macco3k/CCMWLI-2017/blob/master/wg4/screenshots/5.png)
 
 Performance in both cases was pretty low, though in the latter some more intelligible text could be produced, due to the smarter algorithm used by the library.
 
