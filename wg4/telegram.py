@@ -27,25 +27,24 @@ GREETINGS = ["Hello", "Hi", "Hi there", "Greetings", "Hey"]
 URL_RE = re.compile('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+',re.IGNORECASE|re.DOTALL)
 TOKEN = token # don't put this in your repo! (put in config, then import config)
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
-ROOT_DIR = """D:/Documents/GitHub/CCMWLI-2017/wg4"""
-DATA_DIR = os.path.join(ROOT_DIR, 'data')
+ROOT_DIR = os.path.abspath(os.path.dirname(__file__))#"""D:/Documents/GitHub/CCMWLI-2017/wg4"""
+DATA_DIR = os.path.join(ROOT_DIR, 'data_hede')
 TRAIN_DIR = os.path.join(DATA_DIR, 'topics')
 
-
 class Telegram:
-    def __init__(self, order=5):
-        self.stopwords = set(stopwords.words('english')).union(set(['one', 'say', 'also', 'could', 'would', 'should', 'shall']))
-        self.order = order
 
-        topics = glob.glob(os.path.join(TRAIN_DIR, '*'))
-        num_topics = len(topics)
+    def __init__(self, order=5):
+        self.name = requests.get(URL + 'getme').json()['result']['username']
+        self.stopwords = set(stopwords.words('english')).union(set(['one', 'say', 'also', 'could', 'would', 'should', 'shall']))
+        self.bots = []
+        self.topics = glob.glob(os.path.join(TRAIN_DIR, '*'))
 
         # create one network per topic
-        self.bots = [Markov(self.order) for topic in range(num_topics)]
-        for i, topic in enumerate(topics):
+        for i, topic in enumerate(self.topics):
+            self.bots.append(Markov(topic, order))
             self.bots[i].generate_table(topic)
 
-        model_file = 'lda_{}.bin'.format(num_topics)
+        model_file = 'lda_{}.bin'.format(len(self.topics))
         model_path = os.path.join(DATA_DIR, model_file)
         if not os.path.isfile(model_path):
             raise FileNotFoundError('Model not found: {}. Be sure to train the LDA model before running the bot.'.format(model_file))
@@ -85,18 +84,33 @@ class Telegram:
         for update in updates["result"]:
             try:
                 text = update["message"]["text"]
-                #print(text)
                 chat = update["message"]["chat"]["id"]
-                if "hi" in text.lower():
-                    send_message(random.choice(GREETINGS) + ",", chat)
+                if any(greet.lower() in text.lower() for greet in GREETINGS):
+                    self.send_message(random.choice(GREETINGS) + ",", chat)
 
                 if  "your name" in text.lower():
-                    send_message("My name is veesimsim.", chat)
+                    self.send_message("My name is {}".format(self.name), chat)
+                    # self.send_message(random.choice(GREETINGS) + ",", chat)
                 else:
+
                     query_topic = self.get_query_topic(text)
                     bot = self.bots[query_topic]
-                    mess = bot.generate_output(max_words=100, newline_after=None, seed=text.split()[:self.order])
+
+                    text = text.lower()
+                    text = URL_RE.sub('', text)  # remove http links
+                    text = re.sub(r'([a-z0-9])\/([a-z0-9])', r'\1 \2', text)  # convert 'a/b' to 'a b'
+                    text = re.sub('[^a-z\s]', '', text)  # get rid of noise (punctuation, symbols, etc.)
+                    text = [w for w in word_tokenize(text) if w not in self.stopwords and len(w) > 3]
+
+                    # new_order = len(text)
+                    #
+                    # if bot.order is not new_order:
+                    #     bot.update_order(new_order)
+                    #     bot.generate_table(self.topics[query_topic])
+
+                    mess = bot.generate_output(max_words=100, newline_after=None, seed=text)
                     self.send_message(mess, chat)
+
                 # items = db.get_items()
                 # if text in items:
                 #     db.delete_item(text)
@@ -152,7 +166,7 @@ class Telegram:
 
         # for some reasons, single letters would end up in a topic (perhaps something to do with logical formulae).
         # Just remove everything below three-chars length
-        text = [stemmer.stem(w) for w in text.split() if w not in self.stopwords and len(w) > 3]
+        text = [stemmer.stem(w) for w in word_tokenize(text) if w not in self.stopwords and len(w) > 3]
 
         return text
 

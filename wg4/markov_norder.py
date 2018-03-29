@@ -14,8 +14,9 @@ class Markov():
           This is equivalent to a one-step slide of the window.
         - the loop is repeated
     """
-    def __init__(self, order=2):
+    def __init__(self, topic, order=1):
         self.order = order
+        self.topic = topic
         self.table = collections.defaultdict(list)
         self.seen = collections.deque([NONWORD] * self.order, self.order)
 
@@ -35,21 +36,32 @@ class Markov():
     def generate_output(self, max_words=100, newline_after=10, seed=None):
         output = ''
 
-        if seed:
-            self.seen = collections.deque(seed, self.order)
-            print(self.seen)
-            # self.seen.extend(seed)
-            try:
-                word = random.choice(self.table[tuple(self.seen)])
-                print(self.table[tuple(self.seen)])
-            except IndexError as e:
-                print("Seed is not found in the corpus.")
-                self.seen.extend(random.choice(list(self.table.keys())))
-                # self.seen.extend([NONWORD] * self.order)
+        self.update_order(1)
+        if (seed):
+            seed = [seed[0]]
         else:
-            self.seen.extend([NONWORD] * self.order)  # clear it all
-
+            seed = [NONWORD]
         for i in range(max_words):
+
+            if self.order < 5:
+
+                if i is not self.order-1:
+                    print("updating order to", i+1)
+                    self.update_order(i+1)
+
+                if seed:
+                    self.seen = collections.deque(seed, self.order)
+                    # self.seen.extend(seed)
+                    try:
+                        word = random.choice(self.table[tuple(self.seen)])
+                    except IndexError as e:
+                        print("Seed is not found in the corpus.")
+                        self.seen.extend(random.choice(list(self.table.keys())))
+                        seed = []
+                        # self.seen.extend([NONWORD] * self.order)
+                else:
+                    self.seen.extend([NONWORD] * self.order)  # clear it all
+
             word = random.choice(self.table[tuple(self.seen)])
             if word == NONWORD:
                 exit()
@@ -58,6 +70,9 @@ class Markov():
             else:
                 output += word + ' '
             self.seen.append(word)
+
+            if self.order < 5:
+                seed.append(word)
         #print('Output:', output)
         return output
 
@@ -67,6 +82,11 @@ class Markov():
             for fname in fileList:
                 self.generate_table(os.path.join(dirName, fname))
             # print('\t%s' % fname)
+
+    def update_order(self, new_order):
+        self.order = new_order
+        self.seen = collections.deque([NONWORD] * self.order, self.order)
+        self.generate_table(self.topic)
 
 
 # m = Markov(order=3)
