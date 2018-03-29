@@ -43,11 +43,15 @@ We tried different versions of the networks, using the base implementation we we
 Because of the way the inference process is implemented in the base version, there's no way to provide the network with a 'seed'. That is, to provide some context to boot it up with an n-gram from the query which would give the answer a bit of context. One solution we came up with was to generate different order networks, from 1 up to `order`, where order is the maximum order specified as a parameter of the network. As an initial seed, we picked part of the user's query If that could not be found, we fell back to lower order network, down to order 1
 Our chatbot takes an input from the user something 'what is life' and it searches the corpus then if it doesn't found in the corpus , it removes one word that has lower tf-idf score. for this example let's assume 'what' is dropped. Now it searches 'is life' in the corpus if it doesn't found again it drops one more word according to tf-idf score. This continue until the word is found in the corpus. If word doesn't found in the corpus we select random word. After we found some word or word sequence that exist in the corpus we start to increase the markov order to the some level that is specified before in our case it is 7. That is, we selected the higher order network to select the next word to output. The reasoning behind this being that, by moving to lower-order networks, we have a higher change of finding the seed, with the extreme case being that of selecting just a single word. From there, going back to higher-order networks means we try to recover some context by looking for longer n-grams. Unfortunately, this requires a lot more computation, as at runtime, all these networks needs to be either generated on-the-fly or at least queried (and also in the latter case, we need to generate the network at initialization time).
 
-** ADD EXAMPLES SCREENS **
+Examples:
+
+![Screen1](https://github.com/macco3k/CCMWLI-2017/blob/master/wg4/screenshots/1.png)
+![Screen2](https://github.com/macco3k/CCMWLI-2017/blob/master/wg4/screenshots/2.png)
 
 A second option was to rely on an external library (cobe), which already implemented a similar mechanism. The library builds both a forward and a backward versions of the same network. At query time, the network is traversed to find the best answer given some time-limit the user can provide (in our experiments, we set it to a couple of seconds). This traversal makes use of the user's query by selecting some pivot-words to seed the search. A number of answers are generated, with the best one being picked, according to a scoring system.
 
-** ADD EXAMPLES SCREENS **
+![Screen3](https://github.com/macco3k/CCMWLI-2017/blob/master/wg4/screenshots/3.png)
+![Screen4](https://github.com/macco3k/CCMWLI-2017/blob/master/wg4/screenshots/4.png)
 
 Performance in both cases was pretty low, though in the latter some more intelligible text could be produced, due to the smarter algorithm used by the library.
 
