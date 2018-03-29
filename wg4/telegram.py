@@ -11,6 +11,7 @@ import os
 import numpy as np
 import re
 
+from cobe.brain import Brain
 from markov_norder import Markov
 from config import token
 from gensim import models, corpora
@@ -36,17 +37,32 @@ class Telegram:
         topics = glob.glob(os.path.join(TRAIN_DIR, '*'))
         num_topics = len(topics)
 
-        # create one network per topic
-        self.bots = [Markov(self.order) for topic in range(num_topics)]
-        for i, topic in enumerate(topics):
-            self.bots[i].generate_table(topic)
-
         model_file = 'lda_{}.bin'.format(num_topics)
         model_path = os.path.join(DATA_DIR, model_file)
         if not os.path.isfile(model_path):
-            raise FileNotFoundError('Model not found: {}. Be sure to train the LDA model before running the bot.'.format(model_file))
+            raise FileNotFoundError(
+                'Model not found: {}. Be sure to train the LDA model before running the bot.'.format(model_file))
         else:
             self.model = models.ldamodel.LdaModel.load(model_path)
+
+        # create one network per topic
+        # self.bots = [Markov(self.order) for topic in range(num_topics)]
+        self.bots = []
+        for i, topic in enumerate(topics):
+            print('Generating bot for topic %s...' % i)
+
+            bot_file = 'bot_%s.brain' %i
+            bot = Brain(bot_file, order=self.order)
+
+            if os.path.isfile(bot_file):
+                print('Brain %s already there. Skipping it.' %bot_file)
+            else:
+                bot.learnfile([topic])
+
+            self.bots.append(bot)
+
+                # for i, topic in enumerate(topics):
+        #     self.bots[i].generate_table(topic)
 
     def get_url(self, url):
         response = requests.get(url)
@@ -90,7 +106,8 @@ class Telegram:
                 else:
                     query_topic = self.get_query_topic(text)
                     bot = self.bots[query_topic]
-                    mess = bot.generate_output(max_words=100, newline_after=None, seed=text.split()[:self.order])
+                    # mess = bot.generate_output(max_words=100, newline_after=None, seed=text.split()[:self.order])
+                    mess = bot.reply(text, loop_ms=5000)
                     self.send_message(mess, chat)
                 # items = db.get_items()
                 # if text in items:
@@ -136,6 +153,11 @@ class Telegram:
     def get_query_topics(self, query):
         query_ = self.model.id2word.doc2bow(self.preprocess(query))
         return self.model.get_document_topics(query_)
+
+    def get_topic_seed(self, topic, bot):
+        seed,_,_ = np.where()[0]
+        return bot.table[seed]
+
 
     def preprocess(self, text):
         stemmer = SnowballStemmer(language='english')
