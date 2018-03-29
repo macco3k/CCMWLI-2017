@@ -12,7 +12,7 @@ import os
 import numpy as np
 import re
 
-from cobe.brain import Brain
+#from cobe.brain import Brain
 from markov_norder import Markov
 from config import token
 from gensim import models, corpora
@@ -23,7 +23,8 @@ from nltk import word_tokenize
 # python3: urllib.parse.quote_plus
 # python2: urllib.pathname2url
 
-GREETINGS = ["Hello", "Hi", "Hi there", "Greetings", "Hey"]
+GREETINGS = ["Hello", "Hi", "Hey", "Greetings", "Hi there", "Hey there"]
+ENDCONVERSATION = ["Thanks","Thank you","Okay"]
 
 URL_RE = re.compile('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+',re.IGNORECASE|re.DOTALL)
 TOKEN = token # don't put this in your repo! (put in config, then import config)
@@ -34,9 +35,9 @@ TRAIN_DIR = os.path.join(DATA_DIR, 'topics')
 
 class Telegram:
 
-    def __init__(self, order=5):
-        self.order = order
-        self.name = 'Daniele'#requests.get(URL + 'getme').json()['result']['username']
+    def __init__(self):
+        # self.order = 1
+        self.name = requests.get(URL + 'getme').json()['result']['username']
         self.stopwords = set(stopwords.words('english')).union(set(['one', 'say', 'also', 'could', 'would', 'should', 'shall']))
         self.bots = []
         self.topics = glob.glob(os.path.join(TRAIN_DIR, '*'))
@@ -53,7 +54,7 @@ class Telegram:
         ####### BASE MARKOV NET ############
         # create one network per topic
         for i, topic in enumerate(self.topics):
-            self.bots.append(Markov(topic, order))
+            self.bots.append(Markov(topic))
             self.bots[i].generate_table(topic)
 
         ######## COBE's BRAIN IMPLEMENTATION ###########
@@ -110,41 +111,45 @@ class Telegram:
                 text = update["message"]["text"]
                 chat = update["message"]["chat"]["id"]
 
-                mess = self.get_reply(self.preprocess(text, stemming=False))
-                # new_order = len(text)
-                #
-                # if bot.order is not new_order:
-                #     bot.update_order(new_order)
-                #     bot.generate_table(self.topics[query_topic])
+                self.send_message('Let me think...', chat)
+
+                mess = self.get_reply(text)
 
                 # mess = bot.generate_output(max_words=100, newline_after=None, seed=text)
-                self.send_message('Let me think...', chat)
                 self.send_message(mess, chat)
-
-                # items = db.get_items()
-                # if text in items:
-                #     db.delete_item(text)
-                #     items = db.get_items()
-                # else:
-                #     db.add_item(text)
-                #     items = db.get_items()
-                # message = "\n".join(items)
 
             except KeyError:
                 pass
 
     def get_reply(self, text):
-        if any(greet.lower() in text.lower().split() for greet in GREETINGS):
-            return random.choice(GREETINGS)
 
-        if "your name" in text.lower():
-            return "My name is {}".format(self.name),
+        response = ''
+        text = text.lower()
+
+        if any(greet.lower() in text.split() for greet in GREETINGS):
+            response = random.choice(GREETINGS) + '!\n'
+            if len(text.split()) == 1:
+                return response
+
+        if "bye" in text:
+            response = "Bye, I hope to see you again!!"
+            if len(text.split()) == 1:
+                return response
+
+        if any(endcon.lower() in text.split() for endcon in ENDCONVERSATION):
+            response += "I hope I could help you."
+
+        if "your name" in text:
+            response += "My name is {}".format(self.name)
+
         else:
             query_topic = self.get_query_topic(text)
+            # print('Topic', query_topic)
             bot = self.bots[query_topic]
-            return bot.generate_output(max_words=100, newline_after=None, seed=text.split()[:self.order])
+            response += bot.generate_output(max_words=100, newline_after=None, seed=word_tokenize(text))
             # return bot.reply(text, loop_ms=5000, max_len=100)
 
+        return response
 
     def get_last_chat_id_and_text(self, updates):
         num_updates = len(updates["result"])
@@ -183,7 +188,6 @@ class Telegram:
         seed,_,_ = np.where()[0]
         return bot.table[seed]
 
-
     def preprocess(self, text, stemming=True):
         text = text.lower()
         text = URL_RE.sub('', text)  # remove http links
@@ -196,15 +200,15 @@ class Telegram:
             stemmer = SnowballStemmer(language='english')
             text = [stemmer.stem(w) for w in word_tokenize(text) if w not in self.stopwords and len(w) > 3]
         else:
-            text = [w for w in word_tokenize(text) if w not in self.stopwords and len(w) > 3]
+            text = word_tokenize(text)
 
         return text
 
 
 if __name__ == '__main__':
-    # Telegram().run()
-    telegram = Telegram(order=5)
-    question = 'What is the meaning of everything?'
-
-    print('Let me think...')
-    print(telegram.get_reply(question))
+    Telegram().run()
+    # telegram = Telegram(order=5)
+    # question = 'What is the meaning of everything?'
+    #
+    # print('Let me think...')
+    # print(telegram.get_reply(question))

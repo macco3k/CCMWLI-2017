@@ -1,7 +1,7 @@
 # Some preliminary ideas
 
 For a start-up, we had different questions to answer:
-* What training data? 
+* What training data?
 * What topic?
 * What model?
 
@@ -13,14 +13,14 @@ Ideally, a conversation would look like the following:
 `"Hi, My name is <botname>. I can do this and this and also that. To see a list of commands type /help."`
 
 `"Hello, I'm Daniele. Let's talk about existentialism"`
-  
+
 _...the bot look up existensialism in a db of tags..._
 
 `"That seems to be a pretty big topic. Can you be more specific?"`
 
 `"Something about Kierkegaard's vision of life?"`
 
-Of course, the major problem here is to find a way for the bot to understand the question. 
+Of course, the major problem here is to find a way for the bot to understand the question.
 
 For both problems, i.e. clustering questions by topic and understanding the user question, we need some metric to measure documents' similarity, so that we can e.g. find the main topic of a user's question and then pick the right bot for the topic. To define such a metric, we took a couple of approaches, the first based on word2vec (or glove) vectors, and the second on LDA. In the end, we decided to use LDA, as word2vec similarities proved to be unusable, probably also due to the high specificity of the subject at hand. For more details, see also the `process_and_train` notebook, which contains more extensive comments.
 
@@ -40,7 +40,8 @@ For the final implementation, we had the following pipeline:
 # Comments
 We tried different versions of the networks, using the base implementation we were provided with and a more sophisticated library which we slightly adapted to our case (the original can be found at https://github.com/pteichman/cobe).
 
-Because of the way the inference process is implemented in the base version, there's no way to provide the network with a 'seed'. That is, to provide some context to boot it up with an n-gram from the query which would give the answer a bit of context. One solution we came up with was to generate different order networks, from 1 up to `order`, where order is the maximum order specified as a parameter of the network. As an initial seed, we picked part of the user's preprocessed query, i.e. a list of "keywords" (the first n-gram according to the order). If that could not be found, we fell back to lower order network, down to order 1. When finding a suitable order, we selected the corresponding n-gram (e.g. a unigram) as the new seed, and performed the same procedure in reverse. That is, we selected the higher order network to select the next word to output. The reasoning behind this being that, by moving to lower-order networks, we have a higher change of finding the seed, with the extreme case being that of selecting just a single word. From there, going back to higher-order networks means we try to recover some context by looking for longer n-grams. Unfortunately, this requires a lot more computation, as at runtime, all these networks needs to be either generated on-the-fly or at least queried (and also in the latter case, we need to generate the network at initialization time).
+Because of the way the inference process is implemented in the base version, there's no way to provide the network with a 'seed'. That is, to provide some context to boot it up with an n-gram from the query which would give the answer a bit of context. One solution we came up with was to generate different order networks, from 1 up to `order`, where order is the maximum order specified as a parameter of the network. As an initial seed, we picked part of the user's query If that could not be found, we fell back to lower order network, down to order 1
+Our chatbot takes an input from the user something 'what is life' and it searches the corpus then if it doesn't found in the corpus , it removes one word that has lower tf-idf score. for this example let's assume 'what' is dropped. Now it searches 'is life' in the corpus if it doesn't found again it drops one more word according to tf-idf score. This continue until the word is found in the corpus. If word doesn't found in the corpus we select random word. After we found some word or word sequence that exist in the corpus we start to increase the markov order to the some level that is specified before in our case it is 7. That is, we selected the higher order network to select the next word to output. The reasoning behind this being that, by moving to lower-order networks, we have a higher change of finding the seed, with the extreme case being that of selecting just a single word. From there, going back to higher-order networks means we try to recover some context by looking for longer n-grams. Unfortunately, this requires a lot more computation, as at runtime, all these networks needs to be either generated on-the-fly or at least queried (and also in the latter case, we need to generate the network at initialization time).
 
 ** ADD EXAMPLES SCREENS **
 
