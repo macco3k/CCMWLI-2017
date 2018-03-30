@@ -8,7 +8,7 @@ For a start-up, we had different questions to answer:
 * What model?
 
 In the end, since we are generating a chatbot, we settled for a dump from the philosophy section of the stackexchange network (files can be found at https://archive.org/details/stackexchange). This way, even if the chatbot start blabbering nonsense, we can excuse him, as he's a philosopher after all :D
-With respect to the mode, we noted that while markov n-grams look nice for generating text, it's not really clear how to use them to actually answer questions. One intuitive solution would be to train one network per tag, or category, so that different networks could generate different texts based on the topic chosen by the user. Other, more complex models, e.g. seq2seq (https://github.com/farizrahman4u/seq2seq) and pattern-based approaches (https://en.wikipedia.org/wiki/AIML) were dropped for lack of time, though they would be very interesting to explore, in particular in combination.
+With respect to the model, we noted that while markov n-grams look nice for generating text, it's not really clear how to use them to actually answer questions. One intuitive solution would be to train one network per tag, or category, so that different networks could generate different texts based on the topic chosen by the user. Other, more complex models, e.g. seq2seq (https://github.com/farizrahman4u/seq2seq) and pattern-based approaches (https://en.wikipedia.org/wiki/AIML) were dropped for lack of time, though they would be very interesting to explore, in particular in combination.
 
 Ideally, a conversation would look like the following:
 
