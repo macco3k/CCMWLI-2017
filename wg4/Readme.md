@@ -1,4 +1,4 @@
-Simge Ekiz(s4706757) - Katrin Bujari(s1005213) - Daniele Maccari (...)
+Simge Ekiz (s4706757) - Katrin Bujari (s1005213) - Daniele Maccari (s4711262)
 
 # Some preliminary ideas
 
@@ -30,7 +30,7 @@ For both problems, i.e. clustering questions by topic and understanding the user
 For the final implementation, we had the following pipeline:
 
 1. Perform data preprocessing. This includes standard nlp techniques such as stemming, stopwords and punctuation removal, etc. The final result is saved in a csv file for later use.
-1. Associate each question which the 'best' answer, be it the accepted one or the answer with the highest vote-count. In order to do this we joined each question by using pandas `merge` function, thus getting a refined dataframe.
+1. Associate each question with the 'best' answer, be it the accepted one or the answer with the highest vote-count. In order to do this we joined each question by using pandas `merge` function, thus getting a refined dataframe.
 1. Process the resulting output in order to build a corpus of bow-documents usable for the LDA model training.
 1. Generate the LDA model with a fixed number of topics (in our case, 10).
 1. Based on such model, categorize each question into one topic.
