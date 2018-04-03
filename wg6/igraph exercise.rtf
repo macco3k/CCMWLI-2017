@@ -1,0 +1,89 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf810
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red255\green255\blue255;\red0\green0\blue0;
+}
+{\*\expandedcolortbl;;\cssrgb\c20000\c20000\c20000;\cssrgb\c100000\c100000\c100000;\cssrgb\c0\c0\c0;
+}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl340\partightenfactor0
+
+\f0\fs24 \cf0 Employees in a factory were asked the following question: \'93Do you like to work with your co-worker?\'94 Possible answers are 1 for yes and 0 for no. Each employee gave an answer for each other employee, thus creating an adjacency matrix.\
+\
+The exercises below can be done in igraph ({\field{\*\fldinst{HYPERLINK "http://igraph.org/"}}{\fldrslt http://igraph.org/}}), either in R or python (or C/C++ :). I\'92ve given a quick start in R.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+1. Load the data and create an unweighted directed graph from the adjacency matrix. Name the nodes as letters A to Y. Set node color to yellow and shape to sphere. Set the edge\'92s color to gray and arrow size to 0.2.\
+
+\f1\fs22 \
+\pard\pardeftab720\sl340\partightenfactor0
+\cf0 install.packages("igraph")\
+library(\'93graph\'94)
+\f0\fs24 \
+\pard\pardeftab720\sl240\partightenfactor0
+
+\f1\fs22 \cf2 \cb3 \expnd0\expndtw0\kerning0
+d <- read.csv("sociogram-employees-un.csv", header=FALSE)\
+g <- graph.adjacency(as.matrix(d), mode="directed")\
+V(g)$name <- LETTERS[1:NCOL(d)]\
+V(g)$color <- "yellow"\
+V(g)$shape <- "sphere"\
+E(g)$color <- "gray"\
+E(g)$arrow.size <- 0.2
+\f0\fs24 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+2. Plot the graph.\
+\
+\pard\pardeftab720\sl240\partightenfactor0
+
+\f1\fs22 \cf2 \cb3 \expnd0\expndtw0\kerning0
+plot(g)
+\f0\fs24 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+3. Calculate network diameter and average closeness. (This might be useful: {\field{\*\fldinst{HYPERLINK "http://igraph.org/r/doc/"}}{\fldrslt http://igraph.org/r/doc/}})\
+\
+4. Calculate average network betweenness.\
+\
+5. Calculate network density and average degree.\
+\
+6. Calculate network reciprocity and average transitivity.\
+\
+7. Calculate average eccentricity of the vertices. What is the average distance between two nodes?\
+\
+8. Find the hubs and plot graph with node\'92s size according to their hubs index. Which employee is the biggest hub?\
+\
+9. Find the authorities and plot graph with node\'92s size according to their authority index. Which employee is the biggest authority?\
+\
+10. Show the nodes comprising the diameter. Plot these nodes larger and in red. Plot edges on this path thicker in red.\
+\
+Part 2: Now make an 
+\b undirected 
+\b0 graph from the same data, and use for the following exercises.\
+\
+11. \cf4 \cb3 \expnd0\expndtw0\kerning0
+Find the largest cliques in the group.\
+\
+12. How many maximal cliques are there?\
+\
+13. Calculate the network cohesion.\
+\
+14. Find the clusters based on betweenness.\
+\
+15. Find the components of the graph.\
+\
+16. Find the loop edges.\
+\
+17. How many triangles are there in the graph? In how many of them is vertex 
+\b S
+\b0  included?\
+\
+18. What is the global clustering coefficient of this network? Can we say that clustering is statistically significant for this network? 
+\i Tip: Check if the clustering coefficient is much larger than a random network with the same number of vertices and edges.
+\i0 \
+\
+19. Make and graph a small-world network.\
+\
+\
+Original assignment by Miodrag Sljukic.}
