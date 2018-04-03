@@ -1,8 +1,12 @@
-
 GoogleNews-vectors-negative300.bin.gz
-*.bin
 *.pdf
 config
+data_hede
+
+# Data files
+*glove.6B.300d*
+
+config.py
 
 .DS_Store
 wg4-chatbot
