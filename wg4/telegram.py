@@ -30,7 +30,7 @@ URL_RE = re.compile('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-
 TOKEN = token # don't put this in your repo! (put in config, then import config)
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 ROOT_DIR = os.path.abspath(os.path.dirname(__file__))#"""D:/Documents/GitHub/CCMWLI-2017/wg4"""
-DATA_DIR = os.path.join(ROOT_DIR, 'data')
+DATA_DIR = os.path.join(ROOT_DIR, 'data_hede')
 TRAIN_DIR = os.path.join(DATA_DIR, 'topics')
 
 class Telegram:

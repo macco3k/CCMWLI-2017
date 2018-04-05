@@ -113,6 +113,7 @@ class Markov():
                         self.update_order(len(seed))
                         self.seen = collections.deque(seed, self.order)
                         self.seen.extend(seed)
+                        output += ' '.join(seed) + ' '
                         # Leave the loop and proceed to prepare the output
                         break
             else:
